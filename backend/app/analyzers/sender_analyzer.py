@@ -36,9 +36,9 @@ def analyze_sender(
         "sender_domain_has_digits": int(domain_has_digits(from_domain)),
         "sender_domain_has_hyphen": int(domain_has_hyphen(from_domain)),
         "sender_subdomain_count": subdomain_count(from_address.split("@")[-1] if "@" in from_address else from_domain),
-        "from_reply_mismatch": int(bool(reply_domain) and not domains_match(from_address, reply_to_address)),
-        "from_return_mismatch": int(bool(return_domain) and not domains_match(from_address, return_path)),
-        "from_message_id_mismatch": int(bool(msgid_domain) and not domains_match(from_address, message_id)),
+        "from_reply_mismatch": int(bool(reply_domain) and from_domain != reply_domain),
+        "from_return_mismatch": int(bool(return_domain) and from_domain != return_domain),
+        "from_message_id_mismatch": int(bool(msgid_domain) and from_domain != msgid_domain),
         "lookalike_domain_score": lookalike_domain_score(from_domain),
     }
 

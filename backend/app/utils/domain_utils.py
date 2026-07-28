@@ -38,7 +38,11 @@ def extract_domain(address_or_url: str) -> str:
         ext = tldextract.extract(address_or_url)
         if ext.domain and ext.suffix:
             return f"{ext.domain}.{ext.suffix}"
-        return ext.domain or address_or_url
+        # Fallback for local or non-public-suffix hosts such as example.
+        address_or_url = re.sub(r"^[a-z]+://", "", address_or_url)
+        address_or_url = address_or_url.split("/")[0]
+        parts = address_or_url.split(".")
+        return ".".join(parts[-2:]) if len(parts) >= 2 else address_or_url
 
     # Fallback without tldextract: strip scheme/path, take last two labels
     address_or_url = re.sub(r"^[a-z]+://", "", address_or_url)
@@ -70,6 +74,14 @@ def is_punycode(host: str) -> bool:
     return "xn--" in (host or "").lower()
 
 
+def _normalize_label_for_lookalike(s: str) -> str:
+    leet = {"0": "o", "1": "l", "3": "e", "5": "s", "4": "a", "7": "t", "8": "b"}
+    s = (s or "").lower()
+    s = "".join(leet.get(c, c) for c in s)
+    s = re.sub(r"[^a-z0-9]", "", s)
+    return s
+
+
 def is_ip_address(host: str) -> bool:
     return bool(re.match(r"^\d{1,3}(\.\d{1,3}){3}$", host or ""))
 
@@ -89,23 +101,28 @@ def lookalike_domain_score(domain: str, brand_list=None) -> float:
         return 0.0
     brand_list = brand_list or KNOWN_BRAND_DOMAINS
     if domain in brand_list:
-        return 0.0  # exact legitimate match, not a lookalike
+        return 0.0
 
     core_domain = domain.split(".")[0]
     labels = [seg for seg in re.split(r"[.-]", domain) if seg]
 
     best = 0.0
+    core_norm = _normalize_label_for_lookalike(core_domain)
     for brand in brand_list:
         brand_core = brand.split(".")[0]
-        if brand_core == core_domain:
-            continue  # exact core match against a brand means it likely *is* legit
+        brand_norm = _normalize_label_for_lookalike(brand_core)
+        if brand_core == core_domain or brand_norm == core_norm:
+            continue
 
-        # Compare the whole leading label first (cheap, catches most cases)
         candidates = [core_domain] + labels
         for label in candidates:
-            ratio = difflib.SequenceMatcher(None, label, brand_core).ratio()
-            if ratio > best:
-                best = ratio
+            label_norm = _normalize_label_for_lookalike(label)
+            r_raw = difflib.SequenceMatcher(None, label, brand_core).ratio()
+            r_norm = difflib.SequenceMatcher(None, label_norm, brand_norm).ratio()
+            if r_raw > best:
+                best = r_raw
+            if r_norm > best:
+                best = r_norm
     return round(best, 3)
 
 
