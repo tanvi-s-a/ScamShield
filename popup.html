@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Browser Security</title>
+
+  <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+  <main class="popup">
+    <header class="header">
+      <div class="logo">S</div>
+
+      <div>
+        <h1>Browser Security</h1>
+        <p class="subtitle">Protection dashboard</p>
+      </div>
+    </header>
+
+    <section class="status-card">
+      <div>
+        <p class="label">Protection status</p>
+        <p id="statusText" class="status active">Active</p>
+      </div>
+
+      <label class="switch">
+        <input id="masterToggle" type="checkbox" checked>
+        <span class="slider"></span>
+      </label>
+    </section>
+
+    <section class="stat-card">
+      <p class="label">Items blocked</p>
+      <p id="blockedCount" class="count">0</p>
+      <p class="small-text">On the current website</p>
+    </section>
+
+    <section class="features">
+      <div class="feature-row">
+        <div>
+          <h2>Ad blocking</h2>
+          <p>Block ads and intrusive overlays</p>
+        </div>
+
+        <label class="switch small-switch">
+          <input id="adBlockToggle" type="checkbox" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+
+      <div class="feature-row">
+        <div>
+          <h2>Phishing protection</h2>
+          <p>Analyze suspicious emails and links</p>
+        </div>
+
+        <label class="switch small-switch">
+          <input id="phishingToggle" type="checkbox" checked>
+          <span class="slider"></span>
+        </label>
+      </div>
+    </section>
+
+    <button id="detailsButton" class="details-button">
+      View protection details
+    </button>
+
+    <p id="message" class="message"></p>
+  </main>
+
+  <script src="popup.js"></script>
+</body>
+</html>
