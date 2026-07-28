@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>MailShield AI Settings</title>
+  <link rel="stylesheet" href="options.css" />
+</head>
+<body>
+  <h1>🛡 MailShield AI — Settings</h1>
+
+  <label for="backend-url">Backend address</label>
+  <input id="backend-url" type="text" placeholder="http://127.0.0.1:8000" />
+
+  <label for="mode">Mode</label>
+  <select id="mode">
+    <option value="analyze_only">Analyze only (display results)</option>
+    <option value="warn_and_disable" disabled>Warn and disable (stretch goal — not implemented yet)</option>
+    <option value="safe_preview" disabled>Safe Preview (stretch goal — not implemented yet)</option>
+  </select>
+
+  <button id="save-btn">Save</button>
+  <div id="save-status"></div>
+
+  <script src="options.js"></script>
+</body>
+</html>
