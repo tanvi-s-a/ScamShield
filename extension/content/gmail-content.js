@@ -3,6 +3,8 @@
  *
  * Injects a "Analyze with MailShield AI" button above open Gmail messages,
  * calls the local backend via the service worker, and renders the result.
+ * Also auto-analyzes newly opened messages in the background and lets the
+ * service worker fire a notification if the result is Suspicious/High Risk.
  *
  * MVP SCOPE: this displays findings only. It does not disable links, hide
  * ads, or modify the email content — that is Phase 12/13, a stretch goal.
@@ -10,20 +12,35 @@
 
 const BUTTON_ID = "mailshield-analyze-btn";
 const PANEL_ID = "mailshield-result-panel";
+const analyzedMessageIds = new Set();
 
 function injectAnalyzeButton() {
-  if (document.getElementById(BUTTON_ID)) return;
-
   const subjectEl = document.querySelector("h2.hP");
   if (!subjectEl) return;
 
-  const btn = document.createElement("button");
-  btn.id = BUTTON_ID;
-  btn.textContent = "🛡 Analyze with MailShield AI";
-  btn.className = "mailshield-analyze-btn";
-  btn.addEventListener("click", handleAnalyzeClick);
+  if (!document.getElementById(BUTTON_ID)) {
+    const btn = document.createElement("button");
+    btn.id = BUTTON_ID;
+    btn.textContent = "🛡 Analyze with MailShield AI";
+    btn.className = "mailshield-analyze-btn";
+    btn.addEventListener("click", () => handleAnalyzeClick({ auto: false }));
+    subjectEl.insertAdjacentElement("afterend", btn);
+  }
 
-  subjectEl.insertAdjacentElement("afterend", btn);
+  autoAnalyzeIfNew();
+}
+
+function currentMessageKey() {
+  const subject = document.querySelector("h2.hP")?.innerText.trim() || "";
+  const sender = document.querySelector("span.gD")?.getAttribute("email") || "";
+  return `${sender}::${subject}`;
+}
+
+function autoAnalyzeIfNew() {
+  const key = currentMessageKey();
+  if (!key || analyzedMessageIds.has(key)) return;
+  analyzedMessageIds.add(key);
+  handleAnalyzeClick({ auto: true });
 }
 
 function renderPanel(html) {
@@ -78,26 +95,28 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-function handleAnalyzeClick() {
+function handleAnalyzeClick({ auto = false } = {}) {
   const btn = document.getElementById(BUTTON_ID);
-  btn.disabled = true;
-  btn.textContent = "Analyzing…";
+  if (btn) {
+    btn.disabled = true;
+    btn.textContent = "Analyzing…";
+  }
 
   const emailData = window.__mailshieldExtract ? window.__mailshieldExtract() : null;
   if (!emailData) {
-    renderError("Could not find an open email to analyze.");
-    resetButton(btn);
+    if (!auto) renderError("Could not find an open email to analyze.");
+    if (btn) resetButton(btn);
     return;
   }
 
-  chrome.runtime.sendMessage({ type: "MAILSHIELD_ANALYZE", payload: emailData }, (response) => {
-    resetButton(btn);
+  chrome.runtime.sendMessage({ type: "MAILSHIELD_ANALYZE", payload: emailData, auto }, (response) => {
+    if (btn) resetButton(btn);
     if (chrome.runtime.lastError) {
-      renderError(chrome.runtime.lastError.message);
+      if (!auto) renderError(chrome.runtime.lastError.message);
       return;
     }
     if (!response || !response.ok) {
-      renderError(response?.error || "Unknown error contacting the backend.");
+      if (!auto) renderError(response?.error || "Unknown error contacting the backend.");
       return;
     }
     renderResult(response.data);

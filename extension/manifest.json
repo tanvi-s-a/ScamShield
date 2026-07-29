@@ -3,7 +3,7 @@
   "name": "MailShield AI",
   "version": "0.1.0",
   "description": "Random Forest-based Gmail threat detection (analysis + display MVP; active blocking is a stretch goal).",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage", "activeTab", "scripting", "notifications"],
   "host_permissions": [
     "https://mail.google.com/*",
     "http://127.0.0.1:8000/*",
