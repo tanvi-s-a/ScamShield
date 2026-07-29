@@ -1,0 +1,26 @@
+/* Common ad containers */
+.ad,
+.ads,
+.advert,
+.advertisement,
+.ad-banner,
+.ad-container,
+.ad-wrapper,
+.ad-slot,
+.sponsored,
+.sponsor,
+.mve-player-connatix {
+    display: none !important;
+}
+[data-ad],
+[data-ad-slot],
+[aria-label="Advertisement"] {
+  display: none !important;
+}
+
+/* Common full-page invisible overlays */
+[class*="popup-overlay"],
+[class*="ad-overlay"],
+[id*="ad-overlay"] {
+  display: none !important;
+}

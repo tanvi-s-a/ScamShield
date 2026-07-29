@@ -1,0 +1,26 @@
+! ScamShield converter version 2 test
+
+||doubleclick.net^
+||googlesyndication.com^$script,image
+||video-ad.example^$media
+||tracking.example^$third-party
+||ads.example^$domain=fandom.com|example.com
+
+! Network exception
+@@||allowed.example^$image
+
+! Generic cosmetic rule
+##.advertisement
+
+! Site-specific cosmetic rules
+fandom.com##.mve-player-connatix
+fandom.com##[class*="mve-player-connatix"]
+fandom.com###incontent_player_container
+example.com,example.org###ad-banner
+
+! This exact pair cancels the matching cosmetic rule
+example.org#@##ad-banner
+
+! Unsupported on purpose
+example.com##+js(no-setTimeout-if)
+example.com##div:has-text(Sponsored)

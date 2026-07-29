@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python cache files
 __pycache__/
 *.pyc
@@ -15,3 +16,6 @@ backend/.venv/
 
 # Logs
 *.log
+=======
+_metadata/
+>>>>>>> e4c6416 (improved)
