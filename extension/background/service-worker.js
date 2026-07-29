@@ -4,6 +4,7 @@
  * Receives messages from the content script and popup, calls the local
  * FastAPI backend, and returns structured results. Also stores the
  * backend address / settings in chrome.storage.
+ * Testing
  */
 
 const DEFAULT_SETTINGS = {
