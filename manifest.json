@@ -1,15 +1,56 @@
 {
   "manifest_version": 3,
-  "name": "Browser Security Extension",
+  "name": "ScamShield",
   "version": "1.0.0",
-  "description": "A browser security extension for phishing detection and ad blocking.",
+  "description": "Browser protection against phishing, scams, and intrusive advertising.",
 
   "permissions": [
-    "storage"
+    "storage",
+    "declarativeNetRequest"
+  ],
+
+  "host_permissions": [
+    "<all_urls>"
+  ],
+
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ad_rules",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "css": [
+        "cosmetic.css"
+      ],
+      "js": [
+        "cosmetic.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+
+  "web_accessible_resources": [
+  {
+    "resources": [
+      "filters.json"
+    ],
+    "matches": [
+      "<all_urls>"
+    ]
+  }
   ],
 
   "action": {
-    "default_title": "Browser Security",
+    "default_title": "ScamShield",
     "default_popup": "popup.html"
   }
 }
