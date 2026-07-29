@@ -3,12 +3,13 @@
  *
  * Receives messages from the content script and popup, calls the local
  * FastAPI backend, and returns structured results. Also stores the
- * backend address / settings in chrome.storage.
+ * backend address / settings in chrome.storage. Fires a notification and
+ * badge when an auto-scan finds a Suspicious/High Risk email.
  */
 
 const DEFAULT_SETTINGS = {
   backendUrl: "http://127.0.0.1:8000",
-  mode: "analyze_only",
+  mode: "analyze_only", // analyze_only | warn_and_disable | safe_preview  (modes beyond analyze_only are stretch goals)
 };
 
 async function getSettings() {
@@ -43,11 +44,14 @@ async function callHealth() {
 
 // --- Notification + badge helpers -----------------------------------
 
+const notificationTabMap = new Map();
+
 function notifyIfRisky(result, tabId) {
   if (!result) return;
 
   if (result.risk_level === "High Risk" || result.risk_level === "Suspicious") {
-    chrome.notifications.create(`mailshield-${Date.now()}`, {
+    const notificationId = `mailshield-${Date.now()}`;
+    chrome.notifications.create(notificationId, {
       type: "basic",
       iconUrl: "icons/icon128.png",
       title: result.risk_level === "High Risk"
@@ -56,6 +60,7 @@ function notifyIfRisky(result, tabId) {
       message: `${result.classification} (${result.risk_score}/100). ${result.findings[0] || ""}`,
       priority: result.risk_level === "High Risk" ? 2 : 1,
     });
+    if (tabId) notificationTabMap.set(notificationId, tabId);
   }
 
   updateBadge(result, tabId);
@@ -75,12 +80,11 @@ function updateBadge(result, tabId) {
 }
 
 // Clicking a notification focuses the Gmail tab it came from.
-const notificationTabMap = new Map();
-
 chrome.notifications.onClicked.addListener((notificationId) => {
   const tabId = notificationTabMap.get(notificationId);
   if (tabId) chrome.tabs.update(tabId, { active: true });
   chrome.notifications.clear(notificationId);
+  notificationTabMap.delete(notificationId);
 });
 
 // --- Message handling --------------------------------------------------
