@@ -7,7 +7,7 @@
  * MVP SCOPE: this displays findings only. It does not disable links, hide
  * ads, or modify the email content — that is Phase 12/13, a stretch goal.
  */
-
+const analyzedMessageIds = new Set();
 const BUTTON_ID = "mailshield-analyze-btn";
 const PANEL_ID = "mailshield-result-panel";
 
