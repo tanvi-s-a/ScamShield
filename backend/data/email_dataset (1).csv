@@ -1,0 +1,1001 @@
+email_id,sender,subject,body,timestamp,word_count,has_links,suspicious_links_count,urgency_indicators_count,suspicious_keywords_count,has_sender_spoofing,has_capitals_excessive,label
+EMAIL_000490,help@applesupport-verify.net,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/xalsml,2026-07-01T04:19:18.574699,8,1,1,3,3,1,0,phishing
+EMAIL_000344,verify@micros0ft-account.ru,Your Package Delivery Failed,Click here immediately to verify your account before it gets suspended: bit.ly/ec26oa,2026-07-23T04:19:18.569111,12,1,1,2,2,1,0,phishing
+EMAIL_000539,orders@store.com,Meeting Tomorrow at 2PM,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-12T04:19:18.575696,15,0,0,1,0,0,0,legitimate
+EMAIL_000120,admin@bank-security-check.xyz,Urgent: Verify Your Account,Congratulations! You've won $5000. Claim your prize: bit.ly/8xxl6g,2026-07-25T04:19:18.560106,8,1,3,5,5,0,0,phishing
+EMAIL_000895,admin@project.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-27T04:19:18.582899,10,0,0,1,0,0,0,legitimate
+EMAIL_000571,support@service.com,Team Lunch This Friday,Your subscription has been renewed. Thank you for your continued support.,2026-07-01T04:19:18.576332,11,0,0,1,0,0,0,legitimate
+EMAIL_000672,admin@project.com,Password Changed Successfully,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-28T04:19:18.578309,12,0,0,1,0,0,0,legitimate
+EMAIL_000697,admin@project.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-03T04:19:18.578841,11,0,0,0,0,0,0,legitimate
+EMAIL_000844,newsletter@brand.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-18T04:19:18.581776,11,0,0,1,0,0,0,legitimate
+EMAIL_000674,newsletter@brand.com,Team Lunch This Friday,Your subscription has been renewed. Thank you for your continued support.,2026-07-04T04:19:18.578336,11,0,0,0,0,0,0,legitimate
+EMAIL_000158,security@google-account.tk,Congratulations! You've Won a Prize,Click here immediately to verify your account before it gets suspended: bit.ly/cj5exm,2026-07-06T04:19:18.564616,12,1,1,1,4,0,0,phishing
+EMAIL_000185,support@paypa1-verify.com,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/dnote4,2026-07-04T04:19:18.565386,9,1,1,5,2,1,0,phishing
+EMAIL_000711,newsletter@brand.com,Meeting Tomorrow at 2PM,Thank you for attending our webinar. Here's the recording link.,2026-07-11T04:19:18.579097,10,0,0,0,0,0,0,legitimate
+EMAIL_000031,help@applesupport-verify.net,Click Here to Confirm Your Password,Your Microsoft account needs immediate attention: bit.ly/7p4udm,2026-07-05T04:19:18.558052,7,1,3,2,2,1,0,phishing
+EMAIL_000161,admin@bank-security-check.xyz,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/3gkzop,2026-07-09T04:19:18.564729,8,1,1,1,1,1,0,phishing
+EMAIL_000317,help@applesupport-verify.net,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/urf0p6,2026-07-15T04:19:18.568499,9,1,2,4,1,1,0,phishing
+EMAIL_000933,notifications@app.com,Your Reservation Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-09T04:19:18.583680,12,0,0,1,1,0,0,legitimate
+EMAIL_000057,help@applesupport-verify.net,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/a2t7xu,2026-07-16T04:19:18.558682,6,1,3,2,1,1,0,phishing
+EMAIL_000113,admin@bank-security-check.xyz,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/ad3qzy,2026-07-23T04:19:18.559953,12,1,1,3,3,1,0,phishing
+EMAIL_000322,verify@micros0ft-account.ru,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/b5b8cz,2026-06-30T04:19:18.568579,8,1,1,5,5,1,0,phishing
+EMAIL_000791,notifications@app.com,Password Changed Successfully,Thank you for attending our webinar. Here's the recording link.,2026-07-28T04:19:18.580730,10,0,0,0,0,0,0,legitimate
+EMAIL_000209,noreply@amaz0n-security.com,Urgent: Verify Your Account,Your Microsoft account needs immediate attention: bit.ly/09a2zl,2026-07-05T04:19:18.565945,7,1,1,3,2,1,0,phishing
+EMAIL_000442,support@paypa1-verify.com,Urgent: Verify Your Account,Your Microsoft account needs immediate attention: bit.ly/xc8rgh,2026-07-21T04:19:18.573474,7,1,2,4,2,1,0,phishing
+EMAIL_000486,support@paypa1-verify.com,Action Required: Unusual Activity Detected,Confirm receipt of package: bit.ly/rkvsgf,2026-07-10T04:19:18.574596,5,1,2,5,1,0,0,phishing
+EMAIL_000001,support@paypa1-verify.com,Your Package Delivery Failed,Your Netflix subscription needs updating: bit.ly/nse3di,2026-07-14T04:19:18.557298,6,1,3,1,0,1,0,phishing
+EMAIL_000598,noreply@company.com,Meeting Tomorrow at 2PM,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-18T04:19:18.576907,12,0,0,1,0,0,0,legitimate
+EMAIL_000756,notifications@app.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-18T04:19:18.580003,14,0,0,1,1,0,0,legitimate
+EMAIL_000347,security@google-account.tk,Refund Pending - Claim Now,IRS tax refund ready for pickup. Claim here: bit.ly/c7fhzy,2026-07-02T04:19:18.569199,9,1,3,5,1,1,0,phishing
+EMAIL_000587,newsletter@brand.com,Password Changed Successfully,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-05T04:19:18.576688,14,0,0,1,0,0,0,legitimate
+EMAIL_000708,notifications@app.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-12T04:19:18.579051,11,0,0,0,1,0,0,legitimate
+EMAIL_000183,noreply@amaz0n-security.com,Your Package Delivery Failed,Amazon detected unauthorized access. Verify your account: bit.ly/myueok,2026-07-06T04:19:18.565348,8,1,2,2,1,0,0,phishing
+EMAIL_000272,admin@bank-security-check.xyz,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/vlv69i,2026-07-18T04:19:18.567419,7,1,1,4,1,0,0,phishing
+EMAIL_000984,orders@store.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-02T04:19:18.586048,14,0,0,1,0,0,0,legitimate
+EMAIL_000181,noreply@amaz0n-security.com,Urgent: Verify Your Account,Click here immediately to verify your account before it gets suspended: bit.ly/l0mwps,2026-07-15T04:19:18.565290,12,1,3,3,3,0,0,phishing
+EMAIL_000024,support@paypa1-verify.com,Update Payment Method Required,Congratulations! You've won $5000. Claim your prize: bit.ly/8qqk8i,2026-07-11T04:19:18.557889,8,1,1,5,4,1,0,phishing
+EMAIL_000083,noreply@amaz0n-security.com,Refund Pending - Claim Now,PayPal security alert. Confirm your information: bit.ly/5l7p3l,2026-07-24T04:19:18.559271,7,1,2,2,2,0,0,phishing
+EMAIL_000261,admin@bank-security-check.xyz,Confirm Your Identity Now,Click here immediately to verify your account before it gets suspended: bit.ly/7lpr9r,2026-07-28T04:19:18.567162,12,1,3,5,3,0,0,phishing
+EMAIL_000585,support@service.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-07T04:19:18.576596,9,0,0,0,0,0,0,legitimate
+EMAIL_000010,noreply@amaz0n-security.com,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/du522k,2026-07-15T04:19:18.557496,5,1,1,3,1,0,0,phishing
+EMAIL_000975,support@service.com,Meeting Tomorrow at 2PM,We've improved our security. No action needed from you.,2026-07-24T04:19:18.585846,9,0,0,1,0,0,0,legitimate
+EMAIL_000194,support@paypa1-verify.com,Action Required: Unusual Activity Detected,Confirm receipt of package: bit.ly/azgwf0,2026-07-21T04:19:18.565562,5,1,3,1,1,1,0,phishing
+EMAIL_000819,team@workplace.com,Meeting Tomorrow at 2PM,Thank you for attending our webinar. Here's the recording link.,2026-07-03T04:19:18.581306,10,0,0,0,0,0,0,legitimate
+EMAIL_000684,newsletter@brand.com,Monthly Report Attached,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-16T04:19:18.578561,14,0,0,1,0,0,0,legitimate
+EMAIL_000509,orders@store.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-07T04:19:18.575089,11,0,0,0,0,0,0,legitimate
+EMAIL_000925,noreply@company.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-20T04:19:18.583425,14,0,0,0,1,0,0,legitimate
+EMAIL_000635,admin@project.com,Welcome to Our Newsletter,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-28T04:19:18.577590,14,0,0,1,0,0,0,legitimate
+EMAIL_000462,support@paypa1-verify.com,Action Required: Unusual Activity Detected,IRS tax refund ready for pickup. Claim here: bit.ly/28ckzj,2026-07-12T04:19:18.573986,9,1,1,3,1,1,0,phishing
+EMAIL_000644,admin@project.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-03T04:19:18.577740,14,0,0,1,1,0,0,legitimate
+EMAIL_000100,help@applesupport-verify.net,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/6xptoo,2026-07-28T04:19:18.559664,6,1,1,1,1,1,0,phishing
+EMAIL_000738,support@service.com,Password Changed Successfully,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-19T04:19:18.579664,12,0,0,0,1,0,0,legitimate
+EMAIL_000821,newsletter@brand.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-12T04:19:18.581338,12,0,0,1,0,0,0,legitimate
+EMAIL_000159,noreply@amaz0n-security.com,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/zufy01,2026-07-16T04:19:18.564690,9,1,3,1,2,1,0,phishing
+EMAIL_000366,security@google-account.tk,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/vhi0ni,2026-07-04T04:19:18.571606,9,1,3,2,3,1,0,phishing
+EMAIL_000780,admin@project.com,Team Lunch This Friday,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-22T04:19:18.580430,12,0,0,0,0,0,0,legitimate
+EMAIL_000718,support@service.com,Monthly Report Attached,Your subscription has been renewed. Thank you for your continued support.,2026-07-28T04:19:18.579245,11,0,0,0,0,0,0,legitimate
+EMAIL_000188,noreply@amaz0n-security.com,Update Payment Method Required,PayPal security alert. Confirm your information: bit.ly/iq4vc8,2026-07-08T04:19:18.565474,7,1,3,4,2,1,0,phishing
+EMAIL_000917,notifications@app.com,Monthly Report Attached,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-03T04:19:18.583318,12,0,0,1,0,0,0,legitimate
+EMAIL_000315,security@google-account.tk,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/lxdpdf,2026-07-10T04:19:18.568408,12,1,1,4,3,1,0,phishing
+EMAIL_000313,admin@bank-security-check.xyz,Your Package Delivery Failed,Click here immediately to verify your account before it gets suspended: bit.ly/hdkrb4,2026-07-24T04:19:18.568377,12,1,1,2,2,0,0,phishing
+EMAIL_000800,noreply@company.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-02T04:19:18.580887,10,0,0,0,0,0,0,legitimate
+EMAIL_000787,orders@store.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-04T04:19:18.580599,12,0,0,1,0,0,0,legitimate
+EMAIL_000495,verify@micros0ft-account.ru,Your Package Delivery Failed,Confirm receipt of package: bit.ly/77ubfr,2026-07-28T04:19:18.574807,5,1,3,4,1,1,0,phishing
+EMAIL_000184,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Confirm receipt of package: bit.ly/q1ycxf,2026-07-18T04:19:18.565369,5,1,3,1,1,1,0,phishing
+EMAIL_000526,notifications@app.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-09T04:19:18.575428,12,0,0,0,0,0,0,legitimate
+EMAIL_000205,help@applesupport-verify.net,Confirm Your Identity Now,Confirm receipt of package: bit.ly/dmlpd6,2026-07-09T04:19:18.565797,5,1,3,5,1,1,0,phishing
+EMAIL_000063,noreply@amaz0n-security.com,Your Package Delivery Failed,Amazon detected unauthorized access. Verify your account: bit.ly/in88oz,2026-07-22T04:19:18.558800,8,1,1,4,1,1,0,phishing
+EMAIL_000949,noreply@company.com,Meeting Tomorrow at 2PM,Your subscription has been renewed. Thank you for your continued support.,2026-07-10T04:19:18.585284,11,0,0,1,0,0,0,legitimate
+EMAIL_000110,admin@bank-security-check.xyz,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/z0vov2,2026-07-05T04:19:18.559863,9,1,1,2,3,0,0,phishing
+EMAIL_000146,admin@bank-security-check.xyz,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/5d3ini,2026-06-29T04:19:18.560616,8,1,1,5,2,1,0,phishing
+EMAIL_000111,security@google-account.tk,Your Package Delivery Failed,IRS tax refund ready for pickup. Claim here: bit.ly/57cbsx,2026-07-14T04:19:18.559876,9,1,1,5,1,1,0,phishing
+EMAIL_000232,support@paypa1-verify.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/wz4l0f,2026-07-11T04:19:18.566452,9,1,3,2,1,0,0,phishing
+EMAIL_000004,verify@micros0ft-account.ru,Your Package Delivery Failed,Confirm receipt of package: bit.ly/i3ajis,2026-07-25T04:19:18.557361,5,1,3,5,1,1,0,phishing
+EMAIL_000974,noreply@company.com,Monthly Report Attached,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-26T04:19:18.585830,12,0,0,0,0,0,0,legitimate
+EMAIL_000931,notifications@app.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-23T04:19:18.583643,14,0,0,1,0,0,0,legitimate
+EMAIL_000985,noreply@company.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-21T04:19:18.586061,15,0,0,0,1,0,0,legitimate
+EMAIL_000562,orders@store.com,Your Reservation Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-04T04:19:18.576182,14,0,0,1,1,0,0,legitimate
+EMAIL_000978,support@service.com,Your Order Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-16T04:19:18.585924,12,0,0,0,1,0,0,legitimate
+EMAIL_000237,support@paypa1-verify.com,Your Package Delivery Failed,Amazon detected unauthorized access. Verify your account: bit.ly/99qko9,2026-07-22T04:19:18.566564,8,1,3,4,1,1,0,phishing
+EMAIL_000201,support@paypa1-verify.com,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/50gj0d,2026-07-28T04:19:18.565732,6,1,1,4,1,0,0,phishing
+EMAIL_000427,verify@micros0ft-account.ru,Your Account Has Been Compromised,Click here immediately to verify your account before it gets suspended: bit.ly/zc6sxl,2026-07-11T04:19:18.573054,12,1,3,5,2,0,0,phishing
+EMAIL_000050,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Amazon detected unauthorized access. Verify your account: bit.ly/yrpqqp,2026-07-19T04:19:18.558483,8,1,2,1,1,0,0,phishing
+EMAIL_000219,support@paypa1-verify.com,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/k31n6n,2026-07-14T04:19:18.566168,12,1,2,3,3,1,0,phishing
+EMAIL_000299,noreply@amaz0n-security.com,Update Payment Method Required,Your payment method has expired. Update it now: bit.ly/73w24h,2026-07-05T04:19:18.568044,9,1,3,2,1,1,0,phishing
+EMAIL_000117,support@paypa1-verify.com,Your Account Has Been Compromised,We noticed unusual activity. Please confirm your password: bit.ly/h7r3vt,2026-07-17T04:19:18.560058,9,1,2,3,1,0,0,phishing
+EMAIL_000292,noreply@amaz0n-security.com,Refund Pending - Claim Now,We noticed unusual activity. Please confirm your password: bit.ly/20f90a,2026-07-08T04:19:18.567871,9,1,1,4,2,0,0,phishing
+EMAIL_000238,verify@micros0ft-account.ru,Bank Security Alert,PayPal security alert. Confirm your information: bit.ly/2e3hkr,2026-07-13T04:19:18.566579,7,1,1,2,1,1,0,phishing
+EMAIL_000244,security@google-account.tk,Your Package Delivery Failed,Your Netflix subscription needs updating: bit.ly/blvix9,2026-07-02T04:19:18.566720,6,1,2,3,0,1,0,phishing
+EMAIL_000091,noreply@amaz0n-security.com,Click Here to Confirm Your Password,PayPal security alert. Confirm your information: bit.ly/9604np,2026-07-27T04:19:18.559466,7,1,3,5,2,0,0,phishing
+EMAIL_000621,team@workplace.com,Meeting Tomorrow at 2PM,Here's the monthly report with our latest metrics and performance analysis.,2026-07-25T04:19:18.577321,11,0,0,0,0,0,0,legitimate
+EMAIL_000435,security@google-account.tk,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/z75lj0,2026-07-15T04:19:18.573222,9,1,1,1,3,1,0,phishing
+EMAIL_000930,notifications@app.com,Your Order Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-24T04:19:18.583607,12,0,0,0,1,0,0,legitimate
+EMAIL_000032,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/dkypud,2026-07-25T04:19:18.558067,8,1,3,4,3,0,0,phishing
+EMAIL_000455,support@paypa1-verify.com,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/pv5wh0,2026-07-03T04:19:18.573843,5,1,1,3,3,0,0,phishing
+EMAIL_000622,noreply@company.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-18T04:19:18.577333,14,0,0,1,0,0,0,legitimate
+EMAIL_000782,team@workplace.com,Password Changed Successfully,Here's the monthly report with our latest metrics and performance analysis.,2026-07-19T04:19:18.580458,11,0,0,0,0,0,0,legitimate
+EMAIL_000155,help@applesupport-verify.net,Your Account Has Been Compromised,PayPal security alert. Confirm your information: bit.ly/bcz8lh,2026-07-01T04:19:18.564531,7,1,2,2,1,0,0,phishing
+EMAIL_000076,admin@bank-security-check.xyz,Bank Security Alert,Your Microsoft account needs immediate attention: bit.ly/b1n1fz,2026-07-28T04:19:18.559118,7,1,2,5,0,1,0,phishing
+EMAIL_000081,security@google-account.tk,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/1yntfl,2026-07-13T04:19:18.559228,6,1,3,3,0,1,0,phishing
+EMAIL_000319,verify@micros0ft-account.ru,Refund Pending - Claim Now,PayPal security alert. Confirm your information: bit.ly/rjk8hq,2026-07-04T04:19:18.568535,7,1,1,2,2,1,0,phishing
+EMAIL_000763,admin@project.com,Annual Leave Request Approved,Here's the monthly report with our latest metrics and performance analysis.,2026-07-24T04:19:18.580114,11,0,0,0,0,0,0,legitimate
+EMAIL_000130,noreply@amaz0n-security.com,Confirm Your Identity Now,Congratulations! You've won $5000. Claim your prize: bit.ly/7ko5wr,2026-07-13T04:19:18.560287,8,1,1,1,4,1,0,phishing
+EMAIL_000982,team@workplace.com,New Feature Release Notes,Thank you for attending our webinar. Here's the recording link.,2026-07-23T04:19:18.586014,10,0,0,0,0,0,0,legitimate
+EMAIL_000160,admin@bank-security-check.xyz,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/991rn3,2026-07-01T04:19:18.564711,9,1,1,4,1,0,0,phishing
+EMAIL_000885,notifications@app.com,Welcome to Our Newsletter,Attached is the updated project timeline. Please review and provide feedback.,2026-07-04T04:19:18.582731,11,0,0,0,0,0,0,legitimate
+EMAIL_000234,verify@micros0ft-account.ru,Your Package Delivery Failed,Amazon detected unauthorized access. Verify your account: bit.ly/d8r6c1,2026-07-06T04:19:18.566483,8,1,3,4,1,0,0,phishing
+EMAIL_000560,support@service.com,Your Order Confirmation,We've improved our security. No action needed from you.,2026-07-21T04:19:18.576156,9,0,0,0,1,0,0,legitimate
+EMAIL_000872,hr@company.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-28T04:19:18.582353,9,0,0,1,0,0,0,legitimate
+EMAIL_000820,admin@project.com,Welcome to Our Newsletter,Here's the monthly report with our latest metrics and performance analysis.,2026-07-27T04:19:18.581324,11,0,0,0,0,0,0,legitimate
+EMAIL_000276,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Your payment method has expired. Update it now: bit.ly/08wb1o,2026-07-06T04:19:18.567547,9,1,3,1,1,1,0,phishing
+EMAIL_000950,team@workplace.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-27T04:19:18.585298,12,0,0,0,0,0,0,legitimate
+EMAIL_000433,support@paypa1-verify.com,Click Here to Confirm Your Password,Your payment method has expired. Update it now: bit.ly/76l68u,2026-07-24T04:19:18.573186,9,1,3,4,3,0,0,phishing
+EMAIL_000905,notifications@app.com,Password Changed Successfully,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-01T04:19:18.583070,12,0,0,0,0,0,0,legitimate
+EMAIL_000533,newsletter@brand.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-02T04:19:18.575557,15,0,0,1,1,0,0,legitimate
+EMAIL_000720,orders@store.com,Project Update - Q3 Results,Attached is the updated project timeline. Please review and provide feedback.,2026-07-03T04:19:18.579271,11,0,0,0,0,0,0,legitimate
+EMAIL_000403,security@google-account.tk,Your Package Delivery Failed,Your payment method has expired. Update it now: bit.ly/iynwjj,2026-07-04T04:19:18.572446,9,1,2,2,1,0,0,phishing
+EMAIL_000207,security@google-account.tk,Update Payment Method Required,Your Microsoft account needs immediate attention: bit.ly/b41oj9,2026-07-14T04:19:18.565879,7,1,3,1,1,0,0,phishing
+EMAIL_000140,support@paypa1-verify.com,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/i6slbz,2026-07-28T04:19:18.560463,12,1,1,3,2,1,0,phishing
+EMAIL_000602,admin@project.com,Meeting Tomorrow at 2PM,Thank you for attending our webinar. Here's the recording link.,2026-07-26T04:19:18.576968,10,0,0,1,0,0,0,legitimate
+EMAIL_000994,notifications@app.com,Annual Leave Request Approved,Here's the monthly report with our latest metrics and performance analysis.,2026-07-17T04:19:18.586217,11,0,0,1,0,0,0,legitimate
+EMAIL_000196,noreply@amaz0n-security.com,Update Payment Method Required,Your payment method has expired. Update it now: bit.ly/3fc05l,2026-07-06T04:19:18.565647,9,1,1,2,1,1,0,phishing
+EMAIL_000293,admin@bank-security-check.xyz,Your Account Has Been Compromised,We noticed unusual activity. Please confirm your password: bit.ly/yl06z1,2026-07-15T04:19:18.567886,9,1,3,2,1,1,0,phishing
+EMAIL_000773,hr@company.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-27T04:19:18.580279,14,0,0,0,1,0,0,legitimate
+EMAIL_000404,support@paypa1-verify.com,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/bzncur,2026-07-15T04:19:18.572471,5,1,3,1,1,0,0,phishing
+EMAIL_000873,support@service.com,Your Reservation Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-06-29T04:19:18.582364,11,0,0,1,1,0,0,legitimate
+EMAIL_000255,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/jy6z1u,2026-07-16T04:19:18.567037,7,1,1,1,2,1,0,phishing
+EMAIL_000307,verify@micros0ft-account.ru,Action Required: Unusual Activity Detected,We noticed unusual activity. Please confirm your password: bit.ly/ewnh4b,2026-07-28T04:19:18.568249,9,1,1,5,1,1,0,phishing
+EMAIL_000372,support@paypa1-verify.com,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/d2zwo7,2026-07-18T04:19:18.571784,8,1,1,3,1,1,0,phishing
+EMAIL_000429,support@paypa1-verify.com,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/oaj6b4,2026-07-17T04:19:18.573083,12,1,2,3,2,0,0,phishing
+EMAIL_000881,orders@store.com,Your Order Confirmation,We've improved our security. No action needed from you.,2026-07-26T04:19:18.582682,9,0,0,1,1,0,0,legitimate
+EMAIL_000631,support@service.com,Project Update - Q3 Results,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-05T04:19:18.577550,12,0,0,0,0,0,0,legitimate
+EMAIL_000745,newsletter@brand.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-23T04:19:18.579757,11,0,0,0,1,0,0,legitimate
+EMAIL_000401,support@paypa1-verify.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/d3q003,2026-07-06T04:19:18.572383,9,1,3,2,1,1,0,phishing
+EMAIL_000482,admin@bank-security-check.xyz,Refund Pending - Claim Now,IRS tax refund ready for pickup. Claim here: bit.ly/obrgbf,2026-07-09T04:19:18.574511,9,1,1,5,1,1,0,phishing
+EMAIL_000767,admin@project.com,Password Changed Successfully,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-28T04:19:18.580200,14,0,0,1,0,0,0,legitimate
+EMAIL_000163,admin@bank-security-check.xyz,Update Payment Method Required,PayPal security alert. Confirm your information: bit.ly/xe5jqu,2026-07-14T04:19:18.564760,7,1,2,5,2,0,0,phishing
+EMAIL_000717,notifications@app.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-04T04:19:18.579202,11,0,0,1,0,0,0,legitimate
+EMAIL_000393,verify@micros0ft-account.ru,Update Payment Method Required,PayPal security alert. Confirm your information: bit.ly/167u73,2026-07-02T04:19:18.572191,7,1,3,2,2,1,0,phishing
+EMAIL_000491,admin@bank-security-check.xyz,Your Package Delivery Failed,Amazon detected unauthorized access. Verify your account: bit.ly/mdinxz,2026-07-13T04:19:18.574715,8,1,1,1,1,0,0,phishing
+EMAIL_000692,orders@store.com,Password Changed Successfully,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-04T04:19:18.578744,12,0,0,1,1,0,0,legitimate
+EMAIL_000528,team@workplace.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-04T04:19:18.575491,14,0,0,0,1,0,0,legitimate
+EMAIL_000115,admin@bank-security-check.xyz,Bank Security Alert,PayPal security alert. Confirm your information: bit.ly/zx6bwk,2026-07-15T04:19:18.559986,7,1,1,3,1,1,0,phishing
+EMAIL_000127,support@paypa1-verify.com,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/pi3lua,2026-07-03T04:19:18.560242,5,1,3,3,3,1,0,phishing
+EMAIL_000890,newsletter@brand.com,Your Order Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-27T04:19:18.582835,11,0,0,0,1,0,0,legitimate
+EMAIL_000954,admin@project.com,Your Reservation Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-27T04:19:18.585354,11,0,0,0,1,0,0,legitimate
+EMAIL_000267,help@applesupport-verify.net,Confirm Your Identity Now,IRS tax refund ready for pickup. Claim here: bit.ly/nx07i9,2026-07-12T04:19:18.567311,9,1,3,1,2,1,0,phishing
+EMAIL_000309,security@google-account.tk,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/8olgei,2026-07-18T04:19:18.568281,7,1,3,3,1,0,0,phishing
+EMAIL_000302,support@paypa1-verify.com,Bank Security Alert,Congratulations! You've won $5000. Claim your prize: bit.ly/n78y46,2026-07-23T04:19:18.568091,8,1,2,1,3,1,0,phishing
+EMAIL_000071,noreply@amaz0n-security.com,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/nbwxpb,2026-07-15T04:19:18.558958,12,1,2,5,2,1,0,phishing
+EMAIL_000287,support@paypa1-verify.com,Congratulations! You've Won a Prize,Your Netflix subscription needs updating: bit.ly/klyw9q,2026-07-24T04:19:18.567788,6,1,2,2,2,1,0,phishing
+EMAIL_000369,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Your Netflix subscription needs updating: bit.ly/13fjij,2026-07-23T04:19:18.571739,6,1,3,5,2,1,0,phishing
+EMAIL_000397,support@paypa1-verify.com,Click Here to Confirm Your Password,Your Microsoft account needs immediate attention: bit.ly/lw3plz,2026-07-26T04:19:18.572281,7,1,2,1,2,0,0,phishing
+EMAIL_000197,security@google-account.tk,Bank Security Alert,PayPal security alert. Confirm your information: bit.ly/4ybt0x,2026-07-26T04:19:18.565669,7,1,3,4,1,1,0,phishing
+EMAIL_000637,newsletter@brand.com,Team Lunch This Friday,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-16T04:19:18.577662,14,0,0,1,0,0,0,legitimate
+EMAIL_000706,admin@project.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-12T04:19:18.579006,14,0,0,1,0,0,0,legitimate
+EMAIL_000597,admin@project.com,Project Update - Q3 Results,We've improved our security. No action needed from you.,2026-07-19T04:19:18.576893,9,0,0,0,0,0,0,legitimate
+EMAIL_000863,notifications@app.com,Team Lunch This Friday,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-28T04:19:18.582205,12,0,0,1,0,0,0,legitimate
+EMAIL_000848,newsletter@brand.com,Team Lunch This Friday,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-27T04:19:18.581892,12,0,0,1,0,0,0,legitimate
+EMAIL_000861,notifications@app.com,Password Changed Successfully,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-24T04:19:18.582180,14,0,0,1,0,0,0,legitimate
+EMAIL_000334,noreply@amaz0n-security.com,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/42slxq,2026-07-22T04:19:18.568849,5,1,1,1,3,1,0,phishing
+EMAIL_000810,admin@project.com,New Feature Release Notes,Here's the monthly report with our latest metrics and performance analysis.,2026-07-09T04:19:18.581052,11,0,0,1,0,0,0,legitimate
+EMAIL_000969,team@workplace.com,Your Order Confirmation,We've improved our security. No action needed from you.,2026-06-29T04:19:18.585695,9,0,0,0,1,0,0,legitimate
+EMAIL_000662,admin@project.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-25T04:19:18.578056,14,0,0,0,0,0,0,legitimate
+EMAIL_000958,support@service.com,Your Order Confirmation,We've improved our security. No action needed from you.,2026-07-13T04:19:18.585494,9,0,0,1,1,0,0,legitimate
+EMAIL_000590,support@service.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-19T04:19:18.576733,11,0,0,1,0,0,0,legitimate
+EMAIL_000226,support@paypa1-verify.com,Congratulations! You've Won a Prize,Amazon detected unauthorized access. Verify your account: bit.ly/bxkz80,2026-07-25T04:19:18.566355,8,1,2,3,3,1,0,phishing
+EMAIL_000422,noreply@amaz0n-security.com,Refund Pending - Claim Now,Your Microsoft account needs immediate attention: bit.ly/i0p61f,2026-07-01T04:19:18.572933,7,1,3,3,1,1,0,phishing
+EMAIL_000387,verify@micros0ft-account.ru,Update Payment Method Required,Your Netflix subscription needs updating: bit.ly/9329lx,2026-07-16T04:19:18.572097,6,1,3,1,1,1,0,phishing
+EMAIL_000323,help@applesupport-verify.net,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/bblmbk,2026-07-22T04:19:18.568593,8,1,3,1,5,1,0,phishing
+EMAIL_000178,security@google-account.tk,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/b1xsid,2026-07-01T04:19:18.565168,7,1,3,4,1,1,0,phishing
+EMAIL_000312,verify@micros0ft-account.ru,Action Required: Unusual Activity Detected,Your payment method has expired. Update it now: bit.ly/ojpuz1,2026-07-07T04:19:18.568358,9,1,2,4,1,1,0,phishing
+EMAIL_000758,noreply@company.com,Meeting Tomorrow at 2PM,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-09T04:19:18.580047,15,0,0,1,0,0,0,legitimate
+EMAIL_000971,newsletter@brand.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-02T04:19:18.585727,14,0,0,0,0,0,0,legitimate
+EMAIL_000578,admin@project.com,Monthly Report Attached,Thank you for attending our webinar. Here's the recording link.,2026-07-26T04:19:18.576505,10,0,0,0,0,0,0,legitimate
+EMAIL_000534,support@service.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-09T04:19:18.575567,14,0,0,1,1,0,0,legitimate
+EMAIL_000793,support@service.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-15T04:19:18.580755,11,0,0,1,1,0,0,legitimate
+EMAIL_000493,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/27m1a7,2026-07-25T04:19:18.574744,7,1,3,5,1,0,0,phishing
+EMAIL_000134,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,PayPal security alert. Confirm your information: bit.ly/8wxb01,2026-07-19T04:19:18.560340,7,1,2,2,3,1,0,phishing
+EMAIL_000613,team@workplace.com,Annual Leave Request Approved,Your subscription has been renewed. Thank you for your continued support.,2026-07-09T04:19:18.577175,11,0,0,1,0,0,0,legitimate
+EMAIL_000321,admin@bank-security-check.xyz,Your Package Delivery Failed,Your Netflix subscription needs updating: bit.ly/deral2,2026-07-20T04:19:18.568566,6,1,3,4,0,1,0,phishing
+EMAIL_000760,orders@store.com,Welcome to Our Newsletter,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-08T04:19:18.580076,14,0,0,0,0,0,0,legitimate
+EMAIL_000233,noreply@amaz0n-security.com,Refund Pending - Claim Now,Your payment method has expired. Update it now: bit.ly/nue5x5,2026-07-06T04:19:18.566468,9,1,3,2,2,1,0,phishing
+EMAIL_000449,help@applesupport-verify.net,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/dq99xd,2026-07-19T04:19:18.573604,8,1,2,5,1,0,0,phishing
+EMAIL_000345,verify@micros0ft-account.ru,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/cu8593,2026-07-07T04:19:18.569126,6,1,3,3,0,1,0,phishing
+EMAIL_000645,admin@project.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-18T04:19:18.577750,12,0,0,1,0,0,0,legitimate
+EMAIL_000833,orders@store.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-21T04:19:18.581560,12,0,0,0,0,0,0,legitimate
+EMAIL_000608,support@service.com,Your Order Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-17T04:19:18.577100,14,0,0,0,1,0,0,legitimate
+EMAIL_000630,orders@store.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-04T04:19:18.577536,12,0,0,1,1,0,0,legitimate
+EMAIL_000989,orders@store.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-02T04:19:18.586153,12,0,0,0,0,0,0,legitimate
+EMAIL_000769,orders@store.com,Monthly Report Attached,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-25T04:19:18.580229,14,0,0,1,0,0,0,legitimate
+EMAIL_000168,admin@bank-security-check.xyz,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/y5ysx5,2026-07-04T04:19:18.564938,6,1,1,2,0,1,0,phishing
+EMAIL_000026,security@google-account.tk,Action Required: Unusual Activity Detected,Amazon detected unauthorized access. Verify your account: bit.ly/m6uo5x,2026-07-05T04:19:18.557961,8,1,1,4,1,1,0,phishing
+EMAIL_000330,support@paypa1-verify.com,Action Required: Unusual Activity Detected,IRS tax refund ready for pickup. Claim here: bit.ly/16hzy3,2026-07-10T04:19:18.568792,9,1,2,1,1,0,0,phishing
+EMAIL_000741,newsletter@brand.com,Team Lunch This Friday,We've improved our security. No action needed from you.,2026-07-09T04:19:18.579707,9,0,0,1,0,0,0,legitimate
+EMAIL_000419,admin@bank-security-check.xyz,Bank Security Alert,Your payment method has expired. Update it now: bit.ly/ie9z9i,2026-07-27T04:19:18.572890,9,1,3,1,1,1,0,phishing
+EMAIL_000735,hr@company.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-27T04:19:18.579562,14,0,0,1,0,0,0,legitimate
+EMAIL_000536,admin@project.com,Your Order Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-13T04:19:18.575650,14,0,0,0,1,0,0,legitimate
+EMAIL_000772,notifications@app.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-16T04:19:18.580266,11,0,0,1,1,0,0,legitimate
+EMAIL_000415,help@applesupport-verify.net,Urgent: Verify Your Account,Click here immediately to verify your account before it gets suspended: bit.ly/2vhnas,2026-07-27T04:19:18.572823,12,1,2,3,3,1,0,phishing
+EMAIL_000595,noreply@company.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-01T04:19:18.576834,14,0,0,0,0,0,0,legitimate
+EMAIL_000997,hr@company.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-06-30T04:19:18.586287,15,0,0,0,0,0,0,legitimate
+EMAIL_000108,support@paypa1-verify.com,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/osm7b4,2026-07-09T04:19:18.559834,9,1,2,3,3,0,0,phishing
+EMAIL_000794,hr@company.com,Your Order Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-27T04:19:18.580767,15,0,0,1,1,0,0,legitimate
+EMAIL_000077,admin@bank-security-check.xyz,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/eetbe7,2026-07-28T04:19:18.559139,9,1,2,2,1,1,0,phishing
+EMAIL_000256,admin@bank-security-check.xyz,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/1w34b6,2026-07-05T04:19:18.567083,6,1,3,3,0,1,0,phishing
+EMAIL_000563,noreply@company.com,Password Changed Successfully,Thank you for attending our webinar. Here's the recording link.,2026-07-08T04:19:18.576196,10,0,0,0,0,0,0,legitimate
+EMAIL_000729,noreply@company.com,Team Lunch This Friday,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-23T04:19:18.579481,14,0,0,1,0,0,0,legitimate
+EMAIL_000727,noreply@company.com,Project Update - Q3 Results,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-05T04:19:18.579454,12,0,0,0,0,0,0,legitimate
+EMAIL_000377,security@google-account.tk,Your Account Has Been Compromised,Your Microsoft account needs immediate attention: bit.ly/995h0k,2026-07-14T04:19:18.571906,7,1,1,4,0,1,0,phishing
+EMAIL_000677,team@workplace.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-16T04:19:18.578440,12,0,0,0,0,0,0,legitimate
+EMAIL_000926,orders@store.com,Meeting Tomorrow at 2PM,Here's the monthly report with our latest metrics and performance analysis.,2026-07-28T04:19:18.583467,11,0,0,1,0,0,0,legitimate
+EMAIL_000669,team@workplace.com,Team Lunch This Friday,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-21T04:19:18.578270,15,0,0,1,0,0,0,legitimate
+EMAIL_000710,orders@store.com,Password Changed Successfully,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-18T04:19:18.579084,15,0,0,0,0,0,0,legitimate
+EMAIL_000241,security@google-account.tk,Congratulations! You've Won a Prize,Your payment method has expired. Update it now: bit.ly/h8sjvz,2026-07-16T04:19:18.566668,9,1,2,4,3,0,0,phishing
+EMAIL_000034,support@paypa1-verify.com,Refund Pending - Claim Now,Confirm receipt of package: bit.ly/ire8jl,2026-07-07T04:19:18.558095,5,1,1,5,2,1,0,phishing
+EMAIL_000389,support@paypa1-verify.com,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/az0eri,2026-07-01T04:19:18.572132,8,1,1,4,2,1,0,phishing
+EMAIL_000456,verify@micros0ft-account.ru,Your Package Delivery Failed,Amazon detected unauthorized access. Verify your account: bit.ly/euw72q,2026-06-29T04:19:18.573891,8,1,1,4,1,0,0,phishing
+EMAIL_000712,team@workplace.com,New Feature Release Notes,Here's the monthly report with our latest metrics and performance analysis.,2026-07-18T04:19:18.579108,11,0,0,1,0,0,0,legitimate
+EMAIL_000145,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Your Netflix subscription needs updating: bit.ly/q0b2ad,2026-07-20T04:19:18.560572,6,1,3,4,0,0,0,phishing
+EMAIL_000424,support@paypa1-verify.com,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/3ek2ga,2026-07-17T04:19:18.572962,12,1,1,5,3,1,0,phishing
+EMAIL_000946,admin@project.com,Team Lunch This Friday,Thank you for attending our webinar. Here's the recording link.,2026-07-06T04:19:18.585220,10,0,0,1,0,0,0,legitimate
+EMAIL_000698,team@workplace.com,Team Lunch This Friday,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-03T04:19:18.578858,12,0,0,0,0,0,0,legitimate
+EMAIL_000179,support@paypa1-verify.com,Your Account Has Been Compromised,Click here immediately to verify your account before it gets suspended: bit.ly/oiypof,2026-07-08T04:19:18.565183,12,1,1,3,2,0,0,phishing
+EMAIL_000852,notifications@app.com,Meeting Tomorrow at 2PM,Your subscription has been renewed. Thank you for your continued support.,2026-07-16T04:19:18.582006,11,0,0,0,0,0,0,legitimate
+EMAIL_000047,security@google-account.tk,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/2jc2j3,2026-07-07T04:19:18.558393,8,1,2,4,2,1,0,phishing
+EMAIL_000546,support@service.com,Your Order Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-09T04:19:18.575807,12,0,0,0,1,0,0,legitimate
+EMAIL_000162,support@paypa1-verify.com,Click Here to Confirm Your Password,Amazon detected unauthorized access. Verify your account: bit.ly/8834l9,2026-07-11T04:19:18.564745,8,1,1,3,3,1,0,phishing
+EMAIL_000730,orders@store.com,New Feature Release Notes,Thank you for attending our webinar. Here's the recording link.,2026-07-15T04:19:18.579502,10,0,0,1,0,0,0,legitimate
+EMAIL_000701,notifications@app.com,Your Order Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-28T04:19:18.578896,10,0,0,0,1,0,0,legitimate
+EMAIL_000055,admin@bank-security-check.xyz,Your Account Has Been Compromised,Your Microsoft account needs immediate attention: bit.ly/16q9xa,2026-07-20T04:19:18.558596,7,1,3,4,0,0,0,phishing
+EMAIL_000766,admin@project.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-16T04:19:18.580180,14,0,0,1,0,0,0,legitimate
+EMAIL_000206,support@paypa1-verify.com,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/9ev4om,2026-07-13T04:19:18.565860,5,1,1,3,3,0,0,phishing
+EMAIL_000138,security@google-account.tk,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/n5bz0e,2026-07-16T04:19:18.560435,6,1,2,5,0,0,0,phishing
+EMAIL_000125,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,Confirm receipt of package: bit.ly/wh0tjr,2026-07-09T04:19:18.560178,5,1,3,3,1,1,0,phishing
+EMAIL_000109,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/k4bzws,2026-07-22T04:19:18.559849,8,1,3,3,3,0,0,phishing
+EMAIL_000811,admin@project.com,Annual Leave Request Approved,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-01T04:19:18.581072,14,0,0,1,0,0,0,legitimate
+EMAIL_000365,admin@bank-security-check.xyz,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/d052cw,2026-07-26T04:19:18.571559,12,1,2,3,3,0,0,phishing
+EMAIL_000460,admin@bank-security-check.xyz,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/wcfgcx,2026-07-24T04:19:18.573957,6,1,3,2,1,1,0,phishing
+EMAIL_000964,noreply@company.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-21T04:19:18.585576,9,0,0,0,0,0,0,legitimate
+EMAIL_000804,admin@project.com,Your Order Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-02T04:19:18.580938,12,0,0,0,1,0,0,legitimate
+EMAIL_000153,help@applesupport-verify.net,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/blwvju,2026-07-15T04:19:18.564498,8,1,1,1,5,1,0,phishing
+EMAIL_000586,admin@project.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-01T04:19:18.576611,11,0,0,1,1,0,0,legitimate
+EMAIL_000676,team@workplace.com,Password Changed Successfully,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-07T04:19:18.578420,15,0,0,1,0,0,0,legitimate
+EMAIL_000859,notifications@app.com,Your Order Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-26T04:19:18.582152,15,0,0,1,1,0,0,legitimate
+EMAIL_000249,admin@bank-security-check.xyz,Bank Security Alert,IRS tax refund ready for pickup. Claim here: bit.ly/jsrvga,2026-06-29T04:19:18.566899,9,1,1,5,1,1,0,phishing
+EMAIL_000271,verify@micros0ft-account.ru,Confirm Your Identity Now,Confirm receipt of package: bit.ly/a4thr1,2026-07-22T04:19:18.567407,5,1,3,4,1,1,0,phishing
+EMAIL_000797,team@workplace.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-20T04:19:18.580841,11,0,0,0,0,0,0,legitimate
+EMAIL_000492,help@applesupport-verify.net,Click Here to Confirm Your Password,PayPal security alert. Confirm your information: bit.ly/8rdtia,2026-07-27T04:19:18.574730,7,1,2,1,2,1,0,phishing
+EMAIL_000893,team@workplace.com,Meeting Tomorrow at 2PM,Here's the monthly report with our latest metrics and performance analysis.,2026-07-25T04:19:18.582874,11,0,0,0,0,0,0,legitimate
+EMAIL_000177,admin@bank-security-check.xyz,Refund Pending - Claim Now,Your payment method has expired. Update it now: bit.ly/hazni9,2026-06-30T04:19:18.565150,9,1,3,1,2,1,0,phishing
+EMAIL_000451,help@applesupport-verify.net,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/13w2pp,2026-07-12T04:19:18.573669,7,1,2,2,1,1,0,phishing
+EMAIL_000877,notifications@app.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-11T04:19:18.582537,11,0,0,1,1,0,0,legitimate
+EMAIL_000564,admin@project.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-20T04:19:18.576209,12,0,0,0,0,0,0,legitimate
+EMAIL_000762,notifications@app.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-16T04:19:18.580102,9,0,0,0,1,0,0,legitimate
+EMAIL_000601,team@workplace.com,Meeting Tomorrow at 2PM,Thank you for attending our webinar. Here's the recording link.,2026-07-27T04:19:18.576956,10,0,0,1,0,0,0,legitimate
+EMAIL_000685,noreply@company.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-12T04:19:18.578574,11,0,0,1,0,0,0,legitimate
+EMAIL_000041,security@google-account.tk,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/l4liir,2026-07-22T04:19:18.558269,8,1,1,5,1,1,0,phishing
+EMAIL_000235,security@google-account.tk,Bank Security Alert,Your Microsoft account needs immediate attention: bit.ly/8gd3mk,2026-07-22T04:19:18.566498,7,1,3,2,0,1,0,phishing
+EMAIL_000683,hr@company.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-17T04:19:18.578548,12,0,0,0,0,0,0,legitimate
+EMAIL_000519,orders@store.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-18T04:19:18.575273,14,0,0,1,0,0,0,legitimate
+EMAIL_000283,security@google-account.tk,Update Payment Method Required,Your Microsoft account needs immediate attention: bit.ly/4ye4xg,2026-07-22T04:19:18.567694,7,1,3,5,1,1,0,phishing
+EMAIL_000733,admin@project.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-07T04:19:18.579533,12,0,0,1,1,0,0,legitimate
+EMAIL_000788,notifications@app.com,Meeting Tomorrow at 2PM,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-19T04:19:18.580616,15,0,0,0,0,0,0,legitimate
+EMAIL_000761,support@service.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-18T04:19:18.580090,9,0,0,0,1,0,0,legitimate
+EMAIL_000653,support@service.com,Meeting Tomorrow at 2PM,Thank you for attending our webinar. Here's the recording link.,2026-07-27T04:19:18.577883,10,0,0,0,0,0,0,legitimate
+EMAIL_000822,team@workplace.com,Project Update - Q3 Results,Your subscription has been renewed. Thank you for your continued support.,2026-07-10T04:19:18.581351,11,0,0,1,0,0,0,legitimate
+EMAIL_000152,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Your Netflix subscription needs updating: bit.ly/x7cu00,2026-07-09T04:19:18.564482,6,1,1,4,2,1,0,phishing
+EMAIL_000914,admin@project.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-14T04:19:18.583251,14,0,0,1,0,0,0,legitimate
+EMAIL_000862,admin@project.com,New Feature Release Notes,Here's the monthly report with our latest metrics and performance analysis.,2026-07-01T04:19:18.582192,11,0,0,1,0,0,0,legitimate
+EMAIL_000437,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/ntubg4,2026-07-19T04:19:18.573365,6,1,3,3,1,1,0,phishing
+EMAIL_000030,support@paypa1-verify.com,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/ret9zo,2026-07-02T04:19:18.558029,5,1,1,2,3,1,0,phishing
+EMAIL_000611,notifications@app.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-23T04:19:18.577146,11,0,0,1,1,0,0,legitimate
+EMAIL_000996,notifications@app.com,Monthly Report Attached,Thank you for attending our webinar. Here's the recording link.,2026-07-25T04:19:18.586268,10,0,0,0,0,0,0,legitimate
+EMAIL_000118,admin@bank-security-check.xyz,Your Account Has Been Compromised,Congratulations! You've won $5000. Claim your prize: bit.ly/9bjsvf,2026-07-21T04:19:18.560077,8,1,2,2,3,1,0,phishing
+EMAIL_000832,team@workplace.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-14T04:19:18.581546,12,0,0,1,0,0,0,legitimate
+EMAIL_000687,newsletter@brand.com,Team Lunch This Friday,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-13T04:19:18.578678,12,0,0,1,0,0,0,legitimate
+EMAIL_000545,orders@store.com,Monthly Report Attached,Thank you for attending our webinar. Here's the recording link.,2026-07-28T04:19:18.575768,10,0,0,0,0,0,0,legitimate
+EMAIL_000472,help@applesupport-verify.net,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/4xcb38,2026-07-02T04:19:18.574330,5,1,2,5,1,1,0,phishing
+EMAIL_000376,help@applesupport-verify.net,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/l4bvfz,2026-06-29T04:19:18.571884,9,1,1,1,2,0,0,phishing
+EMAIL_000176,verify@micros0ft-account.ru,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/nby5iz,2026-07-13T04:19:18.565128,9,1,3,2,3,1,0,phishing
+EMAIL_000228,help@applesupport-verify.net,Action Required: Unusual Activity Detected,IRS tax refund ready for pickup. Claim here: bit.ly/30ajso,2026-07-03T04:19:18.566393,9,1,3,3,1,0,0,phishing
+EMAIL_000441,security@google-account.tk,Confirm Your Identity Now,Amazon detected unauthorized access. Verify your account: bit.ly/yoeg7z,2026-07-18T04:19:18.573460,8,1,3,3,2,1,0,phishing
+EMAIL_000413,admin@bank-security-check.xyz,Urgent: Verify Your Account,Click here immediately to verify your account before it gets suspended: bit.ly/6jqlzr,2026-07-12T04:19:18.572610,12,1,2,3,3,1,0,phishing
+EMAIL_000829,support@service.com,Meeting Tomorrow at 2PM,Thank you for attending our webinar. Here's the recording link.,2026-07-21T04:19:18.581508,10,0,0,1,0,0,0,legitimate
+EMAIL_000002,support@paypa1-verify.com,Action Required: Unusual Activity Detected,We noticed unusual activity. Please confirm your password: bit.ly/dbbj0i,2026-07-21T04:19:18.557324,9,1,1,5,1,0,0,phishing
+EMAIL_000634,noreply@company.com,Welcome to Our Newsletter,Thank you for attending our webinar. Here's the recording link.,2026-07-23T04:19:18.577581,10,0,0,0,0,0,0,legitimate
+EMAIL_000335,noreply@amaz0n-security.com,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/z0on21,2026-07-23T04:19:18.568894,6,1,1,3,0,1,0,phishing
+EMAIL_000408,help@applesupport-verify.net,Confirm Your Identity Now,IRS tax refund ready for pickup. Claim here: bit.ly/3dprso,2026-07-13T04:19:18.572536,9,1,1,4,2,1,0,phishing
+EMAIL_000253,noreply@amaz0n-security.com,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/iud6fv,2026-06-30T04:19:18.566999,9,1,1,2,3,0,0,phishing
+EMAIL_000963,support@service.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-12T04:19:18.585562,14,0,0,1,0,0,0,legitimate
+EMAIL_000252,support@paypa1-verify.com,Congratulations! You've Won a Prize,Amazon detected unauthorized access. Verify your account: bit.ly/mfth7i,2026-07-19T04:19:18.566979,8,1,2,4,3,0,0,phishing
+EMAIL_000869,newsletter@brand.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-10T04:19:18.582315,14,0,0,0,1,0,0,legitimate
+EMAIL_000799,orders@store.com,Monthly Report Attached,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-22T04:19:18.580872,15,0,0,1,0,0,0,legitimate
+EMAIL_000541,notifications@app.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-28T04:19:18.575719,11,0,0,0,0,0,0,legitimate
+EMAIL_000453,security@google-account.tk,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/h6l6r4,2026-07-17T04:19:18.573699,9,1,2,2,2,0,0,phishing
+EMAIL_000112,help@applesupport-verify.net,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/qj0tnz,2026-07-18T04:19:18.559889,6,1,1,3,0,1,0,phishing
+EMAIL_000986,admin@project.com,Team Lunch This Friday,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-15T04:19:18.586106,14,0,0,0,0,0,0,legitimate
+EMAIL_000573,noreply@company.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-01T04:19:18.576391,10,0,0,0,0,0,0,legitimate
+EMAIL_000014,help@applesupport-verify.net,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/0xoo1e,2026-07-22T04:19:18.557646,9,1,2,2,3,1,0,phishing
+EMAIL_000750,team@workplace.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-05T04:19:18.579857,12,0,0,0,0,0,0,legitimate
+EMAIL_000265,help@applesupport-verify.net,Action Required: Unusual Activity Detected,Click here immediately to verify your account before it gets suspended: bit.ly/9y0aez,2026-07-12T04:19:18.567219,12,1,1,1,2,0,0,phishing
+EMAIL_000141,noreply@amaz0n-security.com,Click Here to Confirm Your Password,Confirm receipt of package: bit.ly/6p7ay7,2026-07-21T04:19:18.560478,5,1,3,2,2,0,0,phishing
+EMAIL_000812,support@service.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-14T04:19:18.581087,15,0,0,0,1,0,0,legitimate
+EMAIL_000483,support@paypa1-verify.com,Refund Pending - Claim Now,Your payment method has expired. Update it now: bit.ly/asht5p,2026-07-22T04:19:18.574525,9,1,2,2,2,1,0,phishing
+EMAIL_000421,support@paypa1-verify.com,Confirm Your Identity Now,Click here immediately to verify your account before it gets suspended: bit.ly/xie4h8,2026-07-14T04:19:18.572917,12,1,3,5,3,1,0,phishing
+EMAIL_000248,help@applesupport-verify.net,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/w8fjjn,2026-07-24T04:19:18.566883,9,1,2,1,3,1,0,phishing
+EMAIL_000610,noreply@company.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-27T04:19:18.577135,14,0,0,1,0,0,0,legitimate
+EMAIL_000576,noreply@company.com,Team Lunch This Friday,We've improved our security. No action needed from you.,2026-07-19T04:19:18.576472,9,0,0,1,0,0,0,legitimate
+EMAIL_000436,security@google-account.tk,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/70x7qs,2026-07-21T04:19:18.573344,8,1,1,2,5,1,0,phishing
+EMAIL_000942,support@service.com,New Feature Release Notes,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-25T04:19:18.583897,12,0,0,0,0,0,0,legitimate
+EMAIL_000592,notifications@app.com,Monthly Report Attached,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-06-30T04:19:18.576795,14,0,0,1,0,0,0,legitimate
+EMAIL_000074,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,Your Microsoft account needs immediate attention: bit.ly/v8su95,2026-06-30T04:19:18.559060,7,1,1,5,0,1,0,phishing
+EMAIL_000478,support@paypa1-verify.com,Your Package Delivery Failed,Click here immediately to verify your account before it gets suspended: bit.ly/g85jko,2026-07-02T04:19:18.574450,12,1,3,4,2,0,0,phishing
+EMAIL_000417,noreply@amaz0n-security.com,Your Package Delivery Failed,Your Microsoft account needs immediate attention: bit.ly/rg6vej,2026-07-17T04:19:18.572857,7,1,3,4,0,0,0,phishing
+EMAIL_000470,security@google-account.tk,Congratulations! You've Won a Prize,Your payment method has expired. Update it now: bit.ly/n32n0o,2026-07-22T04:19:18.574260,9,1,1,5,3,1,0,phishing
+EMAIL_000624,admin@project.com,Your Reservation Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-17T04:19:18.577419,12,0,0,1,1,0,0,legitimate
+EMAIL_000752,newsletter@brand.com,Project Update - Q3 Results,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-20T04:19:18.579917,14,0,0,1,0,0,0,legitimate
+EMAIL_000936,admin@project.com,Monthly Report Attached,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-10T04:19:18.583750,12,0,0,1,0,0,0,legitimate
+EMAIL_000553,admin@project.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-01T04:19:18.575983,15,0,0,0,1,0,0,legitimate
+EMAIL_000795,notifications@app.com,Your Reservation Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-06-29T04:19:18.580781,11,0,0,1,1,0,0,legitimate
+EMAIL_000358,security@google-account.tk,Bank Security Alert,Confirm receipt of package: bit.ly/mp9qsb,2026-07-04T04:19:18.571437,5,1,1,5,1,1,0,phishing
+EMAIL_000575,noreply@company.com,Project Update - Q3 Results,We've improved our security. No action needed from you.,2026-07-01T04:19:18.576419,9,0,0,0,0,0,0,legitimate
+EMAIL_000650,orders@store.com,Welcome to Our Newsletter,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-17T04:19:18.577848,14,0,0,0,0,0,0,legitimate
+EMAIL_000703,support@service.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-06-29T04:19:18.578926,12,0,0,1,0,0,0,legitimate
+EMAIL_000056,verify@micros0ft-account.ru,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/7fvr6m,2026-07-02T04:19:18.558661,12,1,1,1,3,0,0,phishing
+EMAIL_000499,support@paypa1-verify.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/1gyfix,2026-07-22T04:19:18.574903,9,1,2,1,1,0,0,phishing
+EMAIL_000282,verify@micros0ft-account.ru,Confirm Your Identity Now,Congratulations! You've won $5000. Claim your prize: bit.ly/8qa5og,2026-06-30T04:19:18.567679,8,1,1,3,4,1,0,phishing
+EMAIL_000549,hr@company.com,Your Order Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-05T04:19:18.575922,12,0,0,1,1,0,0,legitimate
+EMAIL_000513,noreply@company.com,Annual Leave Request Approved,Thank you for attending our webinar. Here's the recording link.,2026-07-14T04:19:18.575152,10,0,0,0,0,0,0,legitimate
+EMAIL_000329,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/nwtz0t,2026-07-28T04:19:18.568777,9,1,1,3,3,1,0,phishing
+EMAIL_000589,newsletter@brand.com,Password Changed Successfully,Attached is the updated project timeline. Please review and provide feedback.,2026-07-06T04:19:18.576719,11,0,0,0,1,0,0,legitimate
+EMAIL_000242,noreply@amaz0n-security.com,Your Package Delivery Failed,PayPal security alert. Confirm your information: bit.ly/rspzzd,2026-07-25T04:19:18.566690,7,1,1,3,1,1,0,phishing
+EMAIL_000747,admin@project.com,Monthly Report Attached,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-27T04:19:18.579815,15,0,0,1,0,0,0,legitimate
+EMAIL_000947,orders@store.com,Annual Leave Request Approved,Thank you for attending our webinar. Here's the recording link.,2026-07-13T04:19:18.585242,10,0,0,0,0,0,0,legitimate
+EMAIL_000368,security@google-account.tk,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/z25m2k,2026-07-12T04:19:18.571719,7,1,2,4,1,0,0,phishing
+EMAIL_000724,newsletter@brand.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-15T04:19:18.579337,14,0,0,0,0,0,0,legitimate
+EMAIL_000104,noreply@amaz0n-security.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/pqix8u,2026-07-21T04:19:18.559735,9,1,3,1,1,1,0,phishing
+EMAIL_000940,hr@company.com,Project Update - Q3 Results,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-05T04:19:18.583819,12,0,0,1,1,0,0,legitimate
+EMAIL_000503,noreply@company.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-27T04:19:18.574967,14,0,0,0,0,0,0,legitimate
+EMAIL_000018,verify@micros0ft-account.ru,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/ii8hmv,2026-07-07T04:19:18.557780,12,1,2,4,2,1,0,phishing
+EMAIL_000025,support@paypa1-verify.com,Your Account Has Been Compromised,Your Microsoft account needs immediate attention: bit.ly/4kzktt,2026-07-23T04:19:18.557903,7,1,2,2,0,0,0,phishing
+EMAIL_000617,support@service.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-15T04:19:18.577263,15,0,0,0,1,0,0,legitimate
+EMAIL_000966,admin@project.com,Team Lunch This Friday,We've improved our security. No action needed from you.,2026-07-02T04:19:18.585650,9,0,0,1,0,0,0,legitimate
+EMAIL_000529,newsletter@brand.com,Your Reservation Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-16T04:19:18.575512,11,0,0,1,1,0,0,legitimate
+EMAIL_000173,security@google-account.tk,Refund Pending - Claim Now,Your Microsoft account needs immediate attention: bit.ly/s5ov93,2026-07-18T04:19:18.565012,7,1,3,4,1,0,0,phishing
+EMAIL_000647,newsletter@brand.com,Annual Leave Request Approved,Here's the monthly report with our latest metrics and performance analysis.,2026-07-07T04:19:18.577811,11,0,0,0,0,0,0,legitimate
+EMAIL_000943,admin@project.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-27T04:19:18.583914,9,0,0,1,0,0,0,legitimate
+EMAIL_000044,security@google-account.tk,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/jz3owq,2026-06-30T04:19:18.558314,9,1,2,5,1,1,0,phishing
+EMAIL_000620,newsletter@brand.com,Password Changed Successfully,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-26T04:19:18.577307,12,0,0,1,1,0,0,legitimate
+EMAIL_000531,noreply@company.com,Monthly Report Attached,Here's the monthly report with our latest metrics and performance analysis.,2026-07-04T04:19:18.575537,11,0,0,1,0,0,0,legitimate
+EMAIL_000374,security@google-account.tk,Refund Pending - Claim Now,PayPal security alert. Confirm your information: bit.ly/kbs220,2026-07-21T04:19:18.571820,7,1,3,5,2,1,0,phishing
+EMAIL_000532,hr@company.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-26T04:19:18.575547,11,0,0,1,1,0,0,legitimate
+EMAIL_000980,team@workplace.com,Project Update - Q3 Results,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-24T04:19:18.585980,12,0,0,1,0,0,0,legitimate
+EMAIL_000892,newsletter@brand.com,Your Reservation Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-28T04:19:18.582861,11,0,0,0,1,0,0,legitimate
+EMAIL_000988,newsletter@brand.com,Annual Leave Request Approved,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-06T04:19:18.586139,12,0,0,1,0,0,0,legitimate
+EMAIL_000318,noreply@amaz0n-security.com,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/pv27ey,2026-06-30T04:19:18.568518,12,1,1,5,2,0,0,phishing
+EMAIL_000871,team@workplace.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-11T04:19:18.582340,11,0,0,0,0,0,0,legitimate
+EMAIL_000809,notifications@app.com,Your Order Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-19T04:19:18.581040,15,0,0,0,1,0,0,legitimate
+EMAIL_000588,hr@company.com,Monthly Report Attached,Thank you for attending our webinar. Here's the recording link.,2026-07-07T04:19:18.576706,10,0,0,1,0,0,0,legitimate
+EMAIL_000688,noreply@company.com,Project Update - Q3 Results,Here's the monthly report with our latest metrics and performance analysis.,2026-07-27T04:19:18.578691,11,0,0,1,0,0,0,legitimate
+EMAIL_000841,notifications@app.com,Monthly Report Attached,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-22T04:19:18.581738,15,0,0,0,0,0,0,legitimate
+EMAIL_000143,verify@micros0ft-account.ru,Update Payment Method Required,Your Microsoft account needs immediate attention: bit.ly/sngfxq,2026-07-15T04:19:18.560505,7,1,2,5,1,1,0,phishing
+EMAIL_000665,hr@company.com,Monthly Report Attached,Here's the monthly report with our latest metrics and performance analysis.,2026-07-05T04:19:18.578089,11,0,0,1,0,0,0,legitimate
+EMAIL_000281,help@applesupport-verify.net,Refund Pending - Claim Now,We noticed unusual activity. Please confirm your password: bit.ly/rs1nmf,2026-07-01T04:19:18.567660,9,1,3,2,2,1,0,phishing
+EMAIL_000614,notifications@app.com,Team Lunch This Friday,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-22T04:19:18.577189,12,0,0,1,0,0,0,legitimate
+EMAIL_000364,help@applesupport-verify.net,Congratulations! You've Won a Prize,Your payment method has expired. Update it now: bit.ly/5b3q1i,2026-07-04T04:19:18.571541,9,1,3,4,3,1,0,phishing
+EMAIL_000363,admin@bank-security-check.xyz,Your Account Has Been Compromised,Your Microsoft account needs immediate attention: bit.ly/f9slqe,2026-07-23T04:19:18.571516,7,1,2,2,0,1,0,phishing
+EMAIL_000918,newsletter@brand.com,Password Changed Successfully,Attached is the updated project timeline. Please review and provide feedback.,2026-07-02T04:19:18.583335,11,0,0,1,1,0,0,legitimate
+EMAIL_000405,help@applesupport-verify.net,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/2veakj,2026-07-13T04:19:18.572487,8,1,2,3,1,0,0,phishing
+EMAIL_000339,help@applesupport-verify.net,Refund Pending - Claim Now,PayPal security alert. Confirm your information: bit.ly/9bdzhw,2026-07-06T04:19:18.569025,7,1,1,2,2,1,0,phishing
+EMAIL_000011,support@paypa1-verify.com,Click Here to Confirm Your Password,Confirm receipt of package: bit.ly/pp9pas,2026-06-29T04:19:18.557540,5,1,2,4,2,1,0,phishing
+EMAIL_000850,team@workplace.com,Your Reservation Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-24T04:19:18.581918,10,0,0,1,1,0,0,legitimate
+EMAIL_000667,newsletter@brand.com,Password Changed Successfully,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-13T04:19:18.578242,12,0,0,0,0,0,0,legitimate
+EMAIL_000702,orders@store.com,Your Reservation Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-23T04:19:18.578906,11,0,0,0,1,0,0,legitimate
+EMAIL_000922,newsletter@brand.com,Your Order Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-26T04:19:18.583387,12,0,0,0,1,0,0,legitimate
+EMAIL_000511,support@service.com,Your Order Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-22T04:19:18.575123,15,0,0,0,1,0,0,legitimate
+EMAIL_000037,admin@bank-security-check.xyz,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/7ptju6,2026-07-03T04:19:18.558170,12,1,2,4,3,1,0,phishing
+EMAIL_000414,help@applesupport-verify.net,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/i9gw2l,2026-07-12T04:19:18.572797,7,1,2,4,1,0,0,phishing
+EMAIL_000742,newsletter@brand.com,Password Changed Successfully,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-24T04:19:18.579718,14,0,0,0,0,0,0,legitimate
+EMAIL_000565,hr@company.com,Welcome to Our Newsletter,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-02T04:19:18.576222,14,0,0,1,0,0,0,legitimate
+EMAIL_000128,support@paypa1-verify.com,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/nq3juo,2026-07-25T04:19:18.560256,12,1,2,1,2,1,0,phishing
+EMAIL_000169,security@google-account.tk,Update Payment Method Required,Confirm receipt of package: bit.ly/ju235n,2026-07-27T04:19:18.564953,5,1,2,3,2,1,0,phishing
+EMAIL_000567,admin@project.com,New Feature Release Notes,Here's the monthly report with our latest metrics and performance analysis.,2026-07-17T04:19:18.576281,11,0,0,1,0,0,0,legitimate
+EMAIL_000561,noreply@company.com,Annual Leave Request Approved,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-08T04:19:18.576168,14,0,0,0,0,0,0,legitimate
+EMAIL_000740,hr@company.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-19T04:19:18.579693,15,0,0,1,1,0,0,legitimate
+EMAIL_000439,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/ayvgoh,2026-07-12T04:19:18.573431,8,1,3,4,3,1,0,phishing
+EMAIL_000858,notifications@app.com,Welcome to Our Newsletter,Here's the monthly report with our latest metrics and performance analysis.,2026-07-09T04:19:18.582139,11,0,0,0,0,0,0,legitimate
+EMAIL_000583,support@service.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-20T04:19:18.576570,14,0,0,0,0,0,0,legitimate
+EMAIL_000182,security@google-account.tk,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/fn4ech,2026-07-07T04:19:18.565310,6,1,2,2,0,1,0,phishing
+EMAIL_000584,noreply@company.com,Meeting Tomorrow at 2PM,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-24T04:19:18.576583,12,0,0,1,0,0,0,legitimate
+EMAIL_000124,security@google-account.tk,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/tu966g,2026-07-07T04:19:18.560166,5,1,1,4,3,1,0,phishing
+EMAIL_000164,security@google-account.tk,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/gv3hds,2026-07-28T04:19:18.564810,7,1,3,4,2,1,0,phishing
+EMAIL_000961,notifications@app.com,Password Changed Successfully,Thank you for attending our webinar. Here's the recording link.,2026-07-22T04:19:18.585530,10,0,0,1,0,0,0,legitimate
+EMAIL_000045,help@applesupport-verify.net,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/26tb9d,2026-07-07T04:19:18.558329,9,1,3,3,1,1,0,phishing
+EMAIL_000260,admin@bank-security-check.xyz,Your Package Delivery Failed,PayPal security alert. Confirm your information: bit.ly/zwqd1d,2026-07-03T04:19:18.567147,7,1,3,1,1,0,0,phishing
+EMAIL_000535,orders@store.com,Project Update - Q3 Results,Attached is the updated project timeline. Please review and provide feedback.,2026-07-12T04:19:18.575577,11,0,0,1,0,0,0,legitimate
+EMAIL_000192,admin@bank-security-check.xyz,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/xiec3m,2026-07-22T04:19:18.565534,8,1,1,3,2,1,0,phishing
+EMAIL_000512,support@service.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-15T04:19:18.575138,12,0,0,0,0,0,0,legitimate
+EMAIL_000568,noreply@company.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-25T04:19:18.576296,12,0,0,0,0,0,0,legitimate
+EMAIL_000093,help@applesupport-verify.net,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/7f5hdt,2026-07-03T04:19:18.559495,9,1,1,1,3,0,0,phishing
+EMAIL_000340,support@paypa1-verify.com,Your Package Delivery Failed,Confirm receipt of package: bit.ly/ttdlwz,2026-07-25T04:19:18.569055,5,1,3,5,1,1,0,phishing
+EMAIL_000114,noreply@amaz0n-security.com,Click Here to Confirm Your Password,Your Microsoft account needs immediate attention: bit.ly/6ne3dw,2026-07-20T04:19:18.559972,7,1,2,1,2,1,0,phishing
+EMAIL_000805,hr@company.com,Monthly Report Attached,Here's the monthly report with our latest metrics and performance analysis.,2026-07-21T04:19:18.580951,11,0,0,1,0,0,0,legitimate
+EMAIL_000216,noreply@amaz0n-security.com,Your Account Has Been Compromised,Your Microsoft account needs immediate attention: bit.ly/x3qrcy,2026-06-29T04:19:18.566117,7,1,1,2,0,1,0,phishing
+EMAIL_000039,noreply@amaz0n-security.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/rprji0,2026-07-10T04:19:18.558225,9,1,3,5,1,1,0,phishing
+EMAIL_000116,admin@bank-security-check.xyz,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/kdr1mt,2026-07-15T04:19:18.560037,5,1,2,2,1,1,0,phishing
+EMAIL_000516,newsletter@brand.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-09T04:19:18.575227,12,0,0,1,0,0,0,legitimate
+EMAIL_000262,verify@micros0ft-account.ru,Confirm Your Identity Now,Your payment method has expired. Update it now: bit.ly/wl31zq,2026-07-09T04:19:18.567178,9,1,1,5,2,1,0,phishing
+EMAIL_000640,orders@store.com,Welcome to Our Newsletter,We've improved our security. No action needed from you.,2026-07-10T04:19:18.577697,9,0,0,1,0,0,0,legitimate
+EMAIL_000504,newsletter@brand.com,Password Changed Successfully,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-15T04:19:18.574980,12,0,0,0,0,0,0,legitimate
+EMAIL_000559,hr@company.com,Project Update - Q3 Results,Your subscription has been renewed. Thank you for your continued support.,2026-07-14T04:19:18.576137,11,0,0,0,0,0,0,legitimate
+EMAIL_000521,orders@store.com,Monthly Report Attached,We've improved our security. No action needed from you.,2026-07-15T04:19:18.575331,9,0,0,0,0,0,0,legitimate
+EMAIL_000714,admin@project.com,Project Update - Q3 Results,Here's the monthly report with our latest metrics and performance analysis.,2026-07-06T04:19:18.579130,11,0,0,0,0,0,0,legitimate
+EMAIL_000599,orders@store.com,New Feature Release Notes,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-20T04:19:18.576928,12,0,0,1,0,0,0,legitimate
+EMAIL_000066,verify@micros0ft-account.ru,Confirm Your Identity Now,IRS tax refund ready for pickup. Claim here: bit.ly/83hzg7,2026-07-14T04:19:18.558886,9,1,2,2,2,1,0,phishing
+EMAIL_000734,hr@company.com,Project Update - Q3 Results,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-16T04:19:18.579548,12,0,0,0,0,0,0,legitimate
+EMAIL_000467,security@google-account.tk,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/w50khi,2026-07-10T04:19:18.574210,6,1,2,5,1,1,0,phishing
+EMAIL_000867,team@workplace.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-26T04:19:18.582289,11,0,0,1,1,0,0,legitimate
+EMAIL_000952,admin@project.com,Annual Leave Request Approved,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-01T04:19:18.585326,14,0,0,0,0,0,0,legitimate
+EMAIL_000910,notifications@app.com,Team Lunch This Friday,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-12T04:19:18.583197,14,0,0,0,0,0,0,legitimate
+EMAIL_000411,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Click here immediately to verify your account before it gets suspended: bit.ly/8fhju0,2026-07-11T04:19:18.572579,12,1,2,4,4,1,0,phishing
+EMAIL_000694,support@service.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-11T04:19:18.578770,11,0,0,0,0,0,0,legitimate
+EMAIL_000807,admin@project.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-05T04:19:18.581007,11,0,0,1,0,0,0,legitimate
+EMAIL_000923,orders@store.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-06-30T04:19:18.583399,12,0,0,0,1,0,0,legitimate
+EMAIL_000362,help@applesupport-verify.net,Bank Security Alert,Congratulations! You've won $5000. Claim your prize: bit.ly/7p0m9o,2026-07-23T04:19:18.571501,8,1,3,1,3,1,0,phishing
+EMAIL_000231,support@paypa1-verify.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/u941yb,2026-07-02T04:19:18.566438,9,1,3,4,1,1,0,phishing
+EMAIL_000651,notifications@app.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-11T04:19:18.577860,15,0,0,1,0,0,0,legitimate
+EMAIL_000338,noreply@amaz0n-security.com,Your Package Delivery Failed,Confirm receipt of package: bit.ly/f8d83y,2026-07-09T04:19:18.569010,5,1,1,1,1,1,0,phishing
+EMAIL_000981,hr@company.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-19T04:19:18.585998,14,0,0,1,0,0,0,legitimate
+EMAIL_000615,notifications@app.com,Meeting Tomorrow at 2PM,Attached is the updated project timeline. Please review and provide feedback.,2026-07-04T04:19:18.577204,11,0,0,0,0,0,0,legitimate
+EMAIL_000095,security@google-account.tk,Your Package Delivery Failed,PayPal security alert. Confirm your information: bit.ly/vvmw21,2026-07-23T04:19:18.559526,7,1,1,4,1,1,0,phishing
+EMAIL_000069,noreply@amaz0n-security.com,Refund Pending - Claim Now,Congratulations! You've won $5000. Claim your prize: bit.ly/tdquq9,2026-07-25T04:19:18.558930,8,1,1,4,3,1,0,phishing
+EMAIL_000759,orders@store.com,Your Reservation Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-05T04:19:18.580063,11,0,0,0,1,0,0,legitimate
+EMAIL_000479,verify@micros0ft-account.ru,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/ekuehk,2026-07-28T04:19:18.574468,8,1,3,3,2,1,0,phishing
+EMAIL_000839,notifications@app.com,Password Changed Successfully,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-26T04:19:18.581710,15,0,0,1,0,0,0,legitimate
+EMAIL_000410,support@paypa1-verify.com,Action Required: Unusual Activity Detected,We noticed unusual activity. Please confirm your password: bit.ly/35wx92,2026-07-06T04:19:18.572564,9,1,1,4,1,1,0,phishing
+EMAIL_000629,admin@project.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-28T04:19:18.577522,14,0,0,1,0,0,0,legitimate
+EMAIL_000487,support@paypa1-verify.com,Refund Pending - Claim Now,Your Microsoft account needs immediate attention: bit.ly/09svb3,2026-07-16T04:19:18.574616,7,1,1,3,1,1,0,phishing
+EMAIL_000661,admin@project.com,Password Changed Successfully,Attached is the updated project timeline. Please review and provide feedback.,2026-07-18T04:19:18.578043,11,0,0,0,1,0,0,legitimate
+EMAIL_000728,hr@company.com,Annual Leave Request Approved,We've improved our security. No action needed from you.,2026-07-02T04:19:18.579469,9,0,0,0,0,0,0,legitimate
+EMAIL_000666,support@service.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-20T04:19:18.578221,11,0,0,0,1,0,0,legitimate
+EMAIL_000450,noreply@amaz0n-security.com,Your Package Delivery Failed,PayPal security alert. Confirm your information: bit.ly/bnp5a0,2026-07-25T04:19:18.573646,7,1,3,3,1,1,0,phishing
+EMAIL_000230,admin@bank-security-check.xyz,Urgent: Verify Your Account,IRS tax refund ready for pickup. Claim here: bit.ly/dgt8q6,2026-07-08T04:19:18.566423,9,1,1,1,3,0,0,phishing
+EMAIL_000524,support@service.com,New Feature Release Notes,We've improved our security. No action needed from you.,2026-07-10T04:19:18.575377,9,0,0,0,0,0,0,legitimate
+EMAIL_000314,support@paypa1-verify.com,Bank Security Alert,Confirm receipt of package: bit.ly/kc36dm,2026-07-21T04:19:18.568395,5,1,2,4,1,0,0,phishing
+EMAIL_000186,admin@bank-security-check.xyz,Urgent: Verify Your Account,We noticed unusual activity. Please confirm your password: bit.ly/i0b3so,2026-07-03T04:19:18.565436,9,1,3,5,3,0,0,phishing
+EMAIL_000770,notifications@app.com,Welcome to Our Newsletter,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-03T04:19:18.580242,14,0,0,0,0,0,0,legitimate
+EMAIL_000748,admin@project.com,Annual Leave Request Approved,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-23T04:19:18.579831,12,0,0,0,0,0,0,legitimate
+EMAIL_000070,admin@bank-security-check.xyz,Update Payment Method Required,Your Netflix subscription needs updating: bit.ly/q26fkr,2026-07-22T04:19:18.558944,6,1,2,3,1,1,0,phishing
+EMAIL_000007,admin@bank-security-check.xyz,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/45jt11,2026-07-10T04:19:18.557448,6,1,2,1,1,0,0,phishing
+EMAIL_000021,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/9jszey,2026-07-21T04:19:18.557838,8,1,2,3,3,0,0,phishing
+EMAIL_000385,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,Your payment method has expired. Update it now: bit.ly/wg1gag,2026-07-02T04:19:18.572024,9,1,3,2,1,1,0,phishing
+EMAIL_000284,help@applesupport-verify.net,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/5n47oc,2026-07-15T04:19:18.567709,12,1,3,5,3,1,0,phishing
+EMAIL_000907,support@service.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-02T04:19:18.583129,14,0,0,0,1,0,0,legitimate
+EMAIL_000012,noreply@amaz0n-security.com,Update Payment Method Required,IRS tax refund ready for pickup. Claim here: bit.ly/jln9ku,2026-07-25T04:19:18.557558,9,1,2,4,2,1,0,phishing
+EMAIL_000028,help@applesupport-verify.net,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/zonsq7,2026-07-10T04:19:18.558001,5,1,2,3,3,0,0,phishing
+EMAIL_000357,help@applesupport-verify.net,Action Required: Unusual Activity Detected,Amazon detected unauthorized access. Verify your account: bit.ly/b3yx03,2026-07-23T04:19:18.571415,8,1,1,4,1,1,0,phishing
+EMAIL_000776,hr@company.com,Password Changed Successfully,Attached is the updated project timeline. Please review and provide feedback.,2026-07-20T04:19:18.580366,11,0,0,1,1,0,0,legitimate
+EMAIL_000208,support@paypa1-verify.com,Your Account Has Been Compromised,Your payment method has expired. Update it now: bit.ly/0sthlh,2026-07-01T04:19:18.565925,9,1,2,4,1,1,0,phishing
+EMAIL_000218,support@paypa1-verify.com,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/j3ka91,2026-07-02T04:19:18.566153,6,1,2,2,0,0,0,phishing
+EMAIL_000203,security@google-account.tk,Your Package Delivery Failed,Click here immediately to verify your account before it gets suspended: bit.ly/bw5hbk,2026-07-02T04:19:18.565764,12,1,3,5,2,1,0,phishing
+EMAIL_000679,hr@company.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-06-29T04:19:18.578491,11,0,0,0,0,0,0,legitimate
+EMAIL_000991,admin@project.com,Your Reservation Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-09T04:19:18.586177,14,0,0,1,1,0,0,legitimate
+EMAIL_000038,security@google-account.tk,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/p5sdcq,2026-07-07T04:19:18.558186,8,1,1,1,5,1,0,phishing
+EMAIL_000402,security@google-account.tk,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/hmbzli,2026-07-14T04:19:18.572399,12,1,1,2,3,1,0,phishing
+EMAIL_000416,verify@micros0ft-account.ru,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/qfklij,2026-07-18T04:19:18.572843,5,1,3,3,1,0,0,phishing
+EMAIL_000825,noreply@company.com,Your Reservation Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-21T04:19:18.581388,14,0,0,0,1,0,0,legitimate
+EMAIL_000224,support@paypa1-verify.com,Bank Security Alert,PayPal security alert. Confirm your information: bit.ly/5lp35o,2026-07-02T04:19:18.566288,7,1,3,5,1,1,0,phishing
+EMAIL_000217,security@google-account.tk,Refund Pending - Claim Now,IRS tax refund ready for pickup. Claim here: bit.ly/f2xrrn,2026-07-17T04:19:18.566137,9,1,1,3,1,1,0,phishing
+EMAIL_000480,help@applesupport-verify.net,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/u5nqir,2026-07-13T04:19:18.574483,6,1,2,3,1,1,0,phishing
+EMAIL_000348,support@paypa1-verify.com,Your Package Delivery Failed,PayPal security alert. Confirm your information: bit.ly/qvcsdl,2026-07-10T04:19:18.569217,7,1,2,1,1,1,0,phishing
+EMAIL_000577,newsletter@brand.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-06T04:19:18.576490,14,0,0,0,0,0,0,legitimate
+EMAIL_000831,noreply@company.com,Monthly Report Attached,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-22T04:19:18.581533,14,0,0,1,0,0,0,legitimate
+EMAIL_000641,team@workplace.com,Annual Leave Request Approved,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-26T04:19:18.577706,14,0,0,0,0,0,0,legitimate
+EMAIL_000278,verify@micros0ft-account.ru,Update Payment Method Required,Amazon detected unauthorized access. Verify your account: bit.ly/sb6eto,2026-07-07T04:19:18.567586,8,1,1,4,2,0,0,phishing
+EMAIL_000444,security@google-account.tk,Your Account Has Been Compromised,Your Microsoft account needs immediate attention: bit.ly/szk3pa,2026-07-20T04:19:18.573502,7,1,3,5,0,1,0,phishing
+EMAIL_000916,hr@company.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-03T04:19:18.583300,11,0,0,1,1,0,0,legitimate
+EMAIL_000522,admin@project.com,Password Changed Successfully,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-24T04:19:18.575346,12,0,0,1,1,0,0,legitimate
+EMAIL_000894,admin@project.com,Your Reservation Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-01T04:19:18.582886,14,0,0,1,1,0,0,legitimate
+EMAIL_000474,support@paypa1-verify.com,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/egv3jp,2026-07-04T04:19:18.574357,7,1,3,2,1,0,0,phishing
+EMAIL_000749,team@workplace.com,Password Changed Successfully,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-09T04:19:18.579844,15,0,0,0,0,0,0,legitimate
+EMAIL_000814,support@service.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-08T04:19:18.581112,14,0,0,0,1,0,0,legitimate
+EMAIL_000431,security@google-account.tk,Click Here to Confirm Your Password,Confirm receipt of package: bit.ly/hgib5u,2026-07-09T04:19:18.573110,5,1,3,1,2,1,0,phishing
+EMAIL_000320,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Your Microsoft account needs immediate attention: bit.ly/97wlx0,2026-07-04T04:19:18.568550,7,1,3,5,0,1,0,phishing
+EMAIL_000606,newsletter@brand.com,Your Reservation Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-26T04:19:18.577065,10,0,0,1,1,0,0,legitimate
+EMAIL_000187,noreply@amaz0n-security.com,Refund Pending - Claim Now,Click here immediately to verify your account before it gets suspended: bit.ly/wuz0hf,2026-07-15T04:19:18.565456,12,1,1,4,3,1,0,phishing
+EMAIL_000691,hr@company.com,Welcome to Our Newsletter,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-21T04:19:18.578732,14,0,0,1,0,0,0,legitimate
+EMAIL_000027,security@google-account.tk,Refund Pending - Claim Now,IRS tax refund ready for pickup. Claim here: bit.ly/hzcnlq,2026-07-24T04:19:18.557984,9,1,1,2,1,1,0,phishing
+EMAIL_000744,newsletter@brand.com,Team Lunch This Friday,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-11T04:19:18.579744,12,0,0,0,0,0,0,legitimate
+EMAIL_000774,support@service.com,Meeting Tomorrow at 2PM,We've improved our security. No action needed from you.,2026-07-18T04:19:18.580292,9,0,0,0,0,0,0,legitimate
+EMAIL_000960,notifications@app.com,Password Changed Successfully,Here's the monthly report with our latest metrics and performance analysis.,2026-07-27T04:19:18.585519,11,0,0,1,0,0,0,legitimate
+EMAIL_000704,admin@project.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-02T04:19:18.578941,14,0,0,0,0,0,0,legitimate
+EMAIL_000306,security@google-account.tk,Your Account Has Been Compromised,Congratulations! You've won $5000. Claim your prize: bit.ly/3nc6km,2026-07-17T04:19:18.568227,8,1,3,1,3,1,0,phishing
+EMAIL_000507,orders@store.com,Team Lunch This Friday,Your subscription has been renewed. Thank you for your continued support.,2026-07-26T04:19:18.575059,11,0,0,0,0,0,0,legitimate
+EMAIL_000901,newsletter@brand.com,Your Order Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-20T04:19:18.583012,12,0,0,0,1,0,0,legitimate
+EMAIL_000165,security@google-account.tk,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/juojhz,2026-07-25T04:19:18.564832,6,1,1,3,1,1,0,phishing
+EMAIL_000953,team@workplace.com,Team Lunch This Friday,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-27T04:19:18.585340,14,0,0,1,0,0,0,legitimate
+EMAIL_000167,verify@micros0ft-account.ru,Click Here to Confirm Your Password,Your Microsoft account needs immediate attention: bit.ly/bd16yl,2026-07-03T04:19:18.564921,7,1,1,2,2,1,0,phishing
+EMAIL_000388,security@google-account.tk,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/210b5b,2026-07-18T04:19:18.572115,8,1,3,3,2,1,0,phishing
+EMAIL_000582,support@service.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-16T04:19:18.576556,12,0,0,0,0,0,0,legitimate
+EMAIL_000618,noreply@company.com,Password Changed Successfully,Your subscription has been renewed. Thank you for your continued support.,2026-07-08T04:19:18.577281,11,0,0,1,0,0,0,legitimate
+EMAIL_000022,verify@micros0ft-account.ru,Bank Security Alert,IRS tax refund ready for pickup. Claim here: bit.ly/dqghvi,2026-07-28T04:19:18.557852,9,1,1,2,1,1,0,phishing
+EMAIL_000352,security@google-account.tk,Your Package Delivery Failed,Your Netflix subscription needs updating: bit.ly/r66ne7,2026-07-03T04:19:18.569270,6,1,3,4,0,0,0,phishing
+EMAIL_000090,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/ce4sdi,2026-07-01T04:19:18.559453,5,1,2,3,3,0,0,phishing
+EMAIL_000941,orders@store.com,Monthly Report Attached,Your subscription has been renewed. Thank you for your continued support.,2026-07-19T04:19:18.583878,11,0,0,1,0,0,0,legitimate
+EMAIL_000566,noreply@company.com,Project Update - Q3 Results,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-08T04:19:18.576262,14,0,0,1,0,0,0,legitimate
+EMAIL_000908,support@service.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-24T04:19:18.583142,11,0,0,1,1,0,0,legitimate
+EMAIL_000927,hr@company.com,Password Changed Successfully,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-01T04:19:18.583485,14,0,0,0,0,0,0,legitimate
+EMAIL_000638,notifications@app.com,Annual Leave Request Approved,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-14T04:19:18.577675,12,0,0,1,0,0,0,legitimate
+EMAIL_000473,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/g2jzbz,2026-07-14T04:19:18.574343,8,1,1,2,3,1,0,phishing
+EMAIL_000845,support@service.com,Welcome to Our Newsletter,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-01T04:19:18.581789,12,0,0,1,0,0,0,legitimate
+EMAIL_000518,admin@project.com,Password Changed Successfully,Here's the monthly report with our latest metrics and performance analysis.,2026-07-05T04:19:18.575261,11,0,0,1,0,0,0,legitimate
+EMAIL_000823,hr@company.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-10T04:19:18.581364,14,0,0,0,1,0,0,legitimate
+EMAIL_000346,verify@micros0ft-account.ru,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/2vc0ca,2026-07-06T04:19:18.569172,6,1,1,5,1,1,0,phishing
+EMAIL_000199,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/1yun2u,2026-07-06T04:19:18.565700,7,1,2,1,1,0,0,phishing
+EMAIL_000407,help@applesupport-verify.net,Your Package Delivery Failed,IRS tax refund ready for pickup. Claim here: bit.ly/snb3rn,2026-07-13T04:19:18.572521,9,1,2,5,1,1,0,phishing
+EMAIL_000375,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/fs6kty,2026-07-23T04:19:18.571839,6,1,2,1,1,1,0,phishing
+EMAIL_000211,noreply@amaz0n-security.com,Confirm Your Identity Now,Confirm receipt of package: bit.ly/16ws2k,2026-07-25T04:19:18.565976,5,1,2,4,1,1,0,phishing
+EMAIL_000558,newsletter@brand.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-25T04:19:18.576089,11,0,0,1,1,0,0,legitimate
+EMAIL_000443,support@paypa1-verify.com,Your Account Has Been Compromised,PayPal security alert. Confirm your information: bit.ly/gyyrw1,2026-07-22T04:19:18.573489,7,1,3,4,1,1,0,phishing
+EMAIL_000098,admin@bank-security-check.xyz,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/7omk97,2026-07-01T04:19:18.559606,5,1,2,1,3,0,0,phishing
+EMAIL_000828,newsletter@brand.com,Your Order Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-08T04:19:18.581493,11,0,0,0,1,0,0,legitimate
+EMAIL_000190,security@google-account.tk,Action Required: Unusual Activity Detected,Your payment method has expired. Update it now: bit.ly/81vcsf,2026-07-28T04:19:18.565503,9,1,1,5,1,0,0,phishing
+EMAIL_000517,orders@store.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-03T04:19:18.575247,15,0,0,0,0,0,0,legitimate
+EMAIL_000648,admin@project.com,Your Reservation Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-19T04:19:18.577825,10,0,0,1,1,0,0,legitimate
+EMAIL_000036,support@paypa1-verify.com,Bank Security Alert,Confirm receipt of package: bit.ly/6g4j5n,2026-07-03T04:19:18.558152,5,1,2,2,1,1,0,phishing
+EMAIL_000139,support@paypa1-verify.com,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/12u13u,2026-07-23T04:19:18.560448,9,1,3,2,2,1,0,phishing
+EMAIL_000489,support@paypa1-verify.com,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/g0qwhb,2026-07-27T04:19:18.574683,8,1,1,4,1,0,0,phishing
+EMAIL_000359,admin@bank-security-check.xyz,Click Here to Confirm Your Password,Your Netflix subscription needs updating: bit.ly/utia37,2026-07-05T04:19:18.571455,6,1,3,5,2,1,0,phishing
+EMAIL_000409,support@paypa1-verify.com,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/6l2dax,2026-07-10T04:19:18.572550,12,1,1,1,3,1,0,phishing
+EMAIL_000530,newsletter@brand.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-17T04:19:18.575527,9,0,0,1,0,0,0,legitimate
+EMAIL_000646,support@service.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-19T04:19:18.577794,11,0,0,0,0,0,0,legitimate
+EMAIL_000678,orders@store.com,Welcome to Our Newsletter,Here's the monthly report with our latest metrics and performance analysis.,2026-07-14T04:19:18.578456,11,0,0,0,0,0,0,legitimate
+EMAIL_000753,notifications@app.com,Monthly Report Attached,Thank you for attending our webinar. Here's the recording link.,2026-07-19T04:19:18.579934,10,0,0,0,0,0,0,legitimate
+EMAIL_000557,hr@company.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-08T04:19:18.576078,14,0,0,0,0,0,0,legitimate
+EMAIL_000497,verify@micros0ft-account.ru,Confirm Your Identity Now,Confirm receipt of package: bit.ly/8d4yys,2026-07-14T04:19:18.574871,5,1,2,1,1,1,0,phishing
+EMAIL_000269,verify@micros0ft-account.ru,Bank Security Alert,PayPal security alert. Confirm your information: bit.ly/tdkzwi,2026-06-30T04:19:18.567376,7,1,3,2,1,0,0,phishing
+EMAIL_000965,orders@store.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-08T04:19:18.585587,12,0,0,0,0,0,0,legitimate
+EMAIL_000202,verify@micros0ft-account.ru,Update Payment Method Required,IRS tax refund ready for pickup. Claim here: bit.ly/gmwcrc,2026-07-11T04:19:18.565747,9,1,2,1,2,1,0,phishing
+EMAIL_000245,noreply@amaz0n-security.com,Your Package Delivery Failed,IRS tax refund ready for pickup. Claim here: bit.ly/8w9xr6,2026-07-08T04:19:18.566735,9,1,3,1,1,0,0,phishing
+EMAIL_000781,hr@company.com,Meeting Tomorrow at 2PM,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-26T04:19:18.580444,14,0,0,1,0,0,0,legitimate
+EMAIL_000367,security@google-account.tk,Confirm Your Identity Now,Confirm receipt of package: bit.ly/8ms25s,2026-07-27T04:19:18.571654,5,1,1,5,1,1,0,phishing
+EMAIL_000247,support@paypa1-verify.com,Your Account Has Been Compromised,Click here immediately to verify your account before it gets suspended: bit.ly/qepnhp,2026-07-12T04:19:18.566864,12,1,1,3,2,0,0,phishing
+EMAIL_000258,help@applesupport-verify.net,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/afcwqi,2026-07-20T04:19:18.567118,6,1,3,1,1,0,0,phishing
+EMAIL_000887,notifications@app.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-17T04:19:18.582790,9,0,0,0,1,0,0,legitimate
+EMAIL_000485,security@google-account.tk,Congratulations! You've Won a Prize,Amazon detected unauthorized access. Verify your account: bit.ly/y4bbcr,2026-07-19T04:19:18.574552,8,1,1,5,3,1,0,phishing
+EMAIL_000784,noreply@company.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-09T04:19:18.580521,12,0,0,0,1,0,0,legitimate
+EMAIL_000043,noreply@amaz0n-security.com,Urgent: Verify Your Account,IRS tax refund ready for pickup. Claim here: bit.ly/z916js,2026-07-26T04:19:18.558300,9,1,3,3,3,1,0,phishing
+EMAIL_000972,orders@store.com,Welcome to Our Newsletter,Attached is the updated project timeline. Please review and provide feedback.,2026-07-13T04:19:18.585740,11,0,0,1,0,0,0,legitimate
+EMAIL_000709,admin@project.com,Your Reservation Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-18T04:19:18.579069,11,0,0,1,1,0,0,legitimate
+EMAIL_000808,newsletter@brand.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-18T04:19:18.581019,14,0,0,0,0,0,0,legitimate
+EMAIL_000790,noreply@company.com,Team Lunch This Friday,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-12T04:19:18.580715,15,0,0,0,0,0,0,legitimate
+EMAIL_000382,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,PayPal security alert. Confirm your information: bit.ly/4e5ii4,2026-07-08T04:19:18.571984,7,1,3,1,3,1,0,phishing
+EMAIL_000623,newsletter@brand.com,Annual Leave Request Approved,Attached is the updated project timeline. Please review and provide feedback.,2026-06-30T04:19:18.577375,11,0,0,1,0,0,0,legitimate
+EMAIL_000213,help@applesupport-verify.net,Action Required: Unusual Activity Detected,Your Netflix subscription needs updating: bit.ly/5l2iri,2026-07-09T04:19:18.566001,6,1,2,3,0,1,0,phishing
+EMAIL_000006,noreply@amaz0n-security.com,Click Here to Confirm Your Password,Confirm receipt of package: bit.ly/fxgplt,2026-07-01T04:19:18.557429,5,1,1,2,2,1,0,phishing
+EMAIL_000663,admin@project.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-02T04:19:18.578068,14,0,0,1,0,0,0,legitimate
+EMAIL_000836,orders@store.com,Monthly Report Attached,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-07T04:19:18.581656,15,0,0,0,0,0,0,legitimate
+EMAIL_000275,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/s1obr0,2026-07-16T04:19:18.567504,7,1,2,2,1,1,0,phishing
+EMAIL_000716,team@workplace.com,Annual Leave Request Approved,Thank you for attending our webinar. Here's the recording link.,2026-07-27T04:19:18.579185,10,0,0,0,0,0,0,legitimate
+EMAIL_000921,noreply@company.com,Project Update - Q3 Results,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-22T04:19:18.583372,15,0,0,0,0,0,0,legitimate
+EMAIL_000468,help@applesupport-verify.net,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/uhkw04,2026-07-03T04:19:18.574226,9,1,2,5,3,1,0,phishing
+EMAIL_000785,orders@store.com,Password Changed Successfully,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-18T04:19:18.580537,14,0,0,1,0,0,0,legitimate
+EMAIL_000084,verify@micros0ft-account.ru,Update Payment Method Required,Your Netflix subscription needs updating: bit.ly/lzgrcq,2026-07-18T04:19:18.559298,6,1,2,3,1,0,0,phishing
+EMAIL_000612,team@workplace.com,Your Order Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-14T04:19:18.577159,14,0,0,0,1,0,0,legitimate
+EMAIL_000580,orders@store.com,Your Order Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-12T04:19:18.576532,10,0,0,0,1,0,0,legitimate
+EMAIL_000328,noreply@amaz0n-security.com,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/vby5hv,2026-07-04T04:19:18.568762,6,1,3,2,0,1,0,phishing
+EMAIL_000824,noreply@company.com,Password Changed Successfully,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-18T04:19:18.581376,14,0,0,1,0,0,0,legitimate
+EMAIL_000454,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Your Netflix subscription needs updating: bit.ly/15vt72,2026-07-10T04:19:18.573712,6,1,2,1,0,0,0,phishing
+EMAIL_000266,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/zamft1,2026-07-07T04:19:18.567263,6,1,3,2,1,1,0,phishing
+EMAIL_000764,support@service.com,Project Update - Q3 Results,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-14T04:19:18.580127,12,0,0,0,1,0,0,legitimate
+EMAIL_000725,support@service.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-26T04:19:18.579393,15,0,0,1,0,0,0,legitimate
+EMAIL_000200,help@applesupport-verify.net,Update Payment Method Required,Congratulations! You've won $5000. Claim your prize: bit.ly/ue9m17,2026-07-09T04:19:18.565714,8,1,2,3,4,1,0,phishing
+EMAIL_000967,admin@project.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-06-30T04:19:18.585670,10,0,0,0,0,0,0,legitimate
+EMAIL_000664,team@workplace.com,Project Update - Q3 Results,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-12T04:19:18.578077,15,0,0,1,0,0,0,legitimate
+EMAIL_000311,verify@micros0ft-account.ru,Confirm Your Identity Now,We noticed unusual activity. Please confirm your password: bit.ly/ucomyv,2026-07-16T04:19:18.568335,9,1,1,4,1,1,0,phishing
+EMAIL_000008,admin@bank-security-check.xyz,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/7lslty,2026-07-16T04:19:18.557466,9,1,3,3,1,1,0,phishing
+EMAIL_000133,verify@micros0ft-account.ru,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/yq1mzy,2026-07-24T04:19:18.560327,5,1,1,1,1,1,0,phishing
+EMAIL_000137,help@applesupport-verify.net,Refund Pending - Claim Now,PayPal security alert. Confirm your information: bit.ly/995659,2026-06-30T04:19:18.560419,7,1,3,3,2,0,0,phishing
+EMAIL_000609,team@workplace.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-11T04:19:18.577114,11,0,0,1,1,0,0,legitimate
+EMAIL_000659,admin@project.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-16T04:19:18.578012,11,0,0,0,0,0,0,legitimate
+EMAIL_000555,orders@store.com,Your Order Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-06T04:19:18.576011,10,0,0,0,1,0,0,legitimate
+EMAIL_000715,orders@store.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-23T04:19:18.579142,14,0,0,1,1,0,0,legitimate
+EMAIL_000016,admin@bank-security-check.xyz,Update Payment Method Required,Amazon detected unauthorized access. Verify your account: bit.ly/7rlct8,2026-07-21T04:19:18.557709,8,1,3,4,2,1,0,phishing
+EMAIL_000928,support@service.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-03T04:19:18.583498,14,0,0,0,0,0,0,legitimate
+EMAIL_000087,admin@bank-security-check.xyz,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/0uuqsx,2026-07-16T04:19:18.559404,9,1,1,5,2,1,0,phishing
+EMAIL_000542,orders@store.com,Your Order Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-11T04:19:18.575732,11,0,0,1,1,0,0,legitimate
+EMAIL_000976,noreply@company.com,Team Lunch This Friday,Here's the monthly report with our latest metrics and performance analysis.,2026-07-14T04:19:18.585886,11,0,0,0,0,0,0,legitimate
+EMAIL_000354,security@google-account.tk,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/1yob7x,2026-07-09T04:19:18.569298,8,1,2,2,1,1,0,phishing
+EMAIL_000876,admin@project.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-16T04:19:18.582515,11,0,0,0,0,0,0,legitimate
+EMAIL_000680,hr@company.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-28T04:19:18.578508,11,0,0,0,0,0,0,legitimate
+EMAIL_000673,orders@store.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-25T04:19:18.578322,12,0,0,0,1,0,0,legitimate
+EMAIL_000099,support@paypa1-verify.com,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/j64zey,2026-07-14T04:19:18.559641,9,1,2,4,3,1,0,phishing
+EMAIL_000538,orders@store.com,Your Order Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-26T04:19:18.575682,12,0,0,0,1,0,0,legitimate
+EMAIL_000619,team@workplace.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-05T04:19:18.577294,11,0,0,0,1,0,0,legitimate
+EMAIL_000523,support@service.com,Project Update - Q3 Results,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-02T04:19:18.575361,15,0,0,0,0,0,0,legitimate
+EMAIL_000144,security@google-account.tk,Congratulations! You've Won a Prize,IRS tax refund ready for pickup. Claim here: bit.ly/r3bzi8,2026-07-10T04:19:18.560553,9,1,2,2,3,0,0,phishing
+EMAIL_000827,hr@company.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-04T04:19:18.581475,12,0,0,1,1,0,0,legitimate
+EMAIL_000227,security@google-account.tk,Your Package Delivery Failed,Congratulations! You've won $5000. Claim your prize: bit.ly/jbu2iw,2026-07-03T04:19:18.566376,8,1,3,5,3,1,0,phishing
+EMAIL_000955,notifications@app.com,Team Lunch This Friday,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-10T04:19:18.585369,14,0,0,0,0,0,0,legitimate
+EMAIL_000225,support@paypa1-verify.com,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/p4agnu,2026-07-20T04:19:18.566304,5,1,1,1,3,1,0,phishing
+EMAIL_000126,help@applesupport-verify.net,Your Account Has Been Compromised,PayPal security alert. Confirm your information: bit.ly/qmqw8w,2026-07-15T04:19:18.560223,7,1,1,5,1,1,0,phishing
+EMAIL_000264,support@paypa1-verify.com,Congratulations! You've Won a Prize,Your Netflix subscription needs updating: bit.ly/7x4w3p,2026-07-13T04:19:18.567205,6,1,2,3,2,1,0,phishing
+EMAIL_000737,admin@project.com,Your Reservation Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-14T04:19:18.579647,10,0,0,0,1,0,0,legitimate
+EMAIL_000356,verify@micros0ft-account.ru,Confirm Your Identity Now,Amazon detected unauthorized access. Verify your account: bit.ly/b3rf0z,2026-07-01T04:19:18.571376,8,1,3,3,2,1,0,phishing
+EMAIL_000798,notifications@app.com,Annual Leave Request Approved,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-01T04:19:18.580857,14,0,0,1,0,0,0,legitimate
+EMAIL_000353,noreply@amaz0n-security.com,Your Package Delivery Failed,Your Netflix subscription needs updating: bit.ly/7sz2sk,2026-07-05T04:19:18.569285,6,1,3,5,0,1,0,phishing
+EMAIL_000616,orders@store.com,Password Changed Successfully,Your subscription has been renewed. Thank you for your continued support.,2026-07-16T04:19:18.577245,11,0,0,0,0,0,0,legitimate
+EMAIL_000324,noreply@amaz0n-security.com,Update Payment Method Required,Confirm receipt of package: bit.ly/wsuu6w,2026-07-03T04:19:18.568606,5,1,1,4,2,1,0,phishing
+EMAIL_000722,team@workplace.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-23T04:19:18.579303,11,0,0,0,0,0,0,legitimate
+EMAIL_000214,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/hbfenj,2026-07-09T04:19:18.566014,5,1,2,5,3,0,0,phishing
+EMAIL_000223,support@paypa1-verify.com,Your Account Has Been Compromised,IRS tax refund ready for pickup. Claim here: bit.ly/n8mrxg,2026-07-23T04:19:18.566269,9,1,2,4,1,1,0,phishing
+EMAIL_000064,support@paypa1-verify.com,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/dfinim,2026-07-08T04:19:18.558821,5,1,3,2,3,1,0,phishing
+EMAIL_000259,support@paypa1-verify.com,Urgent: Verify Your Account,Your Microsoft account needs immediate attention: bit.ly/bw0hs3,2026-07-03T04:19:18.567132,7,1,1,2,2,0,0,phishing
+EMAIL_000088,admin@bank-security-check.xyz,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/jrme11,2026-07-26T04:19:18.559422,5,1,3,1,3,1,0,phishing
+EMAIL_000304,help@applesupport-verify.net,Your Account Has Been Compromised,Your payment method has expired. Update it now: bit.ly/y3nsvg,2026-07-16T04:19:18.568156,9,1,1,5,1,1,0,phishing
+EMAIL_000591,newsletter@brand.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-21T04:19:18.576777,12,0,0,0,0,0,0,legitimate
+EMAIL_000386,help@applesupport-verify.net,Your Account Has Been Compromised,Congratulations! You've won $5000. Claim your prize: bit.ly/4pxp39,2026-07-15T04:19:18.572076,8,1,1,2,3,1,0,phishing
+EMAIL_000778,support@service.com,Monthly Report Attached,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-05T04:19:18.580402,12,0,0,0,0,0,0,legitimate
+EMAIL_000842,team@workplace.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-24T04:19:18.581753,11,0,0,1,1,0,0,legitimate
+EMAIL_000813,orders@store.com,Annual Leave Request Approved,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-06T04:19:18.581100,14,0,0,0,0,0,0,legitimate
+EMAIL_000550,orders@store.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-03T04:19:18.575942,14,0,0,1,0,0,0,legitimate
+EMAIL_000628,noreply@company.com,Annual Leave Request Approved,We've improved our security. No action needed from you.,2026-07-09T04:19:18.577510,9,0,0,1,0,0,0,legitimate
+EMAIL_000919,notifications@app.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-26T04:19:18.583347,12,0,0,1,0,0,0,legitimate
+EMAIL_000391,verify@micros0ft-account.ru,Refund Pending - Claim Now,Your payment method has expired. Update it now: bit.ly/x4dn7x,2026-07-18T04:19:18.572161,9,1,2,2,2,1,0,phishing
+EMAIL_000789,support@service.com,Password Changed Successfully,Your subscription has been renewed. Thank you for your continued support.,2026-06-29T04:19:18.580696,11,0,0,1,0,0,0,legitimate
+EMAIL_000746,notifications@app.com,Project Update - Q3 Results,We've improved our security. No action needed from you.,2026-06-30T04:19:18.579795,9,0,0,1,0,0,0,legitimate
+EMAIL_000854,hr@company.com,Annual Leave Request Approved,We've improved our security. No action needed from you.,2026-07-20T04:19:18.582040,9,0,0,1,0,0,0,legitimate
+EMAIL_000681,noreply@company.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-13T04:19:18.578523,12,0,0,0,0,0,0,legitimate
+EMAIL_000452,security@google-account.tk,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/iij6rf,2026-07-15T04:19:18.573685,8,1,2,4,2,1,0,phishing
+EMAIL_000501,noreply@company.com,Your Reservation Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-21T04:19:18.574938,14,0,0,1,1,0,0,legitimate
+EMAIL_000285,help@applesupport-verify.net,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/k8ihw8,2026-07-28T04:19:18.567725,12,1,2,1,2,1,0,phishing
+EMAIL_000900,newsletter@brand.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-13T04:19:18.583000,14,0,0,1,0,0,0,legitimate
+EMAIL_000150,admin@bank-security-check.xyz,Update Payment Method Required,Amazon detected unauthorized access. Verify your account: bit.ly/l6x1p7,2026-07-22T04:19:18.564450,8,1,2,2,2,1,0,phishing
+EMAIL_000500,support@service.com,Annual Leave Request Approved,Your subscription has been renewed. Thank you for your continued support.,2026-07-06T04:19:18.574920,11,0,0,1,0,0,0,legitimate
+EMAIL_000904,orders@store.com,Meeting Tomorrow at 2PM,Attached is the updated project timeline. Please review and provide feedback.,2026-07-01T04:19:18.583057,11,0,0,0,0,0,0,legitimate
+EMAIL_000390,verify@micros0ft-account.ru,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/m5g0fa,2026-07-13T04:19:18.572146,8,1,3,2,1,1,0,phishing
+EMAIL_000360,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/rgv5j2,2026-07-19T04:19:18.571471,7,1,3,5,1,0,0,phishing
+EMAIL_000551,noreply@company.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-08T04:19:18.575958,9,0,0,1,0,0,0,legitimate
+EMAIL_000325,verify@micros0ft-account.ru,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/wqytcx,2026-07-04T04:19:18.568677,6,1,2,5,0,1,0,phishing
+EMAIL_000600,newsletter@brand.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-11T04:19:18.576943,10,0,0,1,0,0,0,legitimate
+EMAIL_000300,support@paypa1-verify.com,Action Required: Unusual Activity Detected,Amazon detected unauthorized access. Verify your account: bit.ly/ktoen3,2026-07-24T04:19:18.568061,8,1,3,4,1,1,0,phishing
+EMAIL_000418,support@paypa1-verify.com,Click Here to Confirm Your Password,PayPal security alert. Confirm your information: bit.ly/ivzf3c,2026-07-16T04:19:18.572872,7,1,3,5,2,1,0,phishing
+EMAIL_000554,team@workplace.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-08T04:19:18.575998,14,0,0,1,1,0,0,legitimate
+EMAIL_000280,support@paypa1-verify.com,Urgent: Verify Your Account,We noticed unusual activity. Please confirm your password: bit.ly/o3aoo1,2026-07-21T04:19:18.567616,9,1,3,1,3,1,0,phishing
+EMAIL_000920,orders@store.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-28T04:19:18.583360,12,0,0,1,1,0,0,legitimate
+EMAIL_000713,orders@store.com,Monthly Report Attached,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-28T04:19:18.579118,14,0,0,0,0,0,0,legitimate
+EMAIL_000849,hr@company.com,Your Order Confirmation,Thank you for attending our webinar. Here's the recording link.,2026-07-09T04:19:18.581905,10,0,0,0,1,0,0,legitimate
+EMAIL_000220,verify@micros0ft-account.ru,Your Account Has Been Compromised,Confirm receipt of package: bit.ly/r7w65r,2026-07-28T04:19:18.566185,5,1,1,2,1,1,0,phishing
+EMAIL_000412,verify@micros0ft-account.ru,Update Payment Method Required,Congratulations! You've won $5000. Claim your prize: bit.ly/93wjjz,2026-07-10T04:19:18.572595,8,1,3,2,4,1,0,phishing
+EMAIL_000983,newsletter@brand.com,Annual Leave Request Approved,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-26T04:19:18.586027,12,0,0,1,0,0,0,legitimate
+EMAIL_000475,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/yb0fik,2026-07-09T04:19:18.574372,7,1,3,2,2,1,0,phishing
+EMAIL_000726,admin@project.com,Project Update - Q3 Results,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-01T04:19:18.579434,12,0,0,0,1,0,0,legitimate
+EMAIL_000327,admin@bank-security-check.xyz,Update Payment Method Required,Congratulations! You've won $5000. Claim your prize: bit.ly/9re4ye,2026-07-27T04:19:18.568746,8,1,3,1,4,1,0,phishing
+EMAIL_000005,support@paypa1-verify.com,Confirm Your Identity Now,Your payment method has expired. Update it now: bit.ly/49p5ru,2026-07-10T04:19:18.557376,9,1,1,2,2,0,0,phishing
+EMAIL_000221,verify@micros0ft-account.ru,Your Account Has Been Compromised,Congratulations! You've won $5000. Claim your prize: bit.ly/m62bbl,2026-07-15T04:19:18.566198,8,1,3,5,3,1,0,phishing
+EMAIL_000889,newsletter@brand.com,Password Changed Successfully,Your subscription has been renewed. Thank you for your continued support.,2026-07-25T04:19:18.582821,11,0,0,0,0,0,0,legitimate
+EMAIL_000911,newsletter@brand.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-27T04:19:18.583213,11,0,0,1,1,0,0,legitimate
+EMAIL_000882,team@workplace.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-10T04:19:18.582694,11,0,0,1,0,0,0,legitimate
+EMAIL_000396,noreply@amaz0n-security.com,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/bjtd67,2026-07-16T04:19:18.572262,8,1,2,4,1,0,0,phishing
+EMAIL_000481,admin@bank-security-check.xyz,Click Here to Confirm Your Password,PayPal security alert. Confirm your information: bit.ly/wlzhl9,2026-07-24T04:19:18.574497,7,1,1,3,2,1,0,phishing
+EMAIL_000174,verify@micros0ft-account.ru,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/afz0g3,2026-07-14T04:19:18.565026,9,1,1,2,1,1,0,phishing
+EMAIL_000853,noreply@company.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-15T04:19:18.582022,9,0,0,1,1,0,0,legitimate
+EMAIL_000632,hr@company.com,Welcome to Our Newsletter,Thank you for attending our webinar. Here's the recording link.,2026-07-02T04:19:18.577561,10,0,0,1,0,0,0,legitimate
+EMAIL_000574,admin@project.com,Team Lunch This Friday,Here's the monthly report with our latest metrics and performance analysis.,2026-07-11T04:19:18.576405,11,0,0,0,0,0,0,legitimate
+EMAIL_000239,verify@micros0ft-account.ru,Refund Pending - Claim Now,Congratulations! You've won $5000. Claim your prize: bit.ly/age50p,2026-07-09T04:19:18.566593,8,1,3,2,3,1,0,phishing
+EMAIL_000731,newsletter@brand.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-06-29T04:19:18.579513,15,0,0,1,1,0,0,legitimate
+EMAIL_000723,hr@company.com,Password Changed Successfully,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-07T04:19:18.579323,15,0,0,1,0,0,0,legitimate
+EMAIL_000142,support@paypa1-verify.com,Update Payment Method Required,Amazon detected unauthorized access. Verify your account: bit.ly/pioonj,2026-07-07T04:19:18.560491,8,1,3,2,2,1,0,phishing
+EMAIL_000570,newsletter@brand.com,Annual Leave Request Approved,Your subscription has been renewed. Thank you for your continued support.,2026-07-18T04:19:18.576320,11,0,0,0,0,0,0,legitimate
+EMAIL_000236,noreply@amaz0n-security.com,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/2qbwc8,2026-07-22T04:19:18.566543,8,1,1,3,1,1,0,phishing
+EMAIL_000122,security@google-account.tk,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/012csp,2026-07-12T04:19:18.560135,8,1,3,3,2,1,0,phishing
+EMAIL_000210,support@paypa1-verify.com,Update Payment Method Required,IRS tax refund ready for pickup. Claim here: bit.ly/njjd52,2026-07-28T04:19:18.565960,9,1,1,2,2,1,0,phishing
+EMAIL_000477,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Amazon detected unauthorized access. Verify your account: bit.ly/y5zhmy,2026-07-27T04:19:18.574432,8,1,2,3,1,1,0,phishing
+EMAIL_000103,security@google-account.tk,Click Here to Confirm Your Password,Your payment method has expired. Update it now: bit.ly/4i4b5u,2026-07-28T04:19:18.559721,9,1,1,1,3,0,0,phishing
+EMAIL_000898,admin@project.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-12T04:19:18.582973,11,0,0,1,0,0,0,legitimate
+EMAIL_000935,orders@store.com,Welcome to Our Newsletter,We've improved our security. No action needed from you.,2026-07-06T04:19:18.583707,9,0,0,0,0,0,0,legitimate
+EMAIL_000086,noreply@amaz0n-security.com,Urgent: Verify Your Account,Click here immediately to verify your account before it gets suspended: bit.ly/utij2g,2026-07-06T04:19:18.559382,12,1,3,3,3,0,0,phishing
+EMAIL_000457,security@google-account.tk,Update Payment Method Required,Your Microsoft account needs immediate attention: bit.ly/9syuqn,2026-07-03T04:19:18.573912,7,1,1,2,1,1,0,phishing
+EMAIL_000305,help@applesupport-verify.net,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/tgqvro,2026-07-27T04:19:18.568180,9,1,2,5,1,0,0,phishing
+EMAIL_000815,newsletter@brand.com,Password Changed Successfully,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-02T04:19:18.581163,14,0,0,1,0,0,0,legitimate
+EMAIL_000668,orders@store.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-17T04:19:18.578256,12,0,0,1,0,0,0,legitimate
+EMAIL_000903,newsletter@brand.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-26T04:19:18.583044,15,0,0,1,0,0,0,legitimate
+EMAIL_000384,security@google-account.tk,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/qhvs3o,2026-07-03T04:19:18.572010,8,1,3,4,2,1,0,phishing
+EMAIL_000048,support@paypa1-verify.com,Your Package Delivery Failed,We noticed unusual activity. Please confirm your password: bit.ly/hq6wga,2026-06-30T04:19:18.558442,9,1,3,3,1,1,0,phishing
+EMAIL_000132,support@paypa1-verify.com,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/5lr2c7,2026-07-12T04:19:18.560314,7,1,2,5,2,1,0,phishing
+EMAIL_000195,support@paypa1-verify.com,Action Required: Unusual Activity Detected,We noticed unusual activity. Please confirm your password: bit.ly/vvzmnc,2026-07-05T04:19:18.565575,9,1,2,2,1,1,0,phishing
+EMAIL_000868,admin@project.com,Welcome to Our Newsletter,We've improved our security. No action needed from you.,2026-07-15T04:19:18.582302,9,0,0,0,0,0,0,legitimate
+EMAIL_000498,verify@micros0ft-account.ru,Action Required: Unusual Activity Detected,We noticed unusual activity. Please confirm your password: bit.ly/yndg5k,2026-07-13T04:19:18.574887,9,1,2,4,1,1,0,phishing
+EMAIL_000548,notifications@app.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-25T04:19:18.575908,11,0,0,1,0,0,0,legitimate
+EMAIL_000051,admin@bank-security-check.xyz,Bank Security Alert,Confirm receipt of package: bit.ly/c4p3ob,2026-07-19T04:19:18.558499,5,1,1,4,1,0,0,phishing
+EMAIL_000121,help@applesupport-verify.net,Congratulations! You've Won a Prize,PayPal security alert. Confirm your information: bit.ly/1qy2xv,2026-07-07T04:19:18.560122,7,1,3,2,3,0,0,phishing
+EMAIL_000520,team@workplace.com,Annual Leave Request Approved,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-08T04:19:18.575285,15,0,0,0,0,0,0,legitimate
+EMAIL_000054,noreply@amaz0n-security.com,Your Package Delivery Failed,Congratulations! You've won $5000. Claim your prize: bit.ly/0vq64r,2026-07-11T04:19:18.558579,8,1,3,4,3,0,0,phishing
+EMAIL_000342,noreply@amaz0n-security.com,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/re8ses,2026-07-13T04:19:18.569082,12,1,2,1,3,1,0,phishing
+EMAIL_000732,newsletter@brand.com,Meeting Tomorrow at 2PM,We've improved our security. No action needed from you.,2026-07-04T04:19:18.579523,9,0,0,0,0,0,0,legitimate
+EMAIL_000035,support@paypa1-verify.com,Update Payment Method Required,Amazon detected unauthorized access. Verify your account: bit.ly/v2a4ab,2026-07-01T04:19:18.558109,8,1,3,2,2,1,0,phishing
+EMAIL_000212,noreply@amaz0n-security.com,Your Package Delivery Failed,Your Microsoft account needs immediate attention: bit.ly/omw4fg,2026-07-23T04:19:18.565988,7,1,3,5,0,1,0,phishing
+EMAIL_000459,help@applesupport-verify.net,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/720cop,2026-07-11T04:19:18.573943,7,1,2,4,1,0,0,phishing
+EMAIL_000525,support@service.com,Project Update - Q3 Results,We've improved our security. No action needed from you.,2026-07-16T04:19:18.575389,9,0,0,1,0,0,0,legitimate
+EMAIL_000693,team@workplace.com,Annual Leave Request Approved,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-28T04:19:18.578757,15,0,0,0,0,0,0,legitimate
+EMAIL_000332,verify@micros0ft-account.ru,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/189gnl,2026-07-26T04:19:18.568821,8,1,1,2,2,0,0,phishing
+EMAIL_000506,hr@company.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-16T04:19:18.575040,11,0,0,1,0,0,0,legitimate
+EMAIL_000068,admin@bank-security-check.xyz,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/fythrf,2026-07-15T04:19:18.558916,8,1,3,4,1,1,0,phishing
+EMAIL_000633,support@service.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-06T04:19:18.577571,9,0,0,0,1,0,0,legitimate
+EMAIL_000042,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/omfkk8,2026-07-28T04:19:18.558285,7,1,1,5,2,1,0,phishing
+EMAIL_000508,orders@store.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-03T04:19:18.575075,14,0,0,1,0,0,0,legitimate
+EMAIL_000855,admin@project.com,Your Reservation Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-26T04:19:18.582053,11,0,0,0,1,0,0,legitimate
+EMAIL_000569,hr@company.com,Annual Leave Request Approved,Thank you for attending our webinar. Here's the recording link.,2026-07-24T04:19:18.576309,10,0,0,0,0,0,0,legitimate
+EMAIL_000689,admin@project.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-08T04:19:18.578705,12,0,0,1,0,0,0,legitimate
+EMAIL_000381,noreply@amaz0n-security.com,Update Payment Method Required,Congratulations! You've won $5000. Claim your prize: bit.ly/99yvo6,2026-07-03T04:19:18.571970,8,1,2,1,4,0,0,phishing
+EMAIL_000148,security@google-account.tk,Urgent: Verify Your Account,IRS tax refund ready for pickup. Claim here: bit.ly/uyfn8s,2026-07-01T04:19:18.564406,9,1,2,3,3,1,0,phishing
+EMAIL_000594,team@workplace.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-18T04:19:18.576822,11,0,0,1,1,0,0,legitimate
+EMAIL_000333,security@google-account.tk,Click Here to Confirm Your Password,Your Microsoft account needs immediate attention: bit.ly/nge2k8,2026-07-14T04:19:18.568835,7,1,1,1,2,1,0,phishing
+EMAIL_000059,admin@bank-security-check.xyz,Click Here to Confirm Your Password,IRS tax refund ready for pickup. Claim here: bit.ly/eaxier,2026-07-06T04:19:18.558713,9,1,2,1,3,1,0,phishing
+EMAIL_000796,orders@store.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-18T04:19:18.580821,9,0,0,0,1,0,0,legitimate
+EMAIL_000198,help@applesupport-verify.net,Click Here to Confirm Your Password,Your payment method has expired. Update it now: bit.ly/3nvfmw,2026-07-03T04:19:18.565685,9,1,2,1,3,1,0,phishing
+EMAIL_000626,newsletter@brand.com,Team Lunch This Friday,Your subscription has been renewed. Thank you for your continued support.,2026-06-30T04:19:18.577475,11,0,0,0,0,0,0,legitimate
+EMAIL_000979,noreply@company.com,Welcome to Our Newsletter,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-08T04:19:18.585939,12,0,0,0,0,0,0,legitimate
+EMAIL_000880,team@workplace.com,Monthly Report Attached,We've improved our security. No action needed from you.,2026-07-08T04:19:18.582669,9,0,0,1,0,0,0,legitimate
+EMAIL_000912,hr@company.com,Your Reservation Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-10T04:19:18.583226,12,0,0,1,1,0,0,legitimate
+EMAIL_000270,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Your Netflix subscription needs updating: bit.ly/0tde34,2026-07-04T04:19:18.567393,6,1,2,5,0,1,0,phishing
+EMAIL_000957,admin@project.com,Password Changed Successfully,Attached is the updated project timeline. Please review and provide feedback.,2026-07-26T04:19:18.585475,11,0,0,1,1,0,0,legitimate
+EMAIL_000092,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/9mfzw7,2026-07-05T04:19:18.559480,7,1,3,5,1,1,0,phishing
+EMAIL_000170,security@google-account.tk,Congratulations! You've Won a Prize,PayPal security alert. Confirm your information: bit.ly/dvpxmo,2026-07-23T04:19:18.564968,7,1,3,3,3,1,0,phishing
+EMAIL_000289,security@google-account.tk,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/cxrg8o,2026-07-08T04:19:18.567820,12,1,2,3,3,1,0,phishing
+EMAIL_000291,noreply@amaz0n-security.com,Your Package Delivery Failed,Your payment method has expired. Update it now: bit.ly/e84rhs,2026-07-18T04:19:18.567855,9,1,1,5,1,1,0,phishing
+EMAIL_000721,noreply@company.com,Team Lunch This Friday,Thank you for attending our webinar. Here's the recording link.,2026-07-15T04:19:18.579289,10,0,0,0,0,0,0,legitimate
+EMAIL_000101,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/deyv8m,2026-07-21T04:19:18.559680,9,1,1,4,3,1,0,phishing
+EMAIL_000446,security@google-account.tk,Your Package Delivery Failed,Congratulations! You've won $5000. Claim your prize: bit.ly/8tv80b,2026-07-26T04:19:18.573557,8,1,3,4,3,1,0,phishing
+EMAIL_000705,hr@company.com,Meeting Tomorrow at 2PM,We've improved our security. No action needed from you.,2026-07-01T04:19:18.578952,9,0,0,0,0,0,0,legitimate
+EMAIL_000461,noreply@amaz0n-security.com,Update Payment Method Required,We noticed unusual activity. Please confirm your password: bit.ly/a7y8lf,2026-07-28T04:19:18.573971,9,1,2,4,2,1,0,phishing
+EMAIL_000739,support@service.com,New Feature Release Notes,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-08T04:19:18.579680,12,0,0,0,0,0,0,legitimate
+EMAIL_000426,verify@micros0ft-account.ru,Bank Security Alert,Your payment method has expired. Update it now: bit.ly/goxcd3,2026-07-21T04:19:18.573027,9,1,3,2,1,0,0,phishing
+EMAIL_000934,newsletter@brand.com,Welcome to Our Newsletter,Attached is the updated project timeline. Please review and provide feedback.,2026-07-23T04:19:18.583693,11,0,0,0,0,0,0,legitimate
+EMAIL_000939,team@workplace.com,Your Reservation Confirmation,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-13T04:19:18.583808,12,0,0,1,1,0,0,legitimate
+EMAIL_000510,notifications@app.com,Annual Leave Request Approved,Thank you for attending our webinar. Here's the recording link.,2026-07-10T04:19:18.575109,10,0,0,1,0,0,0,legitimate
+EMAIL_000298,support@paypa1-verify.com,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/e4zn7n,2026-07-01T04:19:18.568018,12,1,2,1,3,1,0,phishing
+EMAIL_000768,notifications@app.com,Meeting Tomorrow at 2PM,Here's the monthly report with our latest metrics and performance analysis.,2026-07-23T04:19:18.580216,11,0,0,0,0,0,0,legitimate
+EMAIL_000341,support@paypa1-verify.com,Update Payment Method Required,Congratulations! You've won $5000. Claim your prize: bit.ly/mg3q98,2026-07-11T04:19:18.569068,8,1,2,5,4,1,0,phishing
+EMAIL_000944,hr@company.com,Your Order Confirmation,We've improved our security. No action needed from you.,2026-07-09T04:19:18.583926,9,0,0,0,1,0,0,legitimate
+EMAIL_000131,security@google-account.tk,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/mjwhf9,2026-07-26T04:19:18.560300,8,1,2,5,5,1,0,phishing
+EMAIL_000157,support@paypa1-verify.com,Refund Pending - Claim Now,Your Microsoft account needs immediate attention: bit.ly/13kyb8,2026-07-21T04:19:18.564596,7,1,2,2,1,1,0,phishing
+EMAIL_000286,verify@micros0ft-account.ru,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/r2tahs,2026-07-17T04:19:18.567767,9,1,3,1,3,1,0,phishing
+EMAIL_000215,help@applesupport-verify.net,Urgent: Verify Your Account,We noticed unusual activity. Please confirm your password: bit.ly/ul027u,2026-06-29T04:19:18.566066,9,1,3,2,3,1,0,phishing
+EMAIL_000655,notifications@app.com,Annual Leave Request Approved,We've improved our security. No action needed from you.,2026-07-02T04:19:18.577904,9,0,0,0,0,0,0,legitimate
+EMAIL_000052,help@applesupport-verify.net,Urgent: Verify Your Account,Click here immediately to verify your account before it gets suspended: bit.ly/rx2qkd,2026-07-22T04:19:18.558512,12,1,1,4,3,0,0,phishing
+EMAIL_000246,noreply@amaz0n-security.com,Update Payment Method Required,Amazon detected unauthorized access. Verify your account: bit.ly/kt4irq,2026-07-11T04:19:18.566780,8,1,2,2,2,1,0,phishing
+EMAIL_000301,noreply@amaz0n-security.com,Bank Security Alert,Amazon detected unauthorized access. Verify your account: bit.ly/jar19z,2026-07-20T04:19:18.568077,8,1,3,1,1,0,0,phishing
+EMAIL_000079,admin@bank-security-check.xyz,Click Here to Confirm Your Password,Your payment method has expired. Update it now: bit.ly/5ucljl,2026-07-09T04:19:18.559167,9,1,3,4,3,0,0,phishing
+EMAIL_000792,newsletter@brand.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-16T04:19:18.580743,9,0,0,1,0,0,0,legitimate
+EMAIL_000288,verify@micros0ft-account.ru,Update Payment Method Required,Your Microsoft account needs immediate attention: bit.ly/ew5ugo,2026-07-11T04:19:18.567804,7,1,3,3,1,0,0,phishing
+EMAIL_000279,security@google-account.tk,Click Here to Confirm Your Password,Confirm receipt of package: bit.ly/xr9iyo,2026-07-28T04:19:18.567604,5,1,1,3,2,1,0,phishing
+EMAIL_000851,support@service.com,Welcome to Our Newsletter,Here's the monthly report with our latest metrics and performance analysis.,2026-07-02T04:19:18.581989,11,0,0,0,0,0,0,legitimate
+EMAIL_000295,noreply@amaz0n-security.com,Your Account Has Been Compromised,Congratulations! You've won $5000. Claim your prize: bit.ly/c0xtsc,2026-07-22T04:19:18.567936,8,1,3,2,3,0,0,phishing
+EMAIL_000660,noreply@company.com,Password Changed Successfully,Thank you for attending our webinar. Here's the recording link.,2026-07-12T04:19:18.578025,10,0,0,1,0,0,0,legitimate
+EMAIL_000398,verify@micros0ft-account.ru,Your Package Delivery Failed,Congratulations! You've won $5000. Claim your prize: bit.ly/fcp1b3,2026-06-30T04:19:18.572296,8,1,3,5,3,1,0,phishing
+EMAIL_000743,admin@project.com,Password Changed Successfully,We've improved our security. No action needed from you.,2026-07-10T04:19:18.579731,9,0,0,0,0,0,0,legitimate
+EMAIL_000754,hr@company.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-24T04:19:18.579947,11,0,0,0,0,0,0,legitimate
+EMAIL_000013,admin@bank-security-check.xyz,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/9s9ad4,2026-07-22T04:19:18.557599,8,1,3,1,2,1,0,phishing
+EMAIL_000878,team@workplace.com,Project Update - Q3 Results,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-07T04:19:18.582579,15,0,0,0,0,0,0,legitimate
+EMAIL_000000,verify@micros0ft-account.ru,Confirm Your Identity Now,Amazon detected unauthorized access. Verify your account: bit.ly/ss3y7p,2026-07-02T04:19:18.556959,8,1,3,1,2,1,0,phishing
+EMAIL_000938,newsletter@brand.com,Project Update - Q3 Results,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-17T04:19:18.583789,12,0,0,0,1,0,0,legitimate
+EMAIL_000033,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/ypb31d,2026-07-09T04:19:18.558081,9,1,2,5,3,1,0,phishing
+EMAIL_000962,noreply@company.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-14T04:19:18.585541,14,0,0,0,0,0,0,legitimate
+EMAIL_000891,noreply@company.com,Your Order Confirmation,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-03T04:19:18.582848,12,0,0,1,1,0,0,legitimate
+EMAIL_000658,admin@project.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-06T04:19:18.578001,14,0,0,1,0,0,0,legitimate
+EMAIL_000075,support@paypa1-verify.com,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/y1xl3q,2026-06-29T04:19:18.559075,9,1,1,4,2,1,0,phishing
+EMAIL_000686,team@workplace.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-03T04:19:18.578659,14,0,0,0,0,0,0,legitimate
+EMAIL_000180,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,IRS tax refund ready for pickup. Claim here: bit.ly/2mk3b5,2026-07-02T04:19:18.565198,9,1,1,3,3,1,0,phishing
+EMAIL_000515,orders@store.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-21T04:19:18.575178,14,0,0,0,0,0,0,legitimate
+EMAIL_000945,notifications@app.com,Annual Leave Request Approved,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-16T04:19:18.585109,14,0,0,1,0,0,0,legitimate
+EMAIL_000649,newsletter@brand.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-11T04:19:18.577837,14,0,0,0,1,0,0,legitimate
+EMAIL_000771,team@workplace.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-15T04:19:18.580253,11,0,0,0,0,0,0,legitimate
+EMAIL_000888,newsletter@brand.com,Welcome to Our Newsletter,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-23T04:19:18.582806,12,0,0,1,0,0,0,legitimate
+EMAIL_000603,support@service.com,Password Changed Successfully,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-10T04:19:18.576978,12,0,0,0,0,0,0,legitimate
+EMAIL_000254,security@google-account.tk,Click Here to Confirm Your Password,IRS tax refund ready for pickup. Claim here: bit.ly/s1972f,2026-07-10T04:19:18.567015,9,1,2,3,3,1,0,phishing
+EMAIL_000496,admin@bank-security-check.xyz,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/axi70k,2026-07-13T04:19:18.574851,6,1,3,2,0,1,0,phishing
+EMAIL_000029,security@google-account.tk,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/h0qfg6,2026-07-03T04:19:18.558015,8,1,3,1,2,1,0,phishing
+EMAIL_000151,support@paypa1-verify.com,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/uxilmz,2026-07-01T04:19:18.564467,8,1,1,5,2,1,0,phishing
+EMAIL_000294,security@google-account.tk,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/u5zvav,2026-07-01T04:19:18.567900,9,1,2,3,3,0,0,phishing
+EMAIL_000581,notifications@app.com,Welcome to Our Newsletter,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-26T04:19:18.576543,12,0,0,1,0,0,0,legitimate
+EMAIL_000476,admin@bank-security-check.xyz,Congratulations! You've Won a Prize,PayPal security alert. Confirm your information: bit.ly/igg63z,2026-07-23T04:19:18.574411,7,1,1,4,3,0,0,phishing
+EMAIL_000835,newsletter@brand.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-04T04:19:18.581590,14,0,0,0,1,0,0,legitimate
+EMAIL_000060,support@paypa1-verify.com,Urgent: Verify Your Account,PayPal security alert. Confirm your information: bit.ly/9c6dfp,2026-07-28T04:19:18.558726,7,1,1,3,3,1,0,phishing
+EMAIL_000350,security@google-account.tk,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/0bsy0h,2026-07-20T04:19:18.569243,6,1,3,5,1,1,0,phishing
+EMAIL_000857,hr@company.com,Monthly Report Attached,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-10T04:19:18.582123,12,0,0,1,0,0,0,legitimate
+EMAIL_000537,support@service.com,Team Lunch This Friday,We've improved our security. No action needed from you.,2026-07-06T04:19:18.575670,9,0,0,1,0,0,0,legitimate
+EMAIL_000959,hr@company.com,Team Lunch This Friday,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-20T04:19:18.585507,14,0,0,1,0,0,0,legitimate
+EMAIL_000400,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,Amazon detected unauthorized access. Verify your account: bit.ly/el5g2v,2026-07-05T04:19:18.572361,8,1,2,2,1,1,0,phishing
+EMAIL_000147,verify@micros0ft-account.ru,Congratulations! You've Won a Prize,Your Netflix subscription needs updating: bit.ly/nq8ix3,2026-07-03T04:19:18.564347,6,1,1,4,2,1,0,phishing
+EMAIL_000579,noreply@company.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-06-29T04:19:18.576518,14,0,0,1,1,0,0,legitimate
+EMAIL_000547,newsletter@brand.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-20T04:19:18.575888,11,0,0,0,0,0,0,legitimate
+EMAIL_000956,noreply@company.com,Welcome to Our Newsletter,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-04T04:19:18.585454,14,0,0,0,0,0,0,legitimate
+EMAIL_000458,verify@micros0ft-account.ru,Your Package Delivery Failed,PayPal security alert. Confirm your information: bit.ly/5mu9yn,2026-07-18T04:19:18.573929,7,1,2,3,1,1,0,phishing
+EMAIL_000355,verify@micros0ft-account.ru,Action Required: Unusual Activity Detected,IRS tax refund ready for pickup. Claim here: bit.ly/3s5t1r,2026-07-06T04:19:18.569321,9,1,3,4,1,1,0,phishing
+EMAIL_000924,orders@store.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-07T04:19:18.583412,14,0,0,1,0,0,0,legitimate
+EMAIL_000123,noreply@amaz0n-security.com,Your Account Has Been Compromised,We noticed unusual activity. Please confirm your password: bit.ly/5cng04,2026-07-09T04:19:18.560150,9,1,1,3,1,1,0,phishing
+EMAIL_000656,orders@store.com,New Feature Release Notes,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-04T04:19:18.577971,12,0,0,0,0,0,0,legitimate
+EMAIL_000274,help@applesupport-verify.net,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/wnjc4y,2026-07-26T04:19:18.567487,9,1,1,3,1,1,0,phishing
+EMAIL_000993,admin@project.com,Your Order Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-13T04:19:18.586205,11,0,0,1,1,0,0,legitimate
+EMAIL_000514,orders@store.com,Welcome to Our Newsletter,We've improved our security. No action needed from you.,2026-07-26T04:19:18.575165,9,0,0,1,0,0,0,legitimate
+EMAIL_000909,notifications@app.com,Project Update - Q3 Results,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-05T04:19:18.583155,12,0,0,1,1,0,0,legitimate
+EMAIL_000654,newsletter@brand.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-14T04:19:18.577893,14,0,0,1,1,0,0,legitimate
+EMAIL_000484,noreply@amaz0n-security.com,Bank Security Alert,Confirm receipt of package: bit.ly/vlmz2s,2026-07-01T04:19:18.574538,5,1,1,2,1,1,0,phishing
+EMAIL_000175,verify@micros0ft-account.ru,Action Required: Unusual Activity Detected,Your Netflix subscription needs updating: bit.ly/c8caye,2026-07-17T04:19:18.565055,6,1,3,1,0,0,0,phishing
+EMAIL_000682,notifications@app.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-26T04:19:18.578536,10,0,0,0,0,0,0,legitimate
+EMAIL_000998,newsletter@brand.com,New Feature Release Notes,We've improved our security. No action needed from you.,2026-07-24T04:19:18.586303,9,0,0,1,0,0,0,legitimate
+EMAIL_000544,support@service.com,Password Changed Successfully,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-22T04:19:18.575755,12,0,0,1,1,0,0,legitimate
+EMAIL_000846,newsletter@brand.com,Password Changed Successfully,Your subscription has been renewed. Thank you for your continued support.,2026-07-24T04:19:18.581856,11,0,0,0,0,0,0,legitimate
+EMAIL_000009,admin@bank-security-check.xyz,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/9gzr5d,2026-07-25T04:19:18.557482,6,1,1,3,0,1,0,phishing
+EMAIL_000297,noreply@amaz0n-security.com,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/fp29pm,2026-07-02T04:19:18.568000,12,1,3,1,3,1,0,phishing
+EMAIL_000371,noreply@amaz0n-security.com,Bank Security Alert,Click here immediately to verify your account before it gets suspended: bit.ly/9rr15d,2026-07-09T04:19:18.571768,12,1,1,3,2,1,0,phishing
+EMAIL_000779,admin@project.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-06-30T04:19:18.580417,12,0,0,1,0,0,0,legitimate
+EMAIL_000471,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,Your payment method has expired. Update it now: bit.ly/igs8mk,2026-07-16T04:19:18.574312,9,1,1,2,3,1,0,phishing
+EMAIL_000310,help@applesupport-verify.net,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/uc8cyy,2026-07-19T04:19:18.568294,9,1,3,1,1,1,0,phishing
+EMAIL_000135,help@applesupport-verify.net,Action Required: Unusual Activity Detected,Click here immediately to verify your account before it gets suspended: bit.ly/doi54v,2026-07-04T04:19:18.560355,12,1,1,1,2,1,0,phishing
+EMAIL_000719,newsletter@brand.com,Meeting Tomorrow at 2PM,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-01T04:19:18.579260,12,0,0,0,0,0,0,legitimate
+EMAIL_000864,team@workplace.com,Project Update - Q3 Results,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-06-29T04:19:18.582217,12,0,0,0,0,0,0,legitimate
+EMAIL_000915,newsletter@brand.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-03T04:19:18.583264,10,0,0,0,0,0,0,legitimate
+EMAIL_000308,help@applesupport-verify.net,Congratulations! You've Won a Prize,Congratulations! You've won $5000. Claim your prize: bit.ly/ejzydb,2026-07-26T04:19:18.568266,8,1,3,5,3,1,0,phishing
+EMAIL_000843,admin@project.com,Password Changed Successfully,Thank you for attending our webinar. Here's the recording link.,2026-07-01T04:19:18.581765,10,0,0,1,0,0,0,legitimate
+EMAIL_000379,verify@micros0ft-account.ru,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/9yoc5t,2026-07-20T04:19:18.571941,6,1,3,1,1,1,0,phishing
+EMAIL_000875,noreply@company.com,Team Lunch This Friday,Attached is the updated project timeline. Please review and provide feedback.,2026-07-21T04:19:18.582389,11,0,0,0,0,0,0,legitimate
+EMAIL_000343,help@applesupport-verify.net,Congratulations! You've Won a Prize,IRS tax refund ready for pickup. Claim here: bit.ly/gkoqao,2026-07-25T04:19:18.569096,9,1,1,3,3,1,0,phishing
+EMAIL_000751,hr@company.com,Annual Leave Request Approved,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-11T04:19:18.579897,15,0,0,1,0,0,0,legitimate
+EMAIL_000801,noreply@company.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-03T04:19:18.580900,15,0,0,1,0,0,0,legitimate
+EMAIL_000695,admin@project.com,Password Changed Successfully,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-06T04:19:18.578783,15,0,0,0,0,0,0,legitimate
+EMAIL_000929,support@service.com,Monthly Report Attached,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-11T04:19:18.583589,14,0,0,0,0,0,0,legitimate
+EMAIL_000171,support@paypa1-verify.com,Update Payment Method Required,PayPal security alert. Confirm your information: bit.ly/o12kln,2026-07-05T04:19:18.564983,7,1,3,1,2,1,0,phishing
+EMAIL_000154,support@paypa1-verify.com,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/2s3bgn,2026-07-28T04:19:18.564514,8,1,3,5,1,1,0,phishing
+EMAIL_000675,noreply@company.com,Monthly Report Attached,Here's the monthly report with our latest metrics and performance analysis.,2026-07-01T04:19:18.578381,11,0,0,1,0,0,0,legitimate
+EMAIL_000337,admin@bank-security-check.xyz,Update Payment Method Required,Your payment method has expired. Update it now: bit.ly/o8328z,2026-07-09T04:19:18.568982,9,1,2,2,1,0,0,phishing
+EMAIL_000107,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,We noticed unusual activity. Please confirm your password: bit.ly/0j4djp,2026-06-29T04:19:18.559817,9,1,1,5,1,0,0,phishing
+EMAIL_000543,notifications@app.com,Meeting Tomorrow at 2PM,Your subscription has been renewed. Thank you for your continued support.,2026-07-03T04:19:18.575744,11,0,0,1,0,0,0,legitimate
+EMAIL_000906,admin@project.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-20T04:19:18.583110,11,0,0,1,0,0,0,legitimate
+EMAIL_000469,noreply@amaz0n-security.com,Your Account Has Been Compromised,We noticed unusual activity. Please confirm your password: bit.ly/6sqjui,2026-07-19T04:19:18.574243,9,1,2,3,1,1,0,phishing
+EMAIL_000948,newsletter@brand.com,Your Order Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-14T04:19:18.585267,14,0,0,0,1,0,0,legitimate
+EMAIL_000690,support@service.com,Meeting Tomorrow at 2PM,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-06T04:19:18.578719,12,0,0,1,0,0,0,legitimate
+EMAIL_000995,team@workplace.com,New Feature Release Notes,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-24T04:19:18.586230,12,0,0,1,0,0,0,legitimate
+EMAIL_000015,verify@micros0ft-account.ru,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/a9xvnl,2026-07-24T04:19:18.557669,6,1,3,5,1,0,0,phishing
+EMAIL_000277,security@google-account.tk,Refund Pending - Claim Now,Click here immediately to verify your account before it gets suspended: bit.ly/i94a1b,2026-07-23T04:19:18.567568,12,1,3,3,3,1,0,phishing
+EMAIL_000046,help@applesupport-verify.net,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/7v8y3z,2026-07-26T04:19:18.558372,7,1,1,4,2,0,0,phishing
+EMAIL_000020,help@applesupport-verify.net,Urgent: Verify Your Account,Amazon detected unauthorized access. Verify your account: bit.ly/pxx2pi,2026-07-06T04:19:18.557813,8,1,2,4,2,0,0,phishing
+EMAIL_000596,noreply@company.com,Monthly Report Attached,Thank you for attending our webinar. Here's the recording link.,2026-07-09T04:19:18.576876,10,0,0,0,0,0,0,legitimate
+EMAIL_000866,support@service.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-10T04:19:18.582269,11,0,0,0,0,0,0,legitimate
+EMAIL_000243,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,PayPal security alert. Confirm your information: bit.ly/hzl8ae,2026-07-18T04:19:18.566706,7,1,1,5,3,1,0,phishing
+EMAIL_000166,security@google-account.tk,Action Required: Unusual Activity Detected,Your Microsoft account needs immediate attention: bit.ly/8uee9s,2026-07-03T04:19:18.564900,7,1,3,1,0,1,0,phishing
+EMAIL_000273,verify@micros0ft-account.ru,Confirm Your Identity Now,Congratulations! You've won $5000. Claim your prize: bit.ly/jgjgo7,2026-06-29T04:19:18.567467,8,1,1,2,4,1,0,phishing
+EMAIL_000913,orders@store.com,Annual Leave Request Approved,Attached is the updated project timeline. Please review and provide feedback.,2026-07-23T04:19:18.583238,11,0,0,0,0,0,0,legitimate
+EMAIL_000383,verify@micros0ft-account.ru,Update Payment Method Required,IRS tax refund ready for pickup. Claim here: bit.ly/0b6dk6,2026-07-15T04:19:18.571997,9,1,3,4,2,1,0,phishing
+EMAIL_000834,admin@project.com,Meeting Tomorrow at 2PM,Your subscription has been renewed. Thank you for your continued support.,2026-07-02T04:19:18.581573,11,0,0,1,0,0,0,legitimate
+EMAIL_000290,admin@bank-security-check.xyz,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/0hugnm,2026-07-27T04:19:18.567838,8,1,1,3,1,1,0,phishing
+EMAIL_000434,help@applesupport-verify.net,Bank Security Alert,Your Microsoft account needs immediate attention: bit.ly/g0a835,2026-07-21T04:19:18.573207,7,1,2,3,0,1,0,phishing
+EMAIL_000053,verify@micros0ft-account.ru,Your Account Has Been Compromised,PayPal security alert. Confirm your information: bit.ly/79a3ri,2026-07-02T04:19:18.558557,7,1,1,5,1,1,0,phishing
+EMAIL_000840,orders@store.com,Your Reservation Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-26T04:19:18.581720,11,0,0,0,1,0,0,legitimate
+EMAIL_000361,help@applesupport-verify.net,Refund Pending - Claim Now,We noticed unusual activity. Please confirm your password: bit.ly/mb9973,2026-07-18T04:19:18.571486,9,1,1,5,2,1,0,phishing
+EMAIL_000073,support@paypa1-verify.com,Action Required: Unusual Activity Detected,Congratulations! You've won $5000. Claim your prize: bit.ly/cy9bnx,2026-07-24T04:19:18.559044,8,1,1,2,3,1,0,phishing
+EMAIL_000552,hr@company.com,Welcome to Our Newsletter,We've improved our security. No action needed from you.,2026-07-08T04:19:18.575971,9,0,0,1,0,0,0,legitimate
+EMAIL_000642,orders@store.com,Meeting Tomorrow at 2PM,We've improved our security. No action needed from you.,2026-07-20T04:19:18.577717,9,0,0,1,0,0,0,legitimate
+EMAIL_000326,admin@bank-security-check.xyz,Your Package Delivery Failed,Confirm receipt of package: bit.ly/tx228j,2026-07-24T04:19:18.568727,5,1,3,5,1,0,0,phishing
+EMAIL_000399,support@paypa1-verify.com,Your Package Delivery Failed,Click here immediately to verify your account before it gets suspended: bit.ly/bj3zf8,2026-07-11T04:19:18.572311,12,1,3,1,2,1,0,phishing
+EMAIL_000193,help@applesupport-verify.net,Action Required: Unusual Activity Detected,IRS tax refund ready for pickup. Claim here: bit.ly/415ngj,2026-07-20T04:19:18.565549,9,1,2,2,1,0,0,phishing
+EMAIL_000607,hr@company.com,Annual Leave Request Approved,Here's the monthly report with our latest metrics and performance analysis.,2026-07-18T04:19:18.577085,11,0,0,0,0,0,0,legitimate
+EMAIL_000406,verify@micros0ft-account.ru,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/tiws84,2026-07-13T04:19:18.572506,9,1,3,2,1,1,0,phishing
+EMAIL_000736,noreply@company.com,Monthly Report Attached,Your subscription has been renewed. Thank you for your continued support.,2026-07-03T04:19:18.579606,11,0,0,0,0,0,0,legitimate
+EMAIL_000990,noreply@company.com,Your Reservation Confirmation,We've improved our security. No action needed from you.,2026-07-17T04:19:18.586165,9,0,0,0,1,0,0,legitimate
+EMAIL_000447,support@paypa1-verify.com,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/5yg2hl,2026-07-11T04:19:18.573575,6,1,3,2,1,0,0,phishing
+EMAIL_000349,support@paypa1-verify.com,Click Here to Confirm Your Password,Congratulations! You've won $5000. Claim your prize: bit.ly/wmkumr,2026-07-01T04:19:18.569231,8,1,2,1,5,1,0,phishing
+EMAIL_000106,verify@micros0ft-account.ru,Confirm Your Identity Now,Confirm receipt of package: bit.ly/czqrf8,2026-07-16T04:19:18.559799,5,1,2,4,1,1,0,phishing
+EMAIL_000896,orders@store.com,New Feature Release Notes,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-09T04:19:18.582939,15,0,0,0,0,0,0,legitimate
+EMAIL_000830,notifications@app.com,Project Update - Q3 Results,Your subscription has been renewed. Thank you for your continued support.,2026-06-30T04:19:18.581520,11,0,0,1,0,0,0,legitimate
+EMAIL_000316,help@applesupport-verify.net,Confirm Your Identity Now,Your payment method has expired. Update it now: bit.ly/tt659c,2026-07-28T04:19:18.568453,9,1,1,3,2,0,0,phishing
+EMAIL_000696,team@workplace.com,Meeting Tomorrow at 2PM,Attached is the updated project timeline. Please review and provide feedback.,2026-07-25T04:19:18.578822,11,0,0,0,0,0,0,legitimate
+EMAIL_000072,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Congratulations! You've won $5000. Claim your prize: bit.ly/5ljcd4,2026-07-28T04:19:18.559013,8,1,3,3,3,1,0,phishing
+EMAIL_000465,admin@bank-security-check.xyz,Confirm Your Identity Now,Confirm receipt of package: bit.ly/6nbmga,2026-07-04T04:19:18.574106,5,1,2,2,1,0,0,phishing
+EMAIL_000879,support@service.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-26T04:19:18.582651,11,0,0,0,0,0,0,legitimate
+EMAIL_000102,admin@bank-security-check.xyz,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/kgwp5x,2026-07-17T04:19:18.559705,6,1,3,5,0,0,0,phishing
+EMAIL_000370,support@paypa1-verify.com,Congratulations! You've Won a Prize,Confirm receipt of package: bit.ly/lnv5bc,2026-07-21T04:19:18.571754,5,1,1,1,3,1,0,phishing
+EMAIL_000973,support@service.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-06T04:19:18.585811,11,0,0,1,0,0,0,legitimate
+EMAIL_000331,security@google-account.tk,Refund Pending - Claim Now,Congratulations! You've won $5000. Claim your prize: bit.ly/qcezvr,2026-06-29T04:19:18.568806,8,1,2,5,3,0,0,phishing
+EMAIL_000999,hr@company.com,Password Changed Successfully,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-06-29T04:19:18.586315,12,0,0,1,1,0,0,legitimate
+EMAIL_000818,notifications@app.com,New Feature Release Notes,Attached is the updated project timeline. Please review and provide feedback.,2026-07-14T04:19:18.581293,11,0,0,0,0,0,0,legitimate
+EMAIL_000657,noreply@company.com,Your Order Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-08T04:19:18.577987,11,0,0,1,1,0,0,legitimate
+EMAIL_000902,newsletter@brand.com,Meeting Tomorrow at 2PM,Your subscription has been renewed. Thank you for your continued support.,2026-07-02T04:19:18.583025,11,0,0,0,0,0,0,legitimate
+EMAIL_000783,admin@project.com,Welcome to Our Newsletter,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-06T04:19:18.580500,15,0,0,1,0,0,0,legitimate
+EMAIL_000897,notifications@app.com,Annual Leave Request Approved,Your subscription has been renewed. Thank you for your continued support.,2026-07-28T04:19:18.582958,11,0,0,1,0,0,0,legitimate
+EMAIL_000019,noreply@amaz0n-security.com,Bank Security Alert,Confirm receipt of package: bit.ly/xutwgy,2026-07-22T04:19:18.557799,5,1,3,5,1,1,0,phishing
+EMAIL_000373,support@paypa1-verify.com,Action Required: Unusual Activity Detected,Confirm receipt of package: bit.ly/w64wnw,2026-07-19T04:19:18.571798,5,1,2,1,1,1,0,phishing
+EMAIL_000394,verify@micros0ft-account.ru,Urgent: Verify Your Account,Your Microsoft account needs immediate attention: bit.ly/ss19zh,2026-07-19T04:19:18.572204,7,1,2,3,2,0,0,phishing
+EMAIL_000061,noreply@amaz0n-security.com,Urgent: Verify Your Account,IRS tax refund ready for pickup. Claim here: bit.ly/590127,2026-07-01T04:19:18.558739,9,1,2,2,3,1,0,phishing
+EMAIL_000802,hr@company.com,New Feature Release Notes,Thank you for your order! Your item will be shipped within 2 business days.,2026-07-17T04:19:18.580913,14,0,0,0,0,0,0,legitimate
+EMAIL_000351,verify@micros0ft-account.ru,Click Here to Confirm Your Password,Click here immediately to verify your account before it gets suspended: bit.ly/0b27je,2026-06-30T04:19:18.569257,12,1,1,3,3,1,0,phishing
+EMAIL_000425,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/h0yzoc,2026-07-19T04:19:18.572976,7,1,3,3,1,1,0,phishing
+EMAIL_000494,verify@micros0ft-account.ru,Click Here to Confirm Your Password,We noticed unusual activity. Please confirm your password: bit.ly/k5t815,2026-06-30T04:19:18.574759,9,1,1,3,2,1,0,phishing
+EMAIL_000572,hr@company.com,Your Reservation Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-25T04:19:18.576374,11,0,0,0,1,0,0,legitimate
+EMAIL_000670,admin@project.com,Monthly Report Attached,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-14T04:19:18.578282,12,0,0,0,0,0,0,legitimate
+EMAIL_000699,hr@company.com,Your Order Confirmation,Here's the monthly report with our latest metrics and performance analysis.,2026-07-22T04:19:18.578872,11,0,0,0,1,0,0,legitimate
+EMAIL_000251,support@paypa1-verify.com,Action Required: Unusual Activity Detected,Your Netflix subscription needs updating: bit.ly/zcmxxz,2026-07-06T04:19:18.566928,6,1,3,1,0,1,0,phishing
+EMAIL_000987,admin@project.com,Project Update - Q3 Results,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-03T04:19:18.586125,14,0,0,1,0,0,0,legitimate
+EMAIL_000463,admin@bank-security-check.xyz,Confirm Your Identity Now,Confirm receipt of package: bit.ly/0kikun,2026-07-07T04:19:18.574001,5,1,1,4,1,0,0,phishing
+EMAIL_000078,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,Confirm receipt of package: bit.ly/91gdhv,2026-07-01T04:19:18.559154,5,1,3,5,1,1,0,phishing
+EMAIL_000432,noreply@amaz0n-security.com,Refund Pending - Claim Now,Your Microsoft account needs immediate attention: bit.ly/ovmtiy,2026-07-08T04:19:18.573157,7,1,3,4,1,1,0,phishing
+EMAIL_000886,hr@company.com,Your Order Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-07T04:19:18.582770,15,0,0,0,1,0,0,legitimate
+EMAIL_000786,orders@store.com,Welcome to Our Newsletter,Thank you for attending our webinar. Here's the recording link.,2026-07-09T04:19:18.580580,10,0,0,1,0,0,0,legitimate
+EMAIL_000870,hr@company.com,Your Order Confirmation,Thank you for your order! Your item will be shipped within 2 business days.,2026-06-30T04:19:18.582327,14,0,0,1,1,0,0,legitimate
+EMAIL_000625,support@service.com,Project Update - Q3 Results,Welcome to our subscriber community. You'll receive weekly updates on new features.,2026-07-08T04:19:18.577437,12,0,0,1,0,0,0,legitimate
+EMAIL_000049,support@paypa1-verify.com,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/qvk8ku,2026-07-08T04:19:18.558463,12,1,2,4,3,1,0,phishing
+EMAIL_000222,help@applesupport-verify.net,Confirm Your Identity Now,Your payment method has expired. Update it now: bit.ly/ewyd82,2026-07-04T04:19:18.566212,9,1,3,3,2,1,0,phishing
+EMAIL_000023,admin@bank-security-check.xyz,Confirm Your Identity Now,We noticed unusual activity. Please confirm your password: bit.ly/6cx6kx,2026-07-16T04:19:18.557870,9,1,2,3,1,1,0,phishing
+EMAIL_000040,help@applesupport-verify.net,Your Account Has Been Compromised,Amazon detected unauthorized access. Verify your account: bit.ly/75dnwk,2026-07-09T04:19:18.558250,8,1,3,2,1,0,0,phishing
+EMAIL_000937,hr@company.com,Project Update - Q3 Results,Your subscription has been renewed. Thank you for your continued support.,2026-07-03T04:19:18.583772,11,0,0,1,0,0,0,legitimate
+EMAIL_000884,noreply@company.com,Team Lunch This Friday,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-28T04:19:18.582718,14,0,0,1,0,0,0,legitimate
+EMAIL_000540,newsletter@brand.com,Monthly Report Attached,Attached is the updated project timeline. Please review and provide feedback.,2026-07-15T04:19:18.575708,11,0,0,1,0,0,0,legitimate
+EMAIL_000448,security@google-account.tk,Your Account Has Been Compromised,PayPal security alert. Confirm your information: bit.ly/ogfm6z,2026-07-19T04:19:18.573590,7,1,3,5,1,0,0,phishing
+EMAIL_000058,help@applesupport-verify.net,Congratulations! You've Won a Prize,Amazon detected unauthorized access. Verify your account: bit.ly/7nvija,2026-07-21T04:19:18.558697,8,1,1,1,3,1,0,phishing
+EMAIL_000865,team@workplace.com,Monthly Report Attached,We've improved our security. No action needed from you.,2026-07-09T04:19:18.582230,9,0,0,1,0,0,0,legitimate
+EMAIL_000191,help@applesupport-verify.net,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/irjt03,2026-07-03T04:19:18.565518,12,1,3,1,3,0,0,phishing
+EMAIL_000883,newsletter@brand.com,Annual Leave Request Approved,We've improved our security. No action needed from you.,2026-07-04T04:19:18.582706,9,0,0,0,0,0,0,legitimate
+EMAIL_000017,noreply@amaz0n-security.com,Urgent: Verify Your Account,IRS tax refund ready for pickup. Claim here: bit.ly/e7rnys,2026-07-18T04:19:18.557759,9,1,1,5,3,0,0,phishing
+EMAIL_000502,newsletter@brand.com,Welcome to Our Newsletter,Thank you for attending our webinar. Here's the recording link.,2026-06-29T04:19:18.574953,10,0,0,0,0,0,0,legitimate
+EMAIL_000636,support@service.com,New Feature Release Notes,We've improved our security. No action needed from you.,2026-06-29T04:19:18.577645,9,0,0,1,0,0,0,legitimate
+EMAIL_000268,verify@micros0ft-account.ru,Congratulations! You've Won a Prize,IRS tax refund ready for pickup. Claim here: bit.ly/clgdh5,2026-07-14T04:19:18.567353,9,1,1,4,3,0,0,phishing
+EMAIL_000817,noreply@company.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-11T04:19:18.581279,14,0,0,1,0,0,0,legitimate
+EMAIL_000838,hr@company.com,Password Changed Successfully,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-08T04:19:18.581697,14,0,0,1,0,0,0,legitimate
+EMAIL_000250,noreply@amaz0n-security.com,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/00lyyd,2026-07-21T04:19:18.566914,6,1,1,2,1,0,0,phishing
+EMAIL_000430,verify@micros0ft-account.ru,Refund Pending - Claim Now,Your payment method has expired. Update it now: bit.ly/5r324w,2026-07-16T04:19:18.573096,9,1,2,5,2,1,0,phishing
+EMAIL_000392,admin@bank-security-check.xyz,Bank Security Alert,Your Netflix subscription needs updating: bit.ly/x0j3z4,2026-07-13T04:19:18.572176,6,1,1,2,0,0,0,phishing
+EMAIL_000380,security@google-account.tk,Update Payment Method Required,Your Netflix subscription needs updating: bit.ly/q4bclb,2026-07-20T04:19:18.571955,6,1,3,4,1,0,0,phishing
+EMAIL_000395,support@paypa1-verify.com,Your Package Delivery Failed,Your payment method has expired. Update it now: bit.ly/fkvjo3,2026-07-22T04:19:18.572218,9,1,2,5,1,0,0,phishing
+EMAIL_000428,support@paypa1-verify.com,Refund Pending - Claim Now,Click here immediately to verify your account before it gets suspended: bit.ly/1rx856,2026-07-11T04:19:18.573069,12,1,2,1,3,1,0,phishing
+EMAIL_000707,admin@project.com,Your Order Confirmation,Your subscription has been renewed. Thank you for your continued support.,2026-07-17T04:19:18.579026,11,0,0,0,1,0,0,legitimate
+EMAIL_000094,admin@bank-security-check.xyz,Your Account Has Been Compromised,Click here immediately to verify your account before it gets suspended: bit.ly/xvew5f,2026-07-20T04:19:18.559510,12,1,1,1,2,0,0,phishing
+EMAIL_000082,noreply@amaz0n-security.com,Action Required: Unusual Activity Detected,Your payment method has expired. Update it now: bit.ly/iguos8,2026-07-06T04:19:18.559250,9,1,1,4,1,0,0,phishing
+EMAIL_000977,team@workplace.com,Monthly Report Attached,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-28T04:19:18.585906,15,0,0,0,0,0,0,legitimate
+EMAIL_000605,admin@project.com,Team Lunch This Friday,We've improved our security. No action needed from you.,2026-07-03T04:19:18.576999,9,0,0,0,0,0,0,legitimate
+EMAIL_000968,admin@project.com,Project Update - Q3 Results,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-23T04:19:18.585684,12,0,0,0,1,0,0,legitimate
+EMAIL_000080,support@paypa1-verify.com,Your Package Delivery Failed,Your payment method has expired. Update it now: bit.ly/g7pu2z,2026-06-29T04:19:18.559182,9,1,3,5,1,1,0,phishing
+EMAIL_000639,orders@store.com,Password Changed Successfully,Here's the monthly report with our latest metrics and performance analysis.,2026-07-16T04:19:18.577686,11,0,0,1,0,0,0,legitimate
+EMAIL_000378,help@applesupport-verify.net,Congratulations! You've Won a Prize,Click here immediately to verify your account before it gets suspended: bit.ly/hywasc,2026-07-22T04:19:18.571926,12,1,1,5,4,1,0,phishing
+EMAIL_000423,noreply@amaz0n-security.com,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/b7pvrl,2026-07-06T04:19:18.572947,9,1,2,5,3,1,0,phishing
+EMAIL_000067,support@paypa1-verify.com,Urgent: Verify Your Account,Your payment method has expired. Update it now: bit.ly/9954cf,2026-07-10T04:19:18.558901,9,1,3,1,3,1,0,phishing
+EMAIL_000097,security@google-account.tk,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/znmn4v,2026-07-07T04:19:18.559589,9,1,1,2,3,0,0,phishing
+EMAIL_000874,team@workplace.com,Team Lunch This Friday,Thank you for attending our webinar. Here's the recording link.,2026-07-21T04:19:18.582377,10,0,0,0,0,0,0,legitimate
+EMAIL_000105,verify@micros0ft-account.ru,Your Package Delivery Failed,Your Microsoft account needs immediate attention: bit.ly/yj3fnm,2026-07-19T04:19:18.559750,7,1,2,2,0,0,0,phishing
+EMAIL_000149,security@google-account.tk,Action Required: Unusual Activity Detected,Your payment method has expired. Update it now: bit.ly/8acuix,2026-07-26T04:19:18.564432,9,1,3,4,1,1,0,phishing
+EMAIL_000837,support@service.com,Your Order Confirmation,Attached is the updated project timeline. Please review and provide feedback.,2026-07-22T04:19:18.581677,11,0,0,0,1,0,0,legitimate
+EMAIL_000464,verify@micros0ft-account.ru,Update Payment Method Required,Click here immediately to verify your account before it gets suspended: bit.ly/0616tx,2026-07-20T04:19:18.574085,12,1,1,4,3,1,0,phishing
+EMAIL_000085,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,IRS tax refund ready for pickup. Claim here: bit.ly/1nmvy5,2026-07-24T04:19:18.559313,9,1,3,1,1,1,0,phishing
+EMAIL_000992,orders@store.com,Annual Leave Request Approved,Your subscription has been renewed. Thank you for your continued support.,2026-07-28T04:19:18.586191,11,0,0,1,0,0,0,legitimate
+EMAIL_000932,team@workplace.com,Annual Leave Request Approved,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-20T04:19:18.583663,12,0,0,0,0,0,0,legitimate
+EMAIL_000860,orders@store.com,Your Reservation Confirmation,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-20T04:19:18.582165,14,0,0,0,1,0,0,legitimate
+EMAIL_000488,noreply@amaz0n-security.com,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/tpjcyf,2026-07-25T04:19:18.574662,9,1,2,1,1,1,0,phishing
+EMAIL_000604,noreply@company.com,Monthly Report Attached,Here's the monthly report with our latest metrics and performance analysis.,2026-07-02T04:19:18.576988,11,0,0,1,0,0,0,legitimate
+EMAIL_000136,noreply@amaz0n-security.com,Confirm Your Identity Now,Your Microsoft account needs immediate attention: bit.ly/ukxvng,2026-07-07T04:19:18.560400,7,1,3,2,1,0,0,phishing
+EMAIL_000951,noreply@company.com,New Feature Release Notes,Your subscription has been renewed. Thank you for your continued support.,2026-07-17T04:19:18.585313,11,0,0,1,0,0,0,legitimate
+EMAIL_000296,support@paypa1-verify.com,Click Here to Confirm Your Password,Your Microsoft account needs immediate attention: bit.ly/dzol2y,2026-07-18T04:19:18.567979,7,1,1,4,2,1,0,phishing
+EMAIL_000757,orders@store.com,Password Changed Successfully,Thank you for attending our webinar. Here's the recording link.,2026-07-28T04:19:18.580025,10,0,0,0,0,0,0,legitimate
+EMAIL_000440,verify@micros0ft-account.ru,Your Package Delivery Failed,Click here immediately to verify your account before it gets suspended: bit.ly/8p2zmd,2026-06-29T04:19:18.573446,12,1,3,4,2,1,0,phishing
+EMAIL_000652,newsletter@brand.com,Welcome to Our Newsletter,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-18T04:19:18.577872,12,0,0,0,0,0,0,legitimate
+EMAIL_000420,security@google-account.tk,Bank Security Alert,Your payment method has expired. Update it now: bit.ly/gx1rqk,2026-07-01T04:19:18.572905,9,1,3,5,1,1,0,phishing
+EMAIL_000505,support@service.com,Monthly Report Attached,Your subscription has been renewed. Thank you for your continued support.,2026-07-21T04:19:18.574995,11,0,0,0,0,0,0,legitimate
+EMAIL_000156,noreply@amaz0n-security.com,Refund Pending - Claim Now,Your payment method has expired. Update it now: bit.ly/2prstq,2026-07-13T04:19:18.564573,9,1,1,4,2,0,0,phishing
+EMAIL_000775,support@service.com,Annual Leave Request Approved,Here's the monthly report with our latest metrics and performance analysis.,2026-07-09T04:19:18.580304,11,0,0,1,0,0,0,legitimate
+EMAIL_000643,noreply@company.com,Meeting Tomorrow at 2PM,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-19T04:19:18.577727,15,0,0,1,0,0,0,legitimate
+EMAIL_000466,support@paypa1-verify.com,Urgent: Verify Your Account,PayPal security alert. Confirm your information: bit.ly/0lqjuf,2026-07-01T04:19:18.574189,7,1,3,2,3,1,0,phishing
+EMAIL_000204,admin@bank-security-check.xyz,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/lv9eyg,2026-07-03T04:19:18.565781,7,1,1,3,1,0,0,phishing
+EMAIL_000062,support@paypa1-verify.com,Action Required: Unusual Activity Detected,PayPal security alert. Confirm your information: bit.ly/iyerca,2026-07-11T04:19:18.558754,7,1,3,2,1,1,0,phishing
+EMAIL_000445,security@google-account.tk,Congratulations! You've Won a Prize,Your Microsoft account needs immediate attention: bit.ly/a4o8mr,2026-06-30T04:19:18.573515,7,1,2,4,2,1,0,phishing
+EMAIL_000229,security@google-account.tk,Bank Security Alert,We noticed unusual activity. Please confirm your password: bit.ly/fvnczk,2026-06-30T04:19:18.566408,9,1,1,3,1,1,0,phishing
+EMAIL_000257,security@google-account.tk,Refund Pending - Claim Now,Your Netflix subscription needs updating: bit.ly/5fxzoz,2026-07-13T04:19:18.567103,6,1,1,1,1,1,0,phishing
+EMAIL_000096,noreply@amaz0n-security.com,Urgent: Verify Your Account,Confirm receipt of package: bit.ly/gx1zxu,2026-07-03T04:19:18.559571,5,1,3,1,3,1,0,phishing
+EMAIL_000189,security@google-account.tk,Refund Pending - Claim Now,Amazon detected unauthorized access. Verify your account: bit.ly/6bgekl,2026-07-08T04:19:18.565489,8,1,2,1,2,1,0,phishing
+EMAIL_000627,notifications@app.com,Password Changed Successfully,Your subscription has been renewed. Thank you for your continued support.,2026-07-23T04:19:18.577495,11,0,0,0,0,0,0,legitimate
+EMAIL_000303,help@applesupport-verify.net,Bank Security Alert,Your Microsoft account needs immediate attention: bit.ly/rr2og1,2026-07-26T04:19:18.568106,7,1,3,2,0,1,0,phishing
+EMAIL_000847,newsletter@brand.com,Welcome to Our Newsletter,We've improved our security. No action needed from you.,2026-07-07T04:19:18.581877,9,0,0,0,0,0,0,legitimate
+EMAIL_000065,admin@bank-security-check.xyz,Update Payment Method Required,Confirm receipt of package: bit.ly/r51f5k,2026-07-19T04:19:18.558867,5,1,1,3,2,0,0,phishing
+EMAIL_000527,noreply@company.com,Meeting Tomorrow at 2PM,Thank you for your order! Your item will be shipped within 2 business days.,2026-06-29T04:19:18.575472,14,0,0,1,0,0,0,legitimate
+EMAIL_000119,noreply@amaz0n-security.com,Congratulations! You've Won a Prize,We noticed unusual activity. Please confirm your password: bit.ly/wwqqxt,2026-07-07T04:19:18.560090,9,1,2,5,3,1,0,phishing
+EMAIL_000129,verify@micros0ft-account.ru,Update Payment Method Required,Your payment method has expired. Update it now: bit.ly/jcs2g6,2026-07-18T04:19:18.560272,9,1,3,3,1,1,0,phishing
+EMAIL_000240,verify@micros0ft-account.ru,Your Account Has Been Compromised,PayPal security alert. Confirm your information: bit.ly/516yl7,2026-07-23T04:19:18.566607,7,1,2,1,1,1,0,phishing
+EMAIL_000856,admin@project.com,Team Lunch This Friday,Your subscription has been renewed. Thank you for your continued support.,2026-07-17T04:19:18.582103,11,0,0,1,0,0,0,legitimate
+EMAIL_000777,newsletter@brand.com,New Feature Release Notes,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-28T04:19:18.580386,14,0,0,1,0,0,0,legitimate
+EMAIL_000438,noreply@amaz0n-security.com,Confirm Your Identity Now,Click here immediately to verify your account before it gets suspended: bit.ly/wn69zy,2026-07-02T04:19:18.573413,12,1,1,4,3,1,0,phishing
+EMAIL_000806,orders@store.com,Your Reservation Confirmation,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-07-14T04:19:18.580988,15,0,0,1,1,0,0,legitimate
+EMAIL_000755,orders@store.com,Annual Leave Request Approved,We've improved our security. No action needed from you.,2026-07-25T04:19:18.579961,9,0,0,0,0,0,0,legitimate
+EMAIL_000803,hr@company.com,Welcome to Our Newsletter,Your subscription has been renewed. Thank you for your continued support.,2026-07-02T04:19:18.580926,11,0,0,0,0,0,0,legitimate
+EMAIL_000700,hr@company.com,Project Update - Q3 Results,Attached is the updated project timeline. Please review and provide feedback.,2026-06-30T04:19:18.578883,11,0,0,1,0,0,0,legitimate
+EMAIL_000826,orders@store.com,Project Update - Q3 Results,Thank you for attending our webinar. Here's the recording link.,2026-07-23T04:19:18.581433,10,0,0,1,0,0,0,legitimate
+EMAIL_000816,team@workplace.com,Welcome to Our Newsletter,Attached is the updated project timeline. Please review and provide feedback.,2026-07-25T04:19:18.581256,11,0,0,0,0,0,0,legitimate
+EMAIL_000765,notifications@app.com,Meeting Tomorrow at 2PM,The team meeting has been rescheduled to Friday at 3 PM. See you then!,2026-07-11T04:19:18.580139,14,0,0,1,0,0,0,legitimate
+EMAIL_000172,help@applesupport-verify.net,Your Package Delivery Failed,IRS tax refund ready for pickup. Claim here: bit.ly/vmlg99,2026-07-27T04:19:18.564997,9,1,2,3,1,0,0,phishing
+EMAIL_000336,help@applesupport-verify.net,Refund Pending - Claim Now,Your Microsoft account needs immediate attention: bit.ly/258luq,2026-07-25T04:19:18.568962,7,1,3,3,1,1,0,phishing
+EMAIL_000263,noreply@amaz0n-security.com,Your Account Has Been Compromised,Your Netflix subscription needs updating: bit.ly/l1tf0t,2026-07-22T04:19:18.567192,6,1,2,1,0,0,0,phishing
+EMAIL_000556,orders@store.com,Welcome to Our Newsletter,"Your password has been successfully changed. If this wasn't you, contact support.",2026-07-23T04:19:18.576061,12,0,0,0,0,0,0,legitimate
+EMAIL_000003,security@google-account.tk,Confirm Your Identity Now,Your Netflix subscription needs updating: bit.ly/ck99xv,2026-07-21T04:19:18.557344,6,1,3,4,1,1,0,phishing
+EMAIL_000593,newsletter@brand.com,Monthly Report Attached,Your subscription has been renewed. Thank you for your continued support.,2026-07-23T04:19:18.576810,11,0,0,0,0,0,0,legitimate
+EMAIL_000899,orders@store.com,Project Update - Q3 Results,Here's the monthly report with our latest metrics and performance analysis.,2026-07-07T04:19:18.582986,11,0,0,1,0,0,0,legitimate
+EMAIL_000089,support@paypa1-verify.com,Your Account Has Been Compromised,Your payment method has expired. Update it now: bit.ly/j0d3rg,2026-06-29T04:19:18.559437,9,1,3,1,1,1,0,phishing
+EMAIL_000970,hr@company.com,Welcome to Our Newsletter,"Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",2026-06-30T04:19:18.585710,15,0,0,0,0,0,0,legitimate
+EMAIL_000671,support@service.com,Annual Leave Request Approved,Attached is the updated project timeline. Please review and provide feedback.,2026-07-12T04:19:18.578296,11,0,0,0,0,0,0,legitimate
