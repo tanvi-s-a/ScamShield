@@ -16,6 +16,4 @@ backend/.venv/
 
 # Logs
 *.log
-=======
-_metadata/
->>>>>>> e4c6416 (improved)
+
