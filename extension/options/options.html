@@ -8,18 +8,64 @@
 <body>
   <h1>🛡 MailShield AI — Settings</h1>
 
-  <label for="backend-url">Backend address</label>
-  <input id="backend-url" type="text" placeholder="http://127.0.0.1:8000" />
+  <section class="settings-card">
+    <h2>Ad blocking</h2>
+    <p class="description">Choose which types of ad blocking MailShield uses.</p>
 
-  <label for="mode">Mode</label>
-  <select id="mode">
-    <option value="analyze_only">Analyze only (display results)</option>
-    <option value="warn_and_disable" disabled>Warn and disable (stretch goal — not implemented yet)</option>
-    <option value="safe_preview" disabled>Safe Preview (stretch goal — not implemented yet)</option>
-  </select>
+    <div class="setting-row">
+      <div>
+        <strong>Network blocking</strong>
+        <p>Stops known ad and tracker requests before they load.</p>
+      </div>
+      <label class="switch" aria-label="Enable network blocking">
+        <input id="network-blocking" type="checkbox" />
+        <span class="slider"></span>
+      </label>
+    </div>
 
-  <button id="save-btn">Save</button>
-  <div id="save-status"></div>
+    <div class="setting-row">
+      <div>
+        <strong>Cosmetic blocking</strong>
+        <p>Hides or removes ad elements that remain on webpages.</p>
+      </div>
+      <label class="switch" aria-label="Enable cosmetic blocking">
+        <input id="cosmetic-blocking" type="checkbox" />
+        <span class="slider"></span>
+      </label>
+    </div>
+
+    <div class="tracker-grid" aria-label="Ad blocking statistics">
+      <div class="tracker-card">
+        <span id="network-count" class="tracker-number">0</span>
+        <span class="tracker-label">Network requests blocked</span>
+      </div>
+      <div class="tracker-card">
+        <span id="cosmetic-count" class="tracker-number">0</span>
+        <span class="tracker-label">Page elements hidden</span>
+      </div>
+    </div>
+
+    <div class="tracker-actions">
+      <button id="reset-stats-btn" class="secondary-button">Reset counters</button>
+      <span id="adblock-status" class="inline-status" aria-live="polite"></span>
+    </div>
+  </section>
+
+  <section class="settings-card">
+    <h2>MailShield backend</h2>
+    <label for="backend-url">Backend address</label>
+    <input id="backend-url" type="text" placeholder="http://127.0.0.1:8000" />
+
+    <label for="mode">Mode</label>
+    <select id="mode">
+      <option value="analyze_only">Analyze only (display results)</option>
+      <option value="warn_and_disable" disabled>Warn and disable (stretch goal — not implemented yet)</option>
+      <option value="safe_preview" disabled>Safe Preview (stretch goal — not implemented yet)</option>
+    </select>
+
+    <button id="save-btn">Save backend settings</button>
+    <div id="save-status"></div>
+  </section>
 
   <script src="options.js"></script>
 </body>

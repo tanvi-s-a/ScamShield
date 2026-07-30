@@ -4,22 +4,25 @@
   "version": "1.0.0",
   "description": "Browser protection against phishing, scams, and intrusive advertising.",
   "options_page": "extension/options/options.html",
-
   "icons": {
     "16": "extension/icons/icon16.png",
     "48": "extension/icons/icon48.png",
     "128": "extension/icons/icon128.png"
   },
-
   "permissions": [
     "storage",
-    "declarativeNetRequest"
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "activeTab",
+    "scripting",
+    "notifications"
   ],
-
   "host_permissions": [
-    "<all_urls>"
+    "<all_urls>",
+    "https://mail.google.com/*",
+    "http://127.0.0.1:8000/*",
+    "http://localhost:8000/*"
   ],
-
   "declarative_net_request": {
     "rule_resources": [
       {
@@ -29,14 +32,23 @@
       }
     ]
   },
-
   "content_scripts": [
     {
       "matches": [
-        "<all_urls>"
+        "https://mail.google.com/*"
+      ],
+      "js": [
+        "extension/content/email-extractor.js",
+        "extension/content/gmail-content.js"
       ],
       "css": [
-        "cosmetic.css"
+        "extension/content/gmail-content.css"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "<all_urls>"
       ],
       "js": [
         "cosmetic.js"
@@ -44,25 +56,27 @@
       "run_at": "document_end"
     }
   ],
-
   "web_accessible_resources": [
-  {
-    "resources": [
-      "filters.json"
-    ],
-    "matches": [
-      "<all_urls>"
-    ]
-  }
+    {
+      "resources": [
+        "filters.json",
+        "cosmetic.css"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
   ],
-
   "action": {
-    "default_title": "MailShield",
+    "default_title": "MailShield AI",
     "default_popup": "extension/popup/popup.html",
     "default_icon": {
       "16": "extension/icons/icon16.png",
       "48": "extension/icons/icon48.png",
       "128": "extension/icons/icon128.png"
     }
+  },
+  "background": {
+    "service_worker": "extension/background/service-worker.js"
   }
 }

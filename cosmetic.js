@@ -3,6 +3,55 @@ let observer = null;
 let removeAdsTimer = null;
 
 const DEBOUNCE_DELAY_MS = 100;
+const AD_BLOCK_SETTING = "cosmeticBlockerEnabled";
+const COSMETIC_COUNT_SETTING = "cosmeticBlockedCount";
+const STYLE_ELEMENT_ID = "mailshield-cosmetic-style";
+let adBlockerEnabled = true;
+let pendingCosmeticCount = 0;
+let countFlushTimer = null;
+
+
+function recordCosmeticBlocks(amount) {
+    if (!Number.isFinite(amount) || amount <= 0) return;
+    pendingCosmeticCount += amount;
+    clearTimeout(countFlushTimer);
+    countFlushTimer = setTimeout(async () => {
+        const amountToAdd = pendingCosmeticCount;
+        pendingCosmeticCount = 0;
+        try {
+            const stored = await chrome.storage.local.get({ [COSMETIC_COUNT_SETTING]: 0 });
+            await chrome.storage.local.set({
+                [COSMETIC_COUNT_SETTING]: Number(stored[COSMETIC_COUNT_SETTING] || 0) + amountToAdd
+            });
+        } catch (error) {
+            console.warn("MailShield could not update cosmetic block counter:", error);
+        }
+    }, 250);
+}
+
+async function setCommonCosmeticCss(enabled) {
+    document.getElementById(STYLE_ELEMENT_ID)?.remove();
+    if (!enabled) return;
+
+    try {
+        const response = await fetch(chrome.runtime.getURL("cosmetic.css"));
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const style = document.createElement("style");
+        style.id = STYLE_ELEMENT_ID;
+        style.textContent = await response.text();
+        (document.head || document.documentElement).appendChild(style);
+    } catch (error) {
+        console.error("MailShield could not load common cosmetic CSS:", error);
+    }
+}
+
+function stopAdBlocker() {
+    observer?.disconnect();
+    observer = null;
+    clearTimeout(removeAdsTimer);
+    document.getElementById(STYLE_ELEMENT_ID)?.remove();
+}
+
 
 /**
  * Returns true when a cosmetic rule applies to the current website.
@@ -103,7 +152,7 @@ async function loadFilters() {
  * entire document after every DOM mutation.
  */
 function removeAdsFromRoot(root) {
-    if (adSelectors.length === 0 || !root) {
+    if (!adBlockerEnabled || adSelectors.length === 0 || !root) {
         return;
     }
 
@@ -118,6 +167,7 @@ function removeAdsFromRoot(root) {
                 root.matches(selector)
             ) {
                 root.remove();
+                recordCosmeticBlocks(1);
                 return;
             }
 
@@ -126,12 +176,17 @@ function removeAdsFromRoot(root) {
                 root instanceof DocumentFragment ||
                 root instanceof Element
             ) {
-                const suspectedAds =
-                    root.querySelectorAll(selector);
+                const suspectedAds = root.querySelectorAll(selector);
+                let removedCount = 0;
 
                 suspectedAds.forEach((element) => {
-                    element.remove();
+                    if (element.isConnected) {
+                        element.remove();
+                        removedCount += 1;
+                    }
                 });
+
+                recordCosmeticBlocks(removedCount);
             }
         } catch (error) {
             console.warn(
@@ -205,20 +260,37 @@ function startObserver() {
 }
 
 /**
- * Starts ScamShield after the generated filter database is loaded.
+ * Starts cosmetic ad blocking when the saved setting is enabled.
  */
 async function initializeAdBlocker() {
-    await loadFilters();
+    const stored = await chrome.storage.local.get({ [AD_BLOCK_SETTING]: true });
+    adBlockerEnabled = stored[AD_BLOCK_SETTING];
+    await setCommonCosmeticCss(adBlockerEnabled);
 
+    if (!adBlockerEnabled) return;
+
+    await loadFilters();
     if (adSelectors.length === 0) {
-        console.warn(
-            "ScamShield found no cosmetic selectors for this page"
-        );
+        console.warn("MailShield found no cosmetic selectors for this page");
         return;
     }
 
     removeAds();
     startObserver();
 }
+
+chrome.storage.onChanged.addListener(async (changes, areaName) => {
+    if (areaName !== "local" || !changes[AD_BLOCK_SETTING]) return;
+
+    adBlockerEnabled = changes[AD_BLOCK_SETTING].newValue !== false;
+    if (adBlockerEnabled) {
+        await setCommonCosmeticCss(true);
+        if (adSelectors.length === 0) await loadFilters();
+        removeAds();
+        startObserver();
+    } else {
+        stopAdBlocker();
+    }
+});
 
 initializeAdBlocker();

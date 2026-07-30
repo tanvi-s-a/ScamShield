@@ -8,8 +8,21 @@
 <body>
   <h1>🛡 MailShield AI</h1>
   <div id="status" class="status">Checking backend…</div>
+
+  <section class="protection-row" aria-labelledby="ad-block-label">
+    <div>
+      <strong id="ad-block-label">Ad blocker</strong>
+      <div id="ad-block-state" class="subtext">Checking status…</div>
+    </div>
+    <label class="switch" aria-label="Turn all ad blocking on or off">
+      <input id="ad-block-toggle" type="checkbox" />
+      <span class="slider"></span>
+    </label>
+  </section>
+
+  <p id="ad-block-message" class="ad-block-message" aria-live="polite"></p>
+  <button id="settings-btn">Ad blocker settings</button>
   <p class="hint">Open a Gmail message and click <strong>Analyze with MailShield AI</strong> above the subject line.</p>
-  <button id="settings-btn">Settings</button>
   <script src="popup.js"></script>
 </body>
 </html>

@@ -53,7 +53,7 @@ function notifyIfRisky(result, tabId) {
     const notificationId = `mailshield-${Date.now()}`;
     chrome.notifications.create(notificationId, {
       type: "basic",
-      iconUrl: "icons/icon128.png",
+      iconUrl: "extension/icons/icon128.png",
       title: result.risk_level === "High Risk"
         ? "⚠️ High-risk email detected"
         : "⚠️ Suspicious email detected",
@@ -109,4 +109,40 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
       .catch((err) => sendResponse({ ok: false, error: err.message }));
     return true;
   }
+});
+// --- Ad-block statistics -----------------------------------------------
+// onRuleMatchedDebug is available for unpacked extensions and records each
+// request blocked by the declarative network ruleset.
+let pendingNetworkBlocks = 0;
+let networkCountFlushTimer = null;
+
+async function flushNetworkBlockCount() {
+  const amountToAdd = pendingNetworkBlocks;
+  pendingNetworkBlocks = 0;
+  if (amountToAdd <= 0) return;
+
+  try {
+    const stored = await chrome.storage.local.get({ networkBlockedCount: 0 });
+    await chrome.storage.local.set({
+      networkBlockedCount: Number(stored.networkBlockedCount || 0) + amountToAdd,
+    });
+  } catch (error) {
+    console.warn("MailShield could not update network block counter:", error);
+  }
+}
+
+if (chrome.declarativeNetRequest.onRuleMatchedDebug) {
+  chrome.declarativeNetRequest.onRuleMatchedDebug.addListener(() => {
+    pendingNetworkBlocks += 1;
+    clearTimeout(networkCountFlushTimer);
+    networkCountFlushTimer = setTimeout(flushNetworkBlockCount, 250);
+  });
+}
+
+// Keep the stored network setting synchronized with the enabled ruleset.
+chrome.runtime.onInstalled.addListener(async () => {
+  const enabledRulesets = await chrome.declarativeNetRequest.getEnabledRulesets();
+  await chrome.storage.local.set({
+    networkBlockerEnabled: enabledRulesets.includes("ad_rules"),
+  });
 });
