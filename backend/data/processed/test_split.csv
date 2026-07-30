@@ -1,0 +1,151 @@
+combined_text,sender_domain_length,sender_domain_has_digits,sender_domain_has_hyphen,sender_subdomain_count,from_reply_mismatch,from_return_mismatch,from_message_id_mismatch,lookalike_domain_score,spf_pass,spf_fail,spf_missing,dkim_pass,dkim_fail,dkim_missing,dmarc_pass,dmarc_fail,dmarc_missing,url_count,https_url_count,http_url_count,ip_address_url_count,shortened_url_count,punycode_url_count,suspicious_keyword_count,visible_destination_mismatch_count,maximum_url_length,maximum_subdomain_count,lookalike_url_domain_count,redirect_like_url_count,promotional_term_count,prize_term_count,urgency_term_count,credential_request_count,payment_request_count,external_image_count,tracking_pixel_count,suspicious_button_count,embedded_form_count,password_input_count,iframe_count,script_count,hidden_element_count,advertisement_section_count,external_domain_count,label
+Urgent: Verify Your Account Amazon detected unauthorized access. Verify your account: bit.ly/iij6rf,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Click here immediately to verify your account before it gets suspended: bit.ly/3ek2ga,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Your Netflix subscription needs updating: bit.ly/fn4ech,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Package Delivery Failed Your Netflix subscription needs updating: bit.ly/nse3di,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Welcome to Our Newsletter Your password has been successfully changed. If this wasn't you, contact support.",11,0,0,0,1,0,0,0.4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank Security Alert Your Netflix subscription needs updating: bit.ly/kgwp5x,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Package Delivery Failed PayPal security alert. Confirm your information: bit.ly/5mu9yn,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Password Changed Successfully Here's the monthly report with our latest metrics and performance analysis.,13,0,0,0,1,0,0,0.429,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Urgent: Verify Your Account Your payment method has expired. Update it now: bit.ly/9954cf,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Package Delivery Failed PayPal security alert. Confirm your information: bit.ly/bnp5a0,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Update Payment Method Required Your Netflix subscription needs updating: bit.ly/q26fkr,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize Your Netflix subscription needs updating: bit.ly/nq8ix3,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Urgent: Verify Your Account Confirm receipt of package: bit.ly/p4agnu,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Password Changed Successfully Your subscription has been renewed. Thank you for your continued support.,11,0,0,0,1,0,0,0.462,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank Security Alert We noticed unusual activity. Please confirm your password: bit.ly/7lslty,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Confirm Your Identity Now Your Microsoft account needs immediate attention: bit.ly/720cop,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert We noticed unusual activity. Please confirm your password: bit.ly/tpjcyf,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Click here immediately to verify your account before it gets suspended: bit.ly/i6slbz,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Confirm receipt of package: bit.ly/qfklij,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Reservation Confirmation Thank you for attending our webinar. Here's the recording link.,13,0,0,0,1,0,0,0.429,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Your Package Delivery Failed We noticed unusual activity. Please confirm your password: bit.ly/pqix8u,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize Your payment method has expired. Update it now: bit.ly/5b3q1i,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Your Package Delivery Failed We noticed unusual activity. Please confirm your password: bit.ly/u941yb,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Your Order Confirmation Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",11,0,0,0,1,0,0,0.462,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Your Package Delivery Failed We noticed unusual activity. Please confirm your password: bit.ly/eetbe7,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Confirm Your Identity Now Your Netflix subscription needs updating: bit.ly/ntubg4,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Monthly Report Attached The team meeting has been rescheduled to Friday at 3 PM. See you then!,9,0,0,0,1,0,0,0.429,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Congratulations! You've Won a Prize PayPal security alert. Confirm your information: bit.ly/igg63z,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Confirm Your Identity Now Your Netflix subscription needs updating: bit.ly/50gj0d,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"New Feature Release Notes Your password has been successfully changed. If this wasn't you, contact support.",11,0,0,0,1,0,0,0.4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Congratulations! You've Won a Prize Your payment method has expired. Update it now: bit.ly/n32n0o,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Confirm Your Identity Now IRS tax refund ready for pickup. Claim here: bit.ly/nx07i9,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Action Required: Unusual Activity Detected Confirm receipt of package: bit.ly/q1ycxf,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Your Microsoft account needs immediate attention: bit.ly/8gd3mk,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Your Order Confirmation Your password has been successfully changed. If this wasn't you, contact support.",11,0,0,0,1,0,0,0.4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank Security Alert Click here immediately to verify your account before it gets suspended: bit.ly/nq3juo,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password PayPal security alert. Confirm your information: bit.ly/8rdtia,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now IRS tax refund ready for pickup. Claim here: bit.ly/f2xrrn,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Congratulations! You've Won a Prize Your Microsoft account needs immediate attention: bit.ly/a4o8mr,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Bank Security Alert Your payment method has expired. Update it now: bit.ly/gx1rqk,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Annual Leave Request Approved Attached is the updated project timeline. Please review and provide feedback.,9,0,0,0,1,0,0,0.364,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Click Here to Confirm Your Password Your payment method has expired. Update it now: bit.ly/4i4b5u,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize Your Netflix subscription needs updating: bit.ly/13fjij,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Update Payment Method Required Your Netflix subscription needs updating: bit.ly/q4bclb,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Your Netflix subscription needs updating: bit.ly/u5nqir,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Update Payment Method Required Click here immediately to verify your account before it gets suspended: bit.ly/qvk8ku,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize IRS tax refund ready for pickup. Claim here: bit.ly/gkoqao,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Meeting Tomorrow at 2PM Attached is the updated project timeline. Please review and provide feedback.,7,0,0,0,1,0,0,0.75,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Refund Pending - Claim Now Your payment method has expired. Update it now: bit.ly/5r324w,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Bank Security Alert Amazon detected unauthorized access. Verify your account: bit.ly/2qbwc8,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Your Microsoft account needs immediate attention: bit.ly/nge2k8,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Team Lunch This Friday Welcome to our subscriber community. You'll receive weekly updates on new features.,11,0,0,0,1,0,0,0.375,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confirm Your Identity Now We noticed unusual activity. Please confirm your password: bit.ly/ucomyv,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Urgent: Verify Your Account We noticed unusual activity. Please confirm your password: bit.ly/o3aoo1,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Urgent: Verify Your Account Your Microsoft account needs immediate attention: bit.ly/xc8rgh,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Urgent: Verify Your Account Your payment method has expired. Update it now: bit.ly/b7pvrl,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Confirm receipt of package: bit.ly/kc36dm,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Your Netflix subscription needs updating: bit.ly/j3ka91,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Your Microsoft account needs immediate attention: bit.ly/ovmtiy,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Action Required: Unusual Activity Detected IRS tax refund ready for pickup. Claim here: bit.ly/30ajso,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Confirm receipt of package: bit.ly/kdr1mt,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Update Payment Method Required Your Microsoft account needs immediate attention: bit.ly/4ye4xg,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Your Microsoft account needs immediate attention: bit.ly/rr2og1,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Order Confirmation Here's the monthly report with our latest metrics and performance analysis.,11,0,0,0,1,0,0,0.4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Welcome to Our Newsletter Welcome to our subscriber community. You'll receive weekly updates on new features.,9,0,0,0,1,0,0,0.364,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank Security Alert Confirm receipt of package: bit.ly/c4p3ob,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Confirm Your Identity Now Confirm receipt of package: bit.ly/0kikun,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize Confirm receipt of package: bit.ly/pv5wh0,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Action Required: Unusual Activity Detected Your Netflix subscription needs updating: bit.ly/c8caye,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Click here immediately to verify your account before it gets suspended: bit.ly/wuz0hf,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1
+Click Here to Confirm Your Password Click here immediately to verify your account before it gets suspended: bit.ly/5n47oc,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Password Changed Successfully Attached is the updated project timeline. Please review and provide feedback.,9,0,0,0,1,0,0,0.364,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Update Payment Method Required Your Microsoft account needs immediate attention: bit.ly/ew5ugo,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Your Microsoft account needs immediate attention: bit.ly/szk3pa,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Amazon detected unauthorized access. Verify your account: bit.ly/1yob7x,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Action Required: Unusual Activity Detected PayPal security alert. Confirm your information: bit.ly/z25m2k,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Urgent: Verify Your Account Your payment method has expired. Update it now: bit.ly/z0vov2,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Welcome to Our Newsletter Here's the monthly report with our latest metrics and performance analysis.,11,0,0,0,1,0,0,0.375,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Congratulations! You've Won a Prize We noticed unusual activity. Please confirm your password: bit.ly/z75lj0,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Urgent: Verify Your Account Confirm receipt of package: bit.ly/7omk97,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Your Netflix subscription needs updating: bit.ly/x0j3z4,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Click here immediately to verify your account before it gets suspended: bit.ly/7fvr6m,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Your Netflix subscription needs updating: bit.ly/qj0tnz,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Action Required: Unusual Activity Detected Congratulations! You've won $5000. Claim your prize: bit.ly/5ljcd4,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Team Lunch This Friday Your subscription has been renewed. Thank you for your continued support.,11,0,0,0,1,0,0,0.4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confirm Your Identity Now Amazon detected unauthorized access. Verify your account: bit.ly/ss3y7p,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Amazon detected unauthorized access. Verify your account: bit.ly/6bgekl,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Confirm Your Identity Now Congratulations! You've won $5000. Claim your prize: bit.ly/jgjgo7,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Project Update - Q3 Results Thank you for attending our webinar. Here's the recording link.,11,0,0,0,1,0,0,0.375,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank Security Alert Your Netflix subscription needs updating: bit.ly/cu8593,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Action Required: Unusual Activity Detected Your Microsoft account needs immediate attention: bit.ly/v8su95,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert IRS tax refund ready for pickup. Claim here: bit.ly/jsrvga,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Your payment method has expired. Update it now: bit.ly/76l68u,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Your Microsoft account needs immediate attention: bit.ly/6ne3dw,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Update Payment Method Required Confirm receipt of package: bit.ly/r51f5k,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Confirm receipt of package: bit.ly/6g4j5n,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Action Required: Unusual Activity Detected Confirm receipt of package: bit.ly/91gdhv,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now We noticed unusual activity. Please confirm your password: bit.ly/rs1nmf,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Congratulations! You've Won a Prize Your Netflix subscription needs updating: bit.ly/7x4w3p,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Congratulations! You've Won a Prize Congratulations! You've won $5000. Claim your prize: bit.ly/9jszey,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Refund Pending - Claim Now Your payment method has expired. Update it now: bit.ly/2prstq,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Refund Pending - Claim Now Your Netflix subscription needs updating: bit.ly/a9xvnl,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Your Package Delivery Failed Click here immediately to verify your account before it gets suspended: bit.ly/ec26oa,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Your payment method has expired. Update it now: bit.ly/nue5x5,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Action Required: Unusual Activity Detected Amazon detected unauthorized access. Verify your account: bit.ly/b3yx03,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize We noticed unusual activity. Please confirm your password: bit.ly/vhi0ni,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Refund Pending - Claim Now Amazon detected unauthorized access. Verify your account: bit.ly/012csp,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Confirm Your Identity Now Confirm receipt of package: bit.ly/16ws2k,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Monthly Report Attached We've improved our security. No action needed from you.,9,0,0,0,1,0,0,0.429,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bank Security Alert Amazon detected unauthorized access. Verify your account: bit.ly/fythrf,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Team Lunch This Friday Thank you for attending our webinar. Here's the recording link.,11,0,0,0,1,0,0,0.375,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Refund Pending - Claim Now PayPal security alert. Confirm your information: bit.ly/995659,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Click Here to Confirm Your Password We noticed unusual activity. Please confirm your password: bit.ly/dnote4,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1
+Confirm Your Identity Now Confirm receipt of package: bit.ly/8ms25s,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Click here immediately to verify your account before it gets suspended: bit.ly/i94a1b,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1
+Refund Pending - Claim Now Your payment method has expired. Update it now: bit.ly/hazni9,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Action Required: Unusual Activity Detected Your Microsoft account needs immediate attention: bit.ly/8uee9s,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize Your Microsoft account needs immediate attention: bit.ly/yb0fik,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Bank Security Alert Amazon detected unauthorized access. Verify your account: bit.ly/g0qwhb,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Click here immediately to verify your account before it gets suspended: bit.ly/0b27je,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password Congratulations! You've won $5000. Claim your prize: bit.ly/wmkumr,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Your Package Delivery Failed Your payment method has expired. Update it now: bit.ly/e84rhs,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bank Security Alert Click here immediately to verify your account before it gets suspended: bit.ly/ii8hmv,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Annual Leave Request Approved Thank you for attending our webinar. Here's the recording link.,11,0,0,0,1,0,0,0.462,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monthly Report Attached Thank you for attending our webinar. Here's the recording link.,11,0,0,0,1,0,0,0.375,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Action Required: Unusual Activity Detected Your payment method has expired. Update it now: bit.ly/08wb1o,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Annual Leave Request Approved We've improved our security. No action needed from you.,11,0,0,0,1,0,0,0.462,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Urgent: Verify Your Account Amazon detected unauthorized access. Verify your account: bit.ly/h0qfg6,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+Password Changed Successfully We've improved our security. No action needed from you.,11,0,0,0,1,0,0,0.4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Action Required: Unusual Activity Detected PayPal security alert. Confirm your information: bit.ly/27m1a7,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize We noticed unusual activity. Please confirm your password: bit.ly/deyv8m,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Your Account Has Been Compromised Your payment method has expired. Update it now: bit.ly/j0d3rg,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Confirm Your Identity Now Your Netflix subscription needs updating: bit.ly/ck99xv,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Congratulations! You've Won a Prize We noticed unusual activity. Please confirm your password: bit.ly/ypb31d,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Bank Security Alert We noticed unusual activity. Please confirm your password: bit.ly/uc8cyy,23,0,1,0,1,0,0,0.6,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Action Required: Unusual Activity Detected Amazon detected unauthorized access. Verify your account: bit.ly/yrpqqp,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now Amazon detected unauthorized access. Verify your account: bit.ly/az0eri,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Your Package Delivery Failed Amazon detected unauthorized access. Verify your account: bit.ly/99qko9,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Update Payment Method Required PayPal security alert. Confirm your information: bit.ly/o12kln,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Update Payment Method Required PayPal security alert. Confirm your information: bit.ly/iq4vc8,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Refund Pending - Claim Now We noticed unusual activity. Please confirm your password: bit.ly/20f90a,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Your Package Delivery Failed Congratulations! You've won $5000. Claim your prize: bit.ly/fcp1b3,20,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Click Here to Confirm Your Password Click here immediately to verify your account before it gets suspended: bit.ly/k31n6n,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Your Package Delivery Failed Amazon detected unauthorized access. Verify your account: bit.ly/in88oz,19,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Your Account Has Been Compromised Congratulations! You've won $5000. Claim your prize: bit.ly/3nc6km,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"New Feature Release Notes Hi, just wanted to follow up on our discussion. Looking forward to the meeting tomorrow.",11,0,0,0,1,0,0,0.462,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confirm Your Identity Now Your Netflix subscription needs updating: bit.ly/0bsy0h,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Click Here to Confirm Your Password IRS tax refund ready for pickup. Claim here: bit.ly/s1972f,17,0,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Urgent: Verify Your Account Confirm receipt of package: bit.ly/9ev4om,17,1,1,0,1,0,0,1.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+Monthly Report Attached Welcome to our subscriber community. You'll receive weekly updates on new features.,7,0,0,0,1,0,0,0.75,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

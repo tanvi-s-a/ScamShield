@@ -54,3 +54,24 @@ curl -X POST http://127.0.0.1:8000/analyze -H "Content-Type: application/json" -
 - 100% accuracy on synthetic-only data is expected and not meaningful —
   the synthetic templates are easy to separate. Real numbers will emerge
   once Kaggle/SpamAssassin/Enron data is mixed in.
+
+## Fast Windows setup (Python 3.12)
+
+From PowerShell inside the `backend` folder:
+
+```powershell
+Set-ExecutionPolicy -Scope Process Bypass
+.\setup_windows.ps1
+```
+
+This creates an isolated `.venv`, installs compatible packages, trains three
+candidate models, selects the model with the best phishing recall, evaluates
+it, and saves it under `models/mailshield_model.joblib`.
+
+Start the API afterward:
+
+```powershell
+.\.venv\Scripts\python.exe -m uvicorn app.main:app --reload
+```
+
+Open `http://127.0.0.1:8000/health`. `model_loaded` should be `true`.

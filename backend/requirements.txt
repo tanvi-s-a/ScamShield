@@ -1,12 +1,12 @@
-fastapi==0.115.0
-uvicorn[standard]==0.30.6
-scikit-learn==1.5.1
-pandas==2.2.2
-numpy==1.26.4
-joblib==1.4.2
-pydantic==2.8.2
-tldextract==5.1.2
+# Tested target: Python 3.12 (64-bit)
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+scikit-learn==1.8.0
+pandas==2.2.3
+numpy==2.0.2
+joblib==1.5.3
+pydantic==2.10.5
 beautifulsoup4==4.12.3
-lxml==5.2.2
-python-multipart==0.0.9
-matplotlib==3.9.0
+lxml==5.3.0
+python-multipart==0.0.20
+matplotlib==3.10.0

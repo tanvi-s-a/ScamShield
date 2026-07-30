@@ -9,14 +9,17 @@ from app.schemas.request_models import AnalyzeRequest, AnalyzeResponse
 from app.analyzers.sender_analyzer import analyze_sender, SENDER_FEATURE_NAMES
 from app.analyzers.link_analyzer import analyze_links, LINK_FEATURE_NAMES
 from app.analyzers.advertisement_analyzer import analyze_advertisement, AD_FEATURE_NAMES
-from app.security.risk_engine import compute_risk, recommend_blocking_actions
+from app.security.risk_engine import (
+    compute_risk, hybrid_classification, recommend_blocking_actions,
+)
 from app.utils.constants import INVERSE_LABEL_MAP
 
 router = APIRouter()
 
 MODELS_DIR = Path(__file__).resolve().parents[2] / "models"
 REPORTS_DIR = Path(__file__).resolve().parents[2] / "reports"
-MODEL_PATH = MODELS_DIR / "mailshield_random_forest.joblib"
+MODEL_PATH = MODELS_DIR / "mailshield_model.joblib"
+LEGACY_MODEL_PATH = MODELS_DIR / "mailshield_random_forest.joblib"
 
 NUMERIC_FEATURES = SENDER_FEATURE_NAMES + LINK_FEATURE_NAMES + AD_FEATURE_NAMES
 
@@ -25,8 +28,10 @@ _pipeline = None
 
 def get_pipeline():
     global _pipeline
-    if _pipeline is None and MODEL_PATH.exists():
-        _pipeline = joblib.load(MODEL_PATH)
+    if _pipeline is None:
+        path = MODEL_PATH if MODEL_PATH.exists() else LEGACY_MODEL_PATH
+        if path.exists():
+            _pipeline = joblib.load(path)
     return _pipeline
 
 
@@ -83,13 +88,18 @@ def analyze(request: AnalyzeRequest):
 
     proba = pipeline.predict_proba(X)[0]
     class_order = pipeline.classes_  # e.g. array([0, 1, 2])
-    proba_by_label = {INVERSE_LABEL_MAP[int(c)].lower(): float(p) for c, p in zip(class_order, proba)}
+    proba_by_label = {"ham": 0.0, "phishing": 0.0, "spam": 0.0}
+    proba_by_label.update({INVERSE_LABEL_MAP[int(c)].lower(): float(p) for c, p in zip(class_order, proba)})
 
     predicted_class = int(class_order[proba.argmax()])
     classification = INVERSE_LABEL_MAP[predicted_class]
     confidence = float(proba.max())
 
-    risk = compute_risk(proba_by_label, sender_features, link_features, ad_features)
+    risk = compute_risk(
+        proba_by_label, sender_features, link_features, ad_features,
+        subject=request.subject, body=request.body, from_address=request.from_address,
+    )
+    classification, confidence = hybrid_classification(classification, confidence, risk)
     blocking_actions = recommend_blocking_actions(risk["risk_level"], ad_features)
 
     return AnalyzeResponse(

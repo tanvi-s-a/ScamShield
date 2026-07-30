@@ -1,0 +1,47 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "phishing_recall": 1.0,
+  "confusion_matrix": [
+    [
+      25,
+      0
+    ],
+    [
+      0,
+      125
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "Ham",
+    "Phishing"
+  ],
+  "classification_report": {
+    "Ham": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 25.0
+    },
+    "Phishing": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 125.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150.0
+    }
+  },
+  "test_size": 150
+}
